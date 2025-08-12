@@ -18,5 +18,5 @@ Follow me on Gitlab: https://gitlab.com/anshumanjadiya1102
  - 📕HTML (side language)
  - 🛠 Gitlab (side support)
  - 🎨Passion & Determination
-
+- ### If you like my work so follow me, so based on that I'll release more and more wondreful apps and codes...
 
