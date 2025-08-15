@@ -8,7 +8,7 @@ I'm a school student, a Java-learner with lot of dreams and hope in my eyes!!!
 Here are some ideas to get you started:-->
 - ## ⛺ Current Updates...
  Hi there git pals!!! Wanna see my recent updates and codes?                                                                                                                                So see below... Below are my amazing and wonderful works and updates!                            
- - Hey guys, A new, Earth-shaking information!!! Now My Number guessing game is available in three languages
+ - ### Hey guys, A new, Earth-shaking information!!! Now My Number guessing game is available in three languages
  - JAVA (main)
  - HTML (better GUI and CSS)
  - PYTHON (use tkinter for better use
