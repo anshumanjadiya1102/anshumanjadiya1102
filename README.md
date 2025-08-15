@@ -11,7 +11,7 @@ Here are some ideas to get you started:-->
  - ### Hey guys, A new, Earth-shaking information!!! Now My Number guessing game is available in three languages
  - JAVA (main)
  - HTML (better GUI and CSS)
- - PYTHON (use tkinter for better use
+ - PYTHON (use tkinter for better use)
  - SO, CHECK OUT : https://github.com/anshumanjadiya1102/Number-Guessing-Game
  - I'll give the code in C after crossing 5 followers. So hurry up and follow as soon as possible!
  -  ## 🔭My Priorities...
