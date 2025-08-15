@@ -23,6 +23,7 @@ Follow me on Gitlab: https://gitlab.com/anshumanjadiya1102
 -  ## 🌱 Current Progress...
  - ☕Java (main language)
  - 📕HTML (side language)
+ - 🗽Python (use will increase as followers will increase)
  - 🛠 Gitlab (side support)
  - Git and github desktop support 
  - 🎨Passion & Determination
