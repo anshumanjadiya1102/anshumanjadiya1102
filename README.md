@@ -8,7 +8,12 @@ I'm a school student, a Java-learner with lot of dreams and hope in my eyes!!!
 Here are some ideas to get you started:-->
 - ## ⛺ Current Updates...
  Hi there git pals!!! Wanna see my recent updates and codes?                                                                                                                                So see below... Below are my amazing and wonderful works and updates!                            
- - Here is my first Java game : https://github.com/anshumanjadiya1102/Number-Guessing-Game
+ - Hey guys, A new, Earth-shaking information!!! Now My Number guessing game is available in three languages
+ - JAVA (main)
+ - HTML (better GUI and CSS)
+ - PYTHON (use tkinter for better use
+ - SO, CHECK OUT : https://github.com/anshumanjadiya1102/Number-Guessing-Game
+ - I'll give the code in C after crossing 5 followers. So hurry up and follow as soon as possible!
  -  ## 🔭My Priorities...
  I’m currently focusing on learning more and more Java, creating better and better apps, and learning different-different languages...
 - ## 📫 How to reach me:
