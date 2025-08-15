@@ -25,7 +25,7 @@ Follow me on Gitlab: https://gitlab.com/anshumanjadiya1102
  - 📕HTML (side language)
  - 🗽Python (use will increase as followers will increase)
  - 🛠 Gitlab (side support)
- - Git and github desktop support 
+ - 🚀 Git and github desktop support 
  - 🎨Passion & Determination
 - ### If you like my work so follow me, so based on that I'll release more and more wondreful apps and codes...
 <img width="200" height="230" alt="Image" src="https://github.com/user-attachments/assets/62b387e2-1f0f-44ae-9ea9-64bb5ca684f2" />
