@@ -1,7 +1,8 @@
 # 👋Hello Every Github Souls! I'm Anshuman Jadiya
 Welcome to my profile...                                                                                                                                                                   
 Hmm...But you don't know about me. So lets get started...                                                                                                                                     
-I'm a school student, a Java-learner with lot of dreams and hope in my eyes!!!                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+I'm a school student, a Java-learner with lot of dreams and hope in my eyes!!!  
+<img width="300" height="300" alt="91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34" src="https://github.com/user-attachments/assets/8f4735aa-775c-4777-b728-86b650d8ac91" /> Awarded for fastest badge-earning
 <!--
 **anshumanjadiya1102/anshumanjadiya1102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -47,4 +48,4 @@ Follow me on Gitlab: https://gitlab.com/anshumanjadiya1102
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshumanjadiya1102&" alt="anshumanjadiya1102" /></p>
                                                                                                                                                                                          
-<img width="300" height="300" alt="91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34" src="https://github.com/user-attachments/assets/8f4735aa-775c-4777-b728-86b650d8ac91" />
+
