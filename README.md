@@ -35,7 +35,7 @@ Follow me on Gitlab: https://gitlab.com/anshumanjadiya1102
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshumanjadiya1102&label=Profile%20views&color=0e75b6&style=flat" alt="anshumanjadiya1102" /> </p>
 
-<p align="left" bg-color="black"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshumanjadiya1102" alt="anshumanjadiya1102" /></a> </p><br> <br><br><br><br><br>
+<p align="left" bg-color="black"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshumanjadiya1102" alt="anshumanjadiya1102" /></a> </p> <br><br><br><br>
 
 <p align="left">
 </p>
@@ -46,7 +46,7 @@ Follow me on Gitlab: https://gitlab.com/anshumanjadiya1102
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshumanjadiya1102&show_icons=true&locale=en&layout=compact" alt="anshumanjadiya1102" /></p><br>
  <br><br><br><br><br>                                                                                                                                                                                       
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshumanjadiya1102&show_icons=true&locale=en" alt="anshumanjadiya1102" /></p><br><br><br><br><br><br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshumanjadiya1102&show_icons=true&locale=en" alt="anshumanjadiya1102" /></p><br><br><br>
                                                                                                                                                                                         
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshumanjadiya1102&" alt="anshumanjadiya1102" /></p><br>
