@@ -29,14 +29,6 @@ Follow me on Gitlab: https://gitlab.com/anshumanjadiya1102
  - 🎨Passion & Determination
 - ### If you like my work so follow me, so based on that I'll release more and more wondreful apps and codes...
 <img width="200" height="230" alt="Image" src="https://github.com/user-attachments/assets/62b387e2-1f0f-44ae-9ea9-64bb5ca684f2" />
-<html>
- <style>
-body {
-  background-color: black;
- color:red;
-}
-</style>
- <body>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshumanjadiya1102&label=Profile%20views&color=0e75b6&style=flat" alt="anshumanjadiya1102" /> </p>
 
 <p align="left" bg-color="black"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshumanjadiya1102" alt="anshumanjadiya1102" /></a> </p>
@@ -52,6 +44,4 @@ body {
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshumanjadiya1102&show_icons=true&locale=en" alt="anshumanjadiya1102" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshumanjadiya1102&" alt="anshumanjadiya1102" /></p>
-</body>
-</html>
 
