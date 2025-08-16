@@ -2,8 +2,7 @@
 Welcome to my profile...                                                                                                                                                                   
 Hmm...But you don't know about me. So lets get started...                                                                                                                                     
 I'm a school student, a Java-learner with lot of dreams and hope in my eyes!!!  
-<img width="100" height="100" alt="91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34" src="https://github.com/user-attachments/assets/8f4735aa-775c-4777-b728-86b650d8ac91" />
-## Awarded for fastest badge-earning
+
 <!--
 **anshumanjadiya1102/anshumanjadiya1102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,7 +29,12 @@ Follow me on Gitlab: https://gitlab.com/anshumanjadiya1102
  - 🚀 Git and Github desktop support (Version control)
  - 🎨Passion & Determination
 - ### If you like my work so follow me, so based on that I'll release more and more wondreful apps and codes...
-<img width="200" height="230" alt="Image" src="https://github.com/user-attachments/assets/62b387e2-1f0f-44ae-9ea9-64bb5ca684f2" />
+- <img width="100" height="100" alt="91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34" src="https://github.com/user-attachments/assets/8f4735aa-775c-4777-b728-86b650d8ac91" />
+## Awarded for fastest badge-earning
+
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshumanjadiya1102&label=Profile%20views&color=0e75b6&style=flat" alt="anshumanjadiya1102" /> </p>
 
 <p align="left" bg-color="black"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshumanjadiya1102" alt="anshumanjadiya1102" /></a> </p>
