@@ -35,7 +35,7 @@ Follow me on Gitlab: https://gitlab.com/anshumanjadiya1102
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshumanjadiya1102&label=Profile%20views&color=0e75b6&style=flat" alt="anshumanjadiya1102" /> </p>
 
-<p align="left" bg-color="black"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshumanjadiya1102" alt="anshumanjadiya1102" /></a> </p> <br><br>
+<p align="left" bg-color="black"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshumanjadiya1102" alt="anshumanjadiya1102" /></a> </p>
 <p align="left">
 </p>
 <h3 align="left">Languages and Tools:</h3>
