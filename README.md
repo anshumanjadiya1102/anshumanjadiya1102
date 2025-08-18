@@ -11,7 +11,7 @@ Here are some ideas to get you started:-->
  Hi there git pals!!! Wanna see my recent updates and codes?                                                                                                                                So see below... Below are my amazing and wonderful works and updates!                            
  - ### Hey guys, A new, Earth-shaking information!!! Now My Football Game is available 
  - SO, CHECK OUT : https://github.com/anshumanjadiya1102/Football_Game
- - I'll give the code in C after crossing 5 followers. So hurry up and follow as soon as possible!
+## - I'll give the Number guessing game code in C after crossing 5 followers. So hurry up and follow as soon as possible!
 
  - A new basketball game is now available check it out in repository section...   
  -  ## 🔭My Priorities...
