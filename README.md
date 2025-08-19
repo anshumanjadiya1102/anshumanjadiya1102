@@ -34,7 +34,7 @@ Support me on Bitbucket: https://bitbucket.org/anshumanjadiya1102/workspace/over
 
 <p align="centre"> <img src="https://komarev.com/ghpvc/?username=anshumanjadiya1102&label=Profile%20views&color=0e75b6&style=dracula" alt="anshumanjadiya1102" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshumanjadiya1102" alt="anshumanjadiya1102" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshumanjadiya1102&style=dracula" alt="anshumanjadiya1102" /></a> </p>
 
 <p align="centre">
 </p>
