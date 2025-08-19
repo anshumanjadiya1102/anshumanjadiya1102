@@ -30,7 +30,7 @@ Support me on Bitbucket: https://bitbucket.org/anshumanjadiya1102/workspace/over
 
 
 
-
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshumanjadiya1102&label=Profile%20views&color=0e75b6&style=flat" alt="anshumanjadiya1102" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshumanjadiya1102" alt="anshumanjadiya1102" /></a> </p>
