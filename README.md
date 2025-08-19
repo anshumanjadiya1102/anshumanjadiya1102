@@ -36,7 +36,7 @@ Support me on Bitbucket: https://bitbucket.org/anshumanjadiya1102/workspace/over
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshumanjadiya1102" alt="anshumanjadiya1102" /></a> </p>
 
-<p align="left">
+<p align="centre">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
