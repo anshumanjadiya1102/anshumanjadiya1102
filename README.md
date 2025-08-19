@@ -34,7 +34,29 @@ Support me on Bitbucket: https://bitbucket.org/anshumanjadiya1102/workspace/over
 
 <p align="centre"> <img src="https://komarev.com/ghpvc/?username=anshumanjadiya1102&label=Profile%20views&color=0e75b6&style=dracula" alt="anshumanjadiya1102" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshumanjadiya1102&style=dracula" alt="anshumanjadiya1102" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshumanjadiya1102&style=dracula: {
+    BACKGROUND: "#282a36",
+    TITLE: "#ff79c6",
+    ICON_CIRCLE: "#f8f8f2",
+    TEXT: "#f8f8f2",
+    LAUREL: "#50fa7b",
+    SECRET_RANK_1: "#ff5555",
+    SECRET_RANK_2: "#ff79c6",
+    SECRET_RANK_3: "#bd93f9",
+    SECRET_RANK_TEXT: "#bd93f9",
+    NEXT_RANK_BAR: "#ff79c6",
+    S_RANK_BASE: "#ffb86c",
+    S_RANK_SHADOW: "#ffb86c",
+    S_RANK_TEXT: "#6272a4",
+    A_RANK_BASE: "#8be9fd",
+    A_RANK_SHADOW: "#8be9fd",
+    A_RANK_TEXT: "#6272a4",
+    B_RANK_BASE: "#ff5555",
+    B_RANK_SHADOW: "#ff5555",
+    B_RANK_TEXT: "#6272a4",
+    DEFAULT_RANK_BASE: "#6272a4",
+    DEFAULT_RANK_SHADOW: "#6272a4",
+    DEFAULT_RANK_TEXT: "#6272a4"," alt="anshumanjadiya1102" /></a> </p>
 
 <p align="centre">
 </p>
