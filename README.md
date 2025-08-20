@@ -13,7 +13,7 @@ Here are some ideas to get you started:-->
  - 📕HTML (side language)
  - 🗽Python (use will increase as followers will increase)
  - 🛠 Gitlab (side support and CI/CD)
- - 🚀 Git and Github desktop support (Version control)
+ - 🚀 Git and Github desktop support (Version control)(https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
  - 🏞 Bitbucket (with Jira)
  - 🎨Passion & Determination
 - ## ⛺ Current Updates...
