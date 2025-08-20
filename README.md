@@ -9,7 +9,7 @@ I'm a school student, a Java-learner with lot of dreams and hope in my eyes!!!
 
 Here are some ideas to get you started:-->
 -  ## 🌱 Current Stack
- - ☕Java (main language) <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+ - ☕Java (main language) ![Java] <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
  - 📕HTML (side language)
  - 🗽Python (use will increase as followers will increase)
  - 🛠 Gitlab (side support and CI/CD)
