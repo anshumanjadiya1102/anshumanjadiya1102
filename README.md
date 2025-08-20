@@ -23,8 +23,9 @@ Support me on Bitbucket: https://bitbucket.org/anshumanjadiya1102/workspace/over
  - ☕Java (main language)
  - 📕HTML (side language)
  - 🗽Python (use will increase as followers will increase)
- - 🛠 Gitlab (side support)
+ - 🛠 Gitlab (side support and CI/CD)
  - 🚀 Git and Github desktop support (Version control)
+ - 🏞 Bitbucket (with Jira)
  - 🎨Passion & Determination
 - ### If you like my work so follow me, so based on that I'll release more and more wondreful apps and codes...
 
