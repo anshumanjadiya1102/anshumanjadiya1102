@@ -8,6 +8,14 @@ I'm a school student, a Java-learner with lot of dreams and hope in my eyes!!!
 **anshumanjadiya1102/anshumanjadiya1102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
+-  ## 🌱 Current Progress...
+ - ☕Java (main language)
+ - 📕HTML (side language)
+ - 🗽Python (use will increase as followers will increase)
+ - 🛠 Gitlab (side support and CI/CD)
+ - 🚀 Git and Github desktop support (Version control)
+ - 🏞 Bitbucket (with Jira)
+ - 🎨Passion & Determination
 - ## ⛺ Current Updates...
  Hi there git pals!!! Wanna see my recent updates and codes?                                                                                                                                So see below... Below are my amazing and wonderful works and updates!                            
  - ### Hey guys, A new, Earth-shaking information!!! Now My Football Game is available 
@@ -19,14 +27,7 @@ You can contact me through Gmail: anshuman.jadiya03@gmail.com
 Support me on Github: https://github.com/anshumanjadiya1102                                                                                                                                
 Follow me on Gitlab: https://gitlab.com/anshumanjadiya1102 <br>
 Support me on Bitbucket: https://bitbucket.org/anshumanjadiya1102/workspace/overview/
--  ## 🌱 Current Progress...
- - ☕Java (main language)
- - 📕HTML (side language)
- - 🗽Python (use will increase as followers will increase)
- - 🛠 Gitlab (side support and CI/CD)
- - 🚀 Git and Github desktop support (Version control)
- - 🏞 Bitbucket (with Jira)
- - 🎨Passion & Determination
+
 - ### If you like my work so follow me, so based on that I'll release more and more wondreful apps and codes...
 
 
