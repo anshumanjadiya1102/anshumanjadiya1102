@@ -21,7 +21,7 @@ Follow me on Gitlab: https://gitlab.com/anshumanjadiya1102 <br>
 Support me on Bitbucket: https://bitbucket.org/anshumanjadiya1102/workspace/overview/
 -  ## 🌱 Current Progress...
  - ☕Java (main language)
- - 📕HTML (side language)
+ - 📕HTML (side language)<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
  - 🗽Python (use will increase as followers will increase)
  - 🛠 Gitlab (side support and CI/CD)
  - 🚀 Git and Github desktop support (Version control)
