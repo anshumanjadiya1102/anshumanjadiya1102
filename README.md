@@ -8,7 +8,7 @@ I'm a school student, a Java-learner with lot of dreams and hope in my eyes!!!
 **anshumanjadiya1102/anshumanjadiya1102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
--  ## 🌱 Current Progress...
+-  ## 🌱 Current Stack
  - ☕Java (main language)
  - 📕HTML (side language)
  - 🗽Python (use will increase as followers will increase)
