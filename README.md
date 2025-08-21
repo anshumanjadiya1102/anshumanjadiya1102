@@ -22,10 +22,10 @@ Here are some ideas to get you started:-->
  Hi there git pals!!! Wanna see my recent updates and codes?                                                                                                                                So see below... Below are my amazing and wonderful works and updates!                            
  - ### Hey guys, A new, Earth-shaking information!!! Now My Football Game is available 
  - SO, CHECK OUT : https://github.com/anshumanjadiya1102/Football_Game
-  
+ <details> 
 <summary> 🔭My Priorities...</summary>
    
- <details> I’m currently focusing on learning more and more Java, creating better and better apps, and learning different-different languages...</details>
+  I’m currently focusing on learning more and more Java, creating better and better apps, and learning different-different languages...</details>
 - ## 📫 How to reach me:
 You can contact me through Gmail: anshuman.jadiya03@gmail.com                                                                                                                              
 Support me on Github: https://github.com/anshumanjadiya1102                                                                                                                                
