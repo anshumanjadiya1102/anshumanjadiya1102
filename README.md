@@ -27,8 +27,6 @@ You can contact me through Gmail: anshuman.jadiya03@gmail.com
 Support me on Github: https://github.com/anshumanjadiya1102                                                                                                                                
 Follow me on Gitlab: https://gitlab.com/anshumanjadiya1102 <br>
 Support me on Bitbucket: https://bitbucket.org/anshumanjadiya1102/workspace/overview/
-
-- ### If you like my work so follow me, so based on that I'll release more and more wondreful apps and codes...
 - ###### Hey there!!! I have finally created my own website: https://anshumanjadiya1102.github.io
 
 <!--- 1st Section on Curated Articles -->
