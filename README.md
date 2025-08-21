@@ -33,7 +33,7 @@ Support me on Bitbucket: https://bitbucket.org/anshumanjadiya1102/workspace/over
 
 <!--- 1st Section on Curated Articles -->
 - ## <b> 🔭My Priorities</b>
-  I’m currently focusing on learning more and more Java, creating better and better apps, and learning different-different languages...<br>
+  I’m currently focusing on learning more and more Java, creating better and better apps, and learning different-different languages...<br> <img src="https://i.pinimg.com/originals/46/41/61/4641611401ecb508c625eebe448da663.gif">
   As I have created my own website, Now I'm on the way to create my own suite, "Beauty_Java_Suite"<br>
   Support me more & more for this mega-project...<br>
 
