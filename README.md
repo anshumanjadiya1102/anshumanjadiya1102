@@ -9,7 +9,7 @@ I'm a school student, a Java-learner with lot of dreams and hope in my eyes!!!
 
 Here are some ideas to get you started:-->
 -  ## 🌱 Current Stack
- - ☕Java (main language) ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+ - ☕Java (main language) ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right" align="right"> 
  - 📕HTML (side language with CSS)<img src="https://img.shields.io/badge/-HTML5-DE5934?logo=HTML5&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-CSS3-2275B2?logo=CSS3&logoColor=white&style=flat"> &nbsp;
  - 🗽Python (use will increase as followers will increase) <img src="https://img.shields.io/badge/-python-437CAC?logo=python&logoColor=white&style=flat">
