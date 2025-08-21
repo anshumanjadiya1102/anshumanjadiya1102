@@ -29,11 +29,13 @@ Follow me on Gitlab: https://gitlab.com/anshumanjadiya1102 <br>
 Support me on Bitbucket: https://bitbucket.org/anshumanjadiya1102/workspace/overview/
 
 - ### If you like my work so follow me, so based on that I'll release more and more wondreful apps and codes...
-   <details> 
- <summary> 🔭My Priorities...</summary> 
+  <details>	
+ <summary>
+<!--- 1st Section on Curated Articles -->
+<b> 🔭My Priorities</b></summary><br>
+<br> 
   I’m currently focusing on learning more and more Java, creating better and better apps, and learning different-different languages...
-  </details>
-
+</details> 
 
 
 
