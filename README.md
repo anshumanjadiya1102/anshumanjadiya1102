@@ -23,9 +23,9 @@ Here are some ideas to get you started:-->
  - ### Hey guys, A new, Earth-shaking information!!! Now My Football Game is available 
  - SO, CHECK OUT : https://github.com/anshumanjadiya1102/Football_Game
   
-<details>  🔭My Priorities...</details>
+<summary> 🔭My Priorities...</summary>
    
- I’m currently focusing on learning more and more Java, creating better and better apps, and learning different-different languages...
+ <details> I’m currently focusing on learning more and more Java, creating better and better apps, and learning different-different languages...</details>
 - ## 📫 How to reach me:
 You can contact me through Gmail: anshuman.jadiya03@gmail.com                                                                                                                              
 Support me on Github: https://github.com/anshumanjadiya1102                                                                                                                                
