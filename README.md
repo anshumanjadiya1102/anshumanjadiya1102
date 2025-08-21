@@ -30,9 +30,9 @@ Support me on Bitbucket: https://bitbucket.org/anshumanjadiya1102/workspace/over
 
 - ### If you like my work so follow me, so based on that I'll release more and more wondreful apps and codes...
    <details> 
- <summary> 🔭My Priorities...</summary>
-   
-  I’m currently focusing on learning more and more Java, creating better and better apps, and learning different-different languages...</details>
+ <summary> 🔭My Priorities...</summary> 
+  I’m currently focusing on learning more and more Java, creating better and better apps, and learning different-different languages...
+  </details>
 
 
 
