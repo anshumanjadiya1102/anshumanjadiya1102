@@ -9,12 +9,14 @@ I'm a school student, a Java-learner with lot of dreams and hope in my eyes!!!
 
 Here are some ideas to get you started:-->
 -  ## 🌱 Current Stack
- - ☕Java (main language) ![Java] <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
- - 📕HTML (side language)
- - 🗽Python (use will increase as followers will increase)
+ - ☕Java (main language)<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+ - 📕HTML (side language)<img src="https://img.shields.io/badge/-HTML5-DE5934?logo=HTML5&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-CSS3-2275B2?logo=CSS3&logoColor=white&style=flat"> &nbsp;
+ - 🗽Python (use will increase as followers will increase)<img src="https://img.shields.io/badge/-python-437CAC?logo=python&logoColor=white&style=flat">
  - 🛠 Gitlab (side support and CI/CD)
  - 🚀 Git and Github desktop support (Version control)  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
  - 🏞 Bitbucket (with Jira)
+ - Visual Studio Code <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-25AEF4?logo=visualstudio&logoColor=white&style=flat">
  - 🎨Passion & Determination
 - ## ⛺ Current Updates...
  Hi there git pals!!! Wanna see my recent updates and codes?                                                                                                                                So see below... Below are my amazing and wonderful works and updates!                            
