@@ -16,7 +16,7 @@ Here are some ideas to get you started:-->
  - 🛠 Gitlab (side support and CI/CD)
  - 🚀 Git and Github desktop support (Version control)  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
  - 🏞 Bitbucket (with Jira)
- - Visual Studio Code <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-25AEF4?logo=visualstudio&logoColor=white&style=flat">
+ - ⚓Visual Studio Code <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-25AEF4?logo=visualstudio&logoColor=white&style=flat">
  - 🎨Passion & Determination
 - ## ⛺ Current Updates...
  Hi there git pals!!! Wanna see my recent updates and codes?                                                                                                                                So see below... Below are my amazing and wonderful works and updates!                            
