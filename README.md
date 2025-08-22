@@ -26,7 +26,8 @@ Here are some ideas to get you started:-->
 You can contact me through Gmail: anshuman.jadiya03@gmail.com                                                                                                                              
 Support me on Github: https://github.com/anshumanjadiya1102                                                                                                                                
 Follow me on Gitlab: https://gitlab.com/anshumanjadiya1102 <br>
-Support me on Bitbucket: https://bitbucket.org/anshumanjadiya1102/workspace/overview/
+Support me on Bitbucket: https://bitbucket.org/anshumanjadiya1102/workspace/overview/<br>
+Connect to me on Discord: https://discord.gg/JydSGaBN
 - ###### Hey there!!! I have finally created my own website: https://anshumanjadiya1102.github.io
 
 <!--- 1st Section on Curated Articles -->
