@@ -27,7 +27,7 @@ You can contact me through Gmail: anshuman.jadiya03@gmail.com
 Support me on Github: https://github.com/anshumanjadiya1102                                                                                                                                
 Follow me on Gitlab: https://gitlab.com/anshumanjadiya1102 <br>
 Support me on Bitbucket: https://bitbucket.org/anshumanjadiya1102/workspace/overview/
-<p align="left">Connect to me on Discord<a href="https://discord.gg/https://discord.gg/JydSGaBN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/JydSGaBN" height="30" width="40" /></a></p> 
+<p align="left">Connect to me on Discord https://discord.gg/JydSGaBN <a href="https://discord.gg/https://discord.gg/JydSGaBN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/JydSGaBN" height="30" width="40" /></a></p> 
 
 
 - ## 🌐Websites
