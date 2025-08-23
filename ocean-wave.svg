@@ -6,6 +6,12 @@
       <circle cx="1" cy="1" r="1" fill="white"/>
     </symbol>
 
+    <!-- Moonlight reflection gradient -->
+    <linearGradient id="moonlight" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="white" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="white" stop-opacity="0"/>
+    </linearGradient>
+
     <style><![CDATA[
       /* Twinkling stars */
       @keyframes twinkle {
@@ -17,18 +23,25 @@
       .star3 { animation: twinkle 5s infinite; }
       .star4 { animation: twinkle 6s infinite; }
       .star5 { animation: twinkle 7s infinite; }
+
+      /* Shimmering reflection */
+      @keyframes shimmer {
+        0%, 100% { opacity: 0.4; }
+        50% { opacity: 0.8; }
+      }
+      .reflection { animation: shimmer 6s ease-in-out infinite; }
     ]]></style>
   </defs>
 
-  <!-- Full black background (sky + sea) -->
+  <!-- Sky background -->
   <rect width="100%" height="100%" fill="#000000"/>
 
-  <!-- Perfect circular Moon with glow -->
+  <!-- Moon (perfect glowing circle) -->
   <circle cx="1300" cy="70" r="45" fill="#fdfdfd"/>
   <circle cx="1300" cy="70" r="70" fill="white" opacity="0.15"/>
   <circle cx="1300" cy="70" r="100" fill="white" opacity="0.08"/>
 
-  <!-- Lots of stars -->
+  <!-- Stars -->
   <use href="#star" x="150" y="40" width="3" height="3" class="star1"/>
   <use href="#star" x="280" y="80" width="2" height="2" class="star2"/>
   <use href="#star" x="400" y="30" width="3" height="3" class="star3"/>
@@ -40,34 +53,44 @@
   <use href="#star" x="1120" y="40" width="3" height="3" class="star4"/>
   <use href="#star" x="1220" y="100" width="2" height="2" class="star2"/>
   <use href="#star" x="1350" y="30" width="3" height="3" class="star1"/>
-  <use href="#star" x="200" y="120" width="2" height="2" class="star3"/>
-  <use href="#star" x="340" y="60" width="2" height="2" class="star5"/>
-  <use href="#star" x="460" y="110" width="3" height="3" class="star2"/>
-  <use href="#star" x="580" y="30" width="2" height="2" class="star1"/>
-  <use href="#star" x="700" y="100" width="3" height="3" class="star4"/>
-  <use href="#star" x="820" y="50" width="2" height="2" class="star2"/>
-  <use href="#star" x="940" y="80" width="3" height="3" class="star5"/>
-  <use href="#star" x="1080" y="20" width="2" height="2" class="star3"/>
-  <use href="#star" x="1200" y="60" width="2" height="2" class="star4"/>
-  <use href="#star" x="1320" y="90" width="3" height="3" class="star1"/>
 
-  <!-- Back wave (dark bluish gray) -->
-  <path fill="#0a2a43" fill-opacity="0.6">
-    <animate attributeName="d" dur="12s" repeatCount="indefinite"
+  <!-- Moonlight reflection (rippling) -->
+  <path fill="url(#moonlight)" class="reflection">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite"
       values="
-        M0,224L48,213.3C96,203,192,181,288,176C384,171,480,181,576,186.7C672,192,768,192,864,181.3C960,171,1056,149,1152,154.7C1248,160,1344,192,1392,208L1440,224L1440,320L0,320Z;
-        M0,200L48,190C96,180,192,160,288,170C384,180,480,210,576,215C672,220,768,200,864,190C960,180,1056,170,1152,185C1248,200,1344,230,1392,240L1440,250L1440,320L0,320Z;
-        M0,224L48,213.3C96,203,192,181,288,176C384,171,480,181,576,186.7C672,192,768,192,864,181.3C960,171,1056,149,1152,154.7C1248,160,1344,192,1392,208L1440,224L1440,320L0,320Z
+        M1250,120 Q1300,160 1350,120 L1350,320 L1250,320Z;
+        M1250,120 Q1300,180 1350,120 L1350,320 L1250,320Z;
+        M1250,120 Q1300,160 1350,120 L1350,320 L1250,320Z
       "/>
   </path>
 
-  <!-- Front wave (lighter gray-blue, transparent) -->
-  <path fill="#1e3d59" fill-opacity="0.4">
-    <animate attributeName="d" dur="8s" repeatCount="indefinite"
+  <!-- Back wave -->
+  <path fill="#0a2a43" fill-opacity="0.7">
+    <animate attributeName="d" dur="15s" repeatCount="indefinite"
       values="
-        M0,250L60,240C120,230,240,210,360,220C480,230,600,260,720,265C840,270,960,250,1080,240C1200,230,1320,240,1380,250L1440,260L1440,320L0,320Z;
-        M0,230L60,220C120,210,240,200,360,210C480,220,600,250,720,255C840,260,960,240,1080,230C1200,220,1320,230,1380,240L1440,250L1440,320L0,320Z;
-        M0,250L60,240C120,230,240,210,360,220C480,230,600,260,720,265C840,270,960,250,1080,240C1200,230,1320,240,1380,250L1440,260L1440,320L0,320Z
+        M0,240 C360,280 1080,200 1440,240 L1440,320 L0,320Z;
+        M0,230 C360,250 1080,270 1440,230 L1440,320 L0,320Z;
+        M0,240 C360,280 1080,200 1440,240 L1440,320 L0,320Z
+      "/>
+  </path>
+
+  <!-- Middle wave -->
+  <path fill="#163d5a" fill-opacity="0.5">
+    <animate attributeName="d" dur="12s" repeatCount="indefinite"
+      values="
+        M0,250 C360,220 1080,280 1440,250 L1440,320 L0,320Z;
+        M0,260 C360,240 1080,260 1440,260 L1440,320 L0,320Z;
+        M0,250 C360,220 1080,280 1440,250 L1440,320 L0,320Z
+      "/>
+  </path>
+
+  <!-- Front wave -->
+  <path fill="#1e5c82" fill-opacity="0.4">
+    <animate attributeName="d" dur="10s" repeatCount="indefinite"
+      values="
+        M0,270 C480,300 960,240 1440,270 L1440,320 L0,320Z;
+        M0,280 C480,260 960,280 1440,280 L1440,320 L0,320Z;
+        M0,270 C480,300 960,240 1440,270 L1440,320 L0,320Z
       "/>
   </path>
 </svg>
