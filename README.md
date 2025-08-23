@@ -91,6 +91,22 @@ Support me on Bitbucket: https://bitbucket.org/anshumanjadiya1102/workspace/over
 </div>
 
 ---
+<table align="center">
+<tr>
+<td align="center">
+<h3>🚀 Featured Projects</h3>
+</td>
+</tr>
+<tr>
+<td>
+
+| Project | Description | Stars |
+|---------|-------------|--------|-------|
+| [☕Java_Beauty_Calculator](https://github.com/anshumanjadiya1102/Java_Beauty_Calculator.git) | [![Stars](https://img.shields.io/github/stars/anshumanjadiya1102/Java_Beauty_Calculator?style=flat-square)](https://github.com/anshumanjadiya1102/Java_Beauty_Calculator) |
+
+</td>
+</tr>
+</table>
 
 ---
 
