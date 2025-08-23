@@ -1,18 +1,4 @@
-<!-- README.md -->
 
-<div align="center">
-
-  <!-- Background image -->
-  <img src="./stars-nebula.svg" alt="Stars & Nebula Background" width="100%"/>
-
-  <!-- Overlay content -->
-  <div style="margin-top:-360px; margin-bottom:180px;">
-    <h1 style="color:white; font-size:48px; font-weight:bold; text-shadow:0 0 8px #00f, 0 0 12px #0ff;">
-      ✨ Welcome to My Universe ✨
-    </h1>
-    <p style="color:#d0e7ff; font-size:20px; max-width:800px; margin:auto; text-shadow:0 0 5px #000;">
-      Exploring the cosmos with code — creative projects, experiments, and ideas orbiting around technology 🚀
-    </p>
  # 👋Hello Every Github Souls! I'm Anshuman Jadiya
 Welcome to my profile...                                                                                                                                                                  
 Hmm...But you don't know about me. So lets get started... 
