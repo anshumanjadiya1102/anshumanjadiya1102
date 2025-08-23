@@ -5,13 +5,11 @@ I'm a school student, a Java-learner with lot of dreams and hope in my eyes!!!
 Wanna Connect to me: <br>
 - Discord [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/JydSGaBN) <br>
 - E-mail [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anshuman.jadiya03@gmail.com) <br>
+[![GitHub followers](https://img.shields.io/github/followers/anshumanjadiya1102?label=Followers&style=social)](https://github.com/anshumanjadiya1102)
+[![GitHub stars](https://img.shields.io/github/stars/anshumanjadiya1102?label=Stars&style=social)](https://github.com/anshumanjadiya1102)
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C03&center=true&vCenter=true&width=435&lines=Frontend+Developer;Java+Enthusiast;HTML+Knower;Open+Source+Contributor)](https://git.io/typing-svg)
-
-![Profile Views](https://komarev.com/ghpvc/?username=anshumanjadiya1102&color=orange&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/anshumanjadiya1102?label=Followers&style=social)](https://github.com/anshumanjadiya1102)
-[![GitHub stars](https://img.shields.io/github/stars/anshumanjadiya1102?label=Stars&style=social)](https://github.com/anshumanjadiya1102)
 
 </div>
 
@@ -74,7 +72,7 @@ Support me on Bitbucket: https://bitbucket.org/anshumanjadiya1102/workspace/over
 
 - ## Other Information
   
-<p align="centre"> <img src="https://komarev.com/ghpvc/?username=anshumanjadiya1102&label=Profile%20views&color=0e75b6&style=dracula" alt="anshumanjadiya1102" /> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=anshumanjadiya1102&color=orange&style=flat-square)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
