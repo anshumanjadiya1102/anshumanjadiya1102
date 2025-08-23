@@ -18,7 +18,7 @@
       <circle cx="12" cy="13" r="1.5" fill="black"/>
     </symbol>
 
-    <!-- Small fish for variety -->
+    <!-- Fish shape -->
     <symbol id="fish" viewBox="0 0 40 20">
       <ellipse cx="12" cy="10" rx="12" ry="6" fill="#ff9933"/>
       <polygon points="24,5 40,10 24,15" fill="#ff9933"/>
@@ -28,32 +28,49 @@
     <style><![CDATA[
       .swimmer {
         opacity: 0;
-        transform: translateX(-80px);
+        transform: translateX(-100px);
       }
       @keyframes swim {
-        0%   { transform: translateX(-80px); opacity: 0; }
+        0%   { transform: translateX(-100px); opacity: 0; }
         10%  { opacity: 1; }
         50%  { transform: translateX(720px); opacity: 1; }
         90%  { opacity: 1; }
         100% { transform: translateX(1500px); opacity: 0; }
       }
       .shark1 { animation: swim 25s linear infinite; animation-delay: 5s; }
-      .shark2 { animation: swim 28s linear infinite; animation-delay: 18s; }
-      .dolphin1 { animation: swim 22s linear infinite; animation-delay: 10s; }
-      .dolphin2 { animation: swim 24s linear infinite; animation-delay: 20s; }
+      .shark2 { animation: swim 28s linear infinite; animation-delay: 15s; }
+      .dolphin1 { animation: swim 22s linear infinite; animation-delay: 8s; }
+      .dolphin2 { animation: swim 26s linear infinite; animation-delay: 18s; }
       .fish1 { animation: swim 18s linear infinite; animation-delay: 3s; }
       .fish2 { animation: swim 20s linear infinite; animation-delay: 12s; }
     ]]></style>
   </defs>
 
-  <!-- Realistic ocean background (dark blue gradient) -->
+  <!-- Dark ocean gradient -->
   <linearGradient id="oceanGradient" x1="0" y1="0" x2="0" y2="1">
     <stop offset="0%" stop-color="#001f3f"/>
     <stop offset="100%" stop-color="#001233"/>
   </linearGradient>
 
-  <!-- Wavy ocean -->
-  <path fill="url(#oceanGradient)" fill-opacity="1" d="M0,224L48,213.3C96,203,192,181,288,176C384,171,480,181,576,186.7C672,192,768,192,864,181.3C960,171,1056,149,1152,154.7C1248,160,1344,192,1392,208L1440,224L1440,320L0,320Z"></path>
+  <!-- Back wave (dark) -->
+  <path fill="url(#oceanGradient)" fill-opacity="1">
+    <animate attributeName="d" dur="12s" repeatCount="indefinite"
+      values="
+        M0,224L48,213.3C96,203,192,181,288,176C384,171,480,181,576,186.7C672,192,768,192,864,181.3C960,171,1056,149,1152,154.7C1248,160,1344,192,1392,208L1440,224L1440,320L0,320Z;
+        M0,200L48,190C96,180,192,160,288,170C384,180,480,210,576,215C672,220,768,200,864,190C960,180,1056,170,1152,185C1248,200,1344,230,1392,240L1440,250L1440,320L0,320Z;
+        M0,224L48,213.3C96,203,192,181,288,176C384,171,480,181,576,186.7C672,192,768,192,864,181.3C960,171,1056,149,1152,154.7C1248,160,1344,192,1392,208L1440,224L1440,320L0,320Z
+      "/>
+  </path>
+
+  <!-- Front wave (lighter + semi-transparent) -->
+  <path fill="#3399ff" fill-opacity="0.4">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite"
+      values="
+        M0,250L60,240C120,230,240,210,360,220C480,230,600,260,720,265C840,270,960,250,1080,240C1200,230,1320,240,1380,250L1440,260L1440,320L0,320Z;
+        M0,230L60,220C120,210,240,200,360,210C480,220,600,250,720,255C840,260,960,240,1080,230C1200,220,1320,230,1380,240L1440,250L1440,320L0,320Z;
+        M0,250L60,240C120,230,240,210,360,220C480,230,600,260,720,265C840,270,960,250,1080,240C1200,230,1320,240,1380,250L1440,260L1440,320L0,320Z
+      "/>
+  </path>
 
   <!-- Sharks -->
   <use href="#shark" x="0" y="140" width="80" height="40" class="swimmer shark1"/>
