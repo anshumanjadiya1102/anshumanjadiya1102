@@ -5,7 +5,7 @@ I'm a school student, a Java-learner with lot of dreams and hope in my eyes!!!
 Wanna Connect to me: <br>
 - Discord [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/JydSGaBN) <br>
 - E-mail [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anshuman.jadiya03@gmail.com) <br>
-[![GitHub followers](https://img.shields.io/github/followers/anshumanjadiya1102?label=Followers&style=social)](https://github.com/anshumanjadiya1102)
+- [![GitHub followers](https://img.shields.io/github/followers/anshumanjadiya1102?label=Followers&style=social)](https://github.com/anshumanjadiya1102)
 [![GitHub stars](https://img.shields.io/github/stars/anshumanjadiya1102?label=Stars&style=social)](https://github.com/anshumanjadiya1102)
 <div align="center">
   
