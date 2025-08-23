@@ -92,7 +92,7 @@ Support me on Bitbucket: https://bitbucket.org/anshumanjadiya1102/workspace/over
 }
 ```
 
-<img src="./ocean-wave.svg" alt="Night Ocean with Moon and Stars" width="100%" height="250"/>
+<img src="./ocean-wave.svg" alt="Night Ocean with Moon and Stars" width="100%" height="320"/>
 
 
 ###### anshumanjadiya1102_________________________________________________________________________________________________________© 2025 README.md. Crafted with ❤️
