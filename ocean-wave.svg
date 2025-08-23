@@ -1,54 +1,38 @@
 <!-- ocean-wave.svg -->
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320" width="100%" height="320" preserveAspectRatio="none">
   <defs>
-    <!-- Shark shape -->
-    <symbol id="shark" viewBox="0 0 80 30">
-      <ellipse cx="35" cy="15" rx="35" ry="10" fill="#2c3e50"/>
-      <polygon points="65,10 80,15 65,20" fill="#2c3e50"/>
-      <polygon points="30,0 40,15 30,15" fill="#2c3e50"/>
-      <circle cx="20" cy="13" r="2" fill="white"/>
-      <circle cx="20" cy="13" r="1" fill="black"/>
-    </symbol>
-
-    <!-- Dolphin shape -->
-    <symbol id="dolphin" viewBox="0 0 70 30">
-      <ellipse cx="30" cy="15" rx="28" ry="8" fill="#3f5c7d"/>
-      <polygon points="58,12 70,15 58,18" fill="#3f5c7d"/>
-      <polygon points="26,5 38,15 26,15" fill="#3f5c7d"/>
-      <circle cx="15" cy="13" r="1.5" fill="black"/>
-    </symbol>
-
-    <!-- Realistic fish (slimmer body, fins, tail) -->
-    <symbol id="fish" viewBox="0 0 50 20">
-      <ellipse cx="20" cy="10" rx="18" ry="6" fill="#c0c0c0"/>
-      <polygon points="38,5 50,10 38,15" fill="#c0c0c0"/>
-      <polygon points="12,4 18,10 12,10" fill="#c0c0c0"/>
-      <circle cx="10" cy="9" r="1.5" fill="black"/>
+    <!-- Stars -->
+    <symbol id="star" viewBox="0 0 2 2">
+      <circle cx="1" cy="1" r="1" fill="white"/>
     </symbol>
 
     <style><![CDATA[
-      .swimmer {
-        opacity: 0;
-        transform: translateX(-100px);
+      /* Twinkling stars */
+      @keyframes twinkle {
+        0%, 100% { opacity: 0.9; }
+        50% { opacity: 0.2; }
       }
-      @keyframes swim {
-        0%   { transform: translateX(-100px); opacity: 0; }
-        10%  { opacity: 1; }
-        50%  { transform: translateX(720px); opacity: 1; }
-        90%  { opacity: 1; }
-        100% { transform: translateX(1500px); opacity: 0; }
-      }
-      .shark1 { animation: swim 25s linear infinite; animation-delay: 5s; }
-      .shark2 { animation: swim 28s linear infinite; animation-delay: 15s; }
-      .dolphin1 { animation: swim 22s linear infinite; animation-delay: 8s; }
-      .dolphin2 { animation: swim 26s linear infinite; animation-delay: 18s; }
-      .fish1 { animation: swim 18s linear infinite; animation-delay: 3s; }
-      .fish2 { animation: swim 20s linear infinite; animation-delay: 12s; }
+      .star1 { animation: twinkle 3s infinite; }
+      .star2 { animation: twinkle 5s infinite; }
+      .star3 { animation: twinkle 4s infinite; }
+      .star4 { animation: twinkle 6s infinite; }
     ]]></style>
   </defs>
 
-  <!-- Full black ocean background -->
+  <!-- Full black ocean + sky background -->
   <rect width="100%" height="100%" fill="#000000"/>
+
+  <!-- Moon -->
+  <circle cx="1300" cy="60" r="40" fill="#f4f4f4"/>
+  <circle cx="1300" cy="60" r="60" fill="white" opacity="0.2"/>
+
+  <!-- Stars in the sky -->
+  <use href="#star" x="200" y="50" width="3" height="3" class="star1"/>
+  <use href="#star" x="400" y="80" width="2" height="2" class="star2"/>
+  <use href="#star" x="600" y="40" width="3" height="3" class="star3"/>
+  <use href="#star" x="800" y="70" width="2" height="2" class="star4"/>
+  <use href="#star" x="1000" y="30" width="3" height="3" class="star1"/>
+  <use href="#star" x="1150" y="90" width="2" height="2" class="star3"/>
 
   <!-- Back wave (dark bluish gray) -->
   <path fill="#0a2a43" fill-opacity="0.6">
@@ -69,16 +53,4 @@
         M0,250L60,240C120,230,240,210,360,220C480,230,600,260,720,265C840,270,960,250,1080,240C1200,230,1320,240,1380,250L1440,260L1440,320L0,320Z
       "/>
   </path>
-
-  <!-- Sharks -->
-  <use href="#shark" x="0" y="140" width="90" height="45" class="swimmer shark1"/>
-  <use href="#shark" x="0" y="190" width="100" height="50" class="swimmer shark2"/>
-
-  <!-- Dolphins -->
-  <use href="#dolphin" x="0" y="100" width="80" height="40" class="swimmer dolphin1"/>
-  <use href="#dolphin" x="0" y="160" width="80" height="40" class="swimmer dolphin2"/>
-
-  <!-- Realistic fishes -->
-  <use href="#fish" x="0" y="220" width="60" height="30" class="swimmer fish1"/>
-  <use href="#fish" x="0" y="260" width="65" height="32" class="swimmer fish2"/>
 </svg>
