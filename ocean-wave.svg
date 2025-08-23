@@ -1,0 +1,46 @@
+<!-- ocean-wave.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320" width="100%" height="320" preserveAspectRatio="none">
+  <defs>
+    <!-- Fish shapes -->
+    <symbol id="fish-orange" viewBox="0 0 40 20">
+      <ellipse cx="12" cy="10" rx="12" ry="6" fill="#ff9933"/>
+      <polygon points="24,5 40,10 24,15" fill="#ff9933"/>
+      <circle cx="7" cy="9" r="1.5" fill="black"/>
+    </symbol>
+    <symbol id="fish-blue" viewBox="0 0 40 20">
+      <ellipse cx="12" cy="10" rx="12" ry="6" fill="#66ccff"/>
+      <polygon points="24,5 40,10 24,15" fill="#66ccff"/>
+      <circle cx="7" cy="9" r="1.5" fill="black"/>
+    </symbol>
+    <symbol id="fish-pink" viewBox="0 0 40 20">
+      <ellipse cx="12" cy="10" rx="12" ry="6" fill="#ff6699"/>
+      <polygon points="24,5 40,10 24,15" fill="#ff6699"/>
+      <circle cx="7" cy="9" r="1.5" fill="black"/>
+    </symbol>
+
+    <style><![CDATA[
+      .fish {
+        opacity: 0;
+        transform: translateX(-50px);
+      }
+      @keyframes swim {
+        0%   { transform: translateX(-50px); opacity: 0; }
+        10%  { opacity: 1; }
+        50%  { transform: translateX(720px); opacity: 1; }
+        90%  { opacity: 1; }
+        100% { transform: translateX(1500px); opacity: 0; }
+      }
+      .f1 { animation: swim 18s linear infinite; animation-delay: 4s; }
+      .f2 { animation: swim 22s linear infinite; animation-delay: 10s; }
+      .f3 { animation: swim 20s linear infinite; animation-delay: 16s; }
+    ]]></style>
+  </defs>
+
+  <!-- Ocean wave background -->
+  <path fill="#0077cc" fill-opacity="1" d="M0,192L48,170.7C96,149,192,107,288,117.3C384,128,480,192,576,197.3C672,203,768,149,864,160C960,171,1056,245,1152,272C1248,299,1344,277,1392,266.7L1440,256L1440,320L0,320Z"></path>
+
+  <!-- Fishes swimming -->
+  <use href="#fish-orange" x="0" y="150" width="50" height="25" class="fish f1"/>
+  <use href="#fish-blue" x="0" y="200" width="45" height="22" class="fish f2"/>
+  <use href="#fish-pink" x="0" y="240" width="55" height="28" class="fish f3"/>
+</svg>
