@@ -1,5 +1,5 @@
 <!-- ocean-wave.svg -->
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320" width="100%" height="320" preserveAspectRatio="none">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 400" width="100%" height="400" preserveAspectRatio="none">
   <defs>
     <!-- Star shape -->
     <symbol id="star" viewBox="0 0 2 2">
@@ -7,10 +7,9 @@
     </symbol>
 
     <style><![CDATA[
-      /* Twinkling stars */
       @keyframes twinkle {
         0%, 100% { opacity: 1; }
-        50% { opacity: 0.3; }
+        50% { opacity: 0.2; }
       }
       .star1 { animation: twinkle 3s infinite; }
       .star2 { animation: twinkle 4s infinite; }
@@ -23,63 +22,68 @@
   <!-- Night sky -->
   <rect width="100%" height="100%" fill="#000000"/>
 
-  <!-- Moon (glowing circle) -->
-  <circle cx="1300" cy="70" r="45" fill="#fdfdfd"/>
-  <circle cx="1300" cy="70" r="70" fill="white" opacity="0.15"/>
-  <circle cx="1300" cy="70" r="100" fill="white" opacity="0.08"/>
+  <!-- Moon -->
+  <circle cx="1300" cy="80" r="50" fill="#fdfdfd"/>
+  <circle cx="1300" cy="80" r="80" fill="white" opacity="0.15"/>
+  <circle cx="1300" cy="80" r="120" fill="white" opacity="0.08"/>
 
-  <!-- Stars scattered -->
+  <!-- Many stars scattered -->
   <g>
-    <use href="#star" x="150" y="40" width="3" height="3" class="star1"/>
-    <use href="#star" x="280" y="80" width="2" height="2" class="star2"/>
-    <use href="#star" x="400" y="30" width="3" height="3" class="star3"/>
-    <use href="#star" x="520" y="90" width="2" height="2" class="star4"/>
-    <use href="#star" x="640" y="50" width="3" height="3" class="star1"/>
-    <use href="#star" x="760" y="70" width="2" height="2" class="star2"/>
-    <use href="#star" x="880" y="20" width="3" height="3" class="star5"/>
-    <use href="#star" x="1000" y="60" width="2" height="2" class="star3"/>
-    <use href="#star" x="1120" y="40" width="3" height="3" class="star4"/>
-    <use href="#star" x="1220" y="100" width="2" height="2" class="star2"/>
-    <use href="#star" x="1350" y="30" width="3" height="3" class="star1"/>
-    <!-- Extra scattered stars -->
-    <use href="#star" x="200" y="20" width="2" height="2" class="star3"/>
-    <use href="#star" x="320" y="60" width="3" height="3" class="star4"/>
-    <use href="#star" x="460" y="25" width="2" height="2" class="star5"/>
-    <use href="#star" x="580" y="40" width="3" height="3" class="star2"/>
-    <use href="#star" x="700" y="15" width="2" height="2" class="star1"/>
-    <use href="#star" x="820" y="50" width="3" height="3" class="star5"/>
-    <use href="#star" x="940" y="30" width="2" height="2" class="star4"/>
-    <use href="#star" x="1060" y="20" width="3" height="3" class="star3"/>
-    <use href="#star" x="1180" y="70" width="2" height="2" class="star2"/>
-    <use href="#star" x="1300" y="10" width="3" height="3" class="star1"/>
-    <use href="#star" x="1420" y="60" width="2" height="2" class="star5"/>
+    <!-- top random stars -->
+    <use href="#star" x="100" y="30" width="3" height="3" class="star1"/>
+    <use href="#star" x="200" y="70" width="2" height="2" class="star2"/>
+    <use href="#star" x="300" y="40" width="3" height="3" class="star3"/>
+    <use href="#star" x="400" y="90" width="2" height="2" class="star4"/>
+    <use href="#star" x="500" y="20" width="3" height="3" class="star5"/>
+    <use href="#star" x="600" y="60" width="2" height="2" class="star1"/>
+    <use href="#star" x="700" y="30" width="3" height="3" class="star2"/>
+    <use href="#star" x="800" y="80" width="2" height="2" class="star3"/>
+    <use href="#star" x="900" y="25" width="3" height="3" class="star4"/>
+    <use href="#star" x="1000" y="50" width="2" height="2" class="star5"/>
+    <use href="#star" x="1100" y="30" width="3" height="3" class="star1"/>
+    <use href="#star" x="1200" y="60" width="2" height="2" class="star2"/>
+    <use href="#star" x="1400" y="40" width="3" height="3" class="star3"/>
+    <!-- extra random stars -->
+    <use href="#star" x="150" y="150" width="2" height="2" class="star4"/>
+    <use href="#star" x="250" y="130" width="3" height="3" class="star5"/>
+    <use href="#star" x="350" y="160" width="2" height="2" class="star1"/>
+    <use href="#star" x="450" y="140" width="3" height="3" class="star2"/>
+    <use href="#star" x="550" y="180" width="2" height="2" class="star3"/>
+    <use href="#star" x="650" y="110" width="3" height="3" class="star4"/>
+    <use href="#star" x="750" y="150" width="2" height="2" class="star5"/>
+    <use href="#star" x="850" y="120" width="3" height="3" class="star1"/>
+    <use href="#star" x="950" y="160" width="2" height="2" class="star2"/>
+    <use href="#star" x="1050" y="140" width="3" height="3" class="star3"/>
+    <use href="#star" x="1150" y="170" width="2" height="2" class="star4"/>
+    <use href="#star" x="1250" y="130" width="3" height="3" class="star5"/>
   </g>
 
-  <!-- Dark ocean waves -->
-  <path fill="#02101d" fill-opacity="0.8">
+  <!-- Bigger moving ocean waves -->
+  <path fill="#02101d" fill-opacity="0.9">
     <animate attributeName="d" dur="15s" repeatCount="indefinite"
       values="
-        M0,240 C360,280 1080,200 1440,240 L1440,320 L0,320Z;
-        M0,230 C360,250 1080,270 1440,230 L1440,320 L0,320Z;
-        M0,240 C360,280 1080,200 1440,240 L1440,320 L0,320Z
+        M0,280 C360,360 1080,200 1440,280 L1440,400 L0,400Z;
+        M0,260 C360,340 1080,300 1440,260 L1440,400 L0,400Z;
+        M0,280 C360,360 1080,200 1440,280 L1440,400 L0,400Z
       "/>
   </path>
 
   <path fill="#031a2d" fill-opacity="0.7">
     <animate attributeName="d" dur="12s" repeatCount="indefinite"
       values="
-        M0,250 C360,220 1080,280 1440,250 L1440,320 L0,320Z;
-        M0,260 C360,240 1080,260 1440,260 L1440,320 L0,320Z;
-        M0,250 C360,220 1080,280 1440,250 L1440,320 L0,320Z
+        M0,300 C360,240 1080,360 1440,300 L1440,400 L0,400Z;
+        M0,320 C360,280 1080,320 1440,320 L1440,400 L0,400Z;
+        M0,300 C360,240 1080,360 1440,300 L1440,400 L0,400Z
       "/>
   </path>
 
   <path fill="#052540" fill-opacity="0.6">
     <animate attributeName="d" dur="10s" repeatCount="indefinite"
       values="
-        M0,270 C480,300 960,240 1440,270 L1440,320 L0,320Z;
-        M0,280 C480,260 960,280 1440,280 L1440,320 L0,320Z;
-        M0,270 C480,300 960,240 1440,270 L1440,320 L0,320Z
+        M0,340 C480,380 960,260 1440,340 L1440,400 L0,400Z;
+        M0,360 C480,320 960,360 1440,360 L1440,400 L0,400Z;
+        M0,340 C480,380 960,260 1440,340 L1440,400 L0,400Z
       "/>
   </path>
 </svg>
+
