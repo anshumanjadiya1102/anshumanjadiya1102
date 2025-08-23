@@ -1,0 +1,139 @@
+<!-- stars-nebula.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="560" viewBox="0 0 1920 560" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <!-- Shimmering, multi-hue nebula -->
+    <filter id="nebula" x="-20%" y="-20%" width="140%" height="140%">
+      <!-- Base fractal noise -->
+      <feTurbulence type="fractalNoise" baseFrequency="0.0015 0.002" numOctaves="3" seed="7" stitchTiles="stitch" result="noise">
+        <animate attributeName="baseFrequency" dur="60s" values="0.0015 0.002; 0.0025 0.0015; 0.0015 0.002" repeatCount="indefinite"/>
+        <animate attributeName="seed" dur="120s" values="7;11;7" repeatCount="indefinite"/>
+      </feTurbulence>
+      <!-- Soften the field -->
+      <feGaussianBlur in="noise" stdDeviation="30" result="soft"/>
+      <!-- Colorize by shifting hue over time -->
+      <feColorMatrix type="hueRotate" values="0">
+        <animate attributeName="values" dur="90s" values="0;120;240;360;0" repeatCount="indefinite"/>
+      </feColorMatrix>
+      <!-- Boost saturation + contrast -->
+      <feColorMatrix type="matrix" values="
+        1.4 0   0   0 -0.1
+        0   1.4 0   0 -0.1
+        0   0   1.4 0 -0.1
+        0   0   0   1  0" result="colorized"/>
+      <!-- Slight displacement for parallax-y feel -->
+      <feDisplacementMap in2="soft" in="colorized" scale="25" xChannelSelector="R" yChannelSelector="G"/>
+    </filter>
+
+    <!-- Gentle vignette to frame the banner -->
+    <radialGradient id="vignette" cx="50%" cy="50%" r="70%">
+      <stop offset="60%" stop-color="rgba(0,0,0,0)"/>
+      <stop offset="100%" stop-color="rgba(0,0,0,0.45)"/>
+    </radialGradient>
+
+    <!-- Tiny star gradient -->
+    <radialGradient id="starGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="white" stop-opacity="1"/>
+      <stop offset="60%" stop-color="white" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="white" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Reusable star symbol -->
+    <symbol id="star" viewBox="-2 -2 4 4">
+      <circle r="1.6" fill="url(#starGlow)"/>
+    </symbol>
+
+    <style><![CDATA[
+      .twinkle { animation: tw 2.4s infinite ease-in-out alternate; }
+      .tw2 { animation-duration: 3.2s; }
+      .tw3 { animation-duration: 4s; }
+      .tw4 { animation-duration: 5.2s; }
+      @keyframes tw { from { opacity: .55; } to { opacity: 1; } }
+      .slow-drift { animation: drift 120s linear infinite alternate; }
+      @keyframes drift { from { transform: translateX(-20px) translateY(-10px) scale(1.02); }
+                         to   { transform: translateX(20px)  translateY(10px)  scale(1.05); } }
+    ]]></style>
+  </defs>
+
+  <!-- Space background -->
+  <rect width="100%" height="100%" fill="#060815"/>
+
+  <!-- Nebula layer -->
+  <g class="slow-drift">
+    <rect width="100%" height="100%" filter="url(#nebula)"/>
+  </g>
+
+  <!-- Starfield (static + twinkling) -->
+  <g id="stars" opacity="0.95">
+    <!-- A few larger stars -->
+    <use href="#star" x="200"  y="90"   width="4" height="4" class="twinkle" style="animation-delay:.2s"/>
+    <use href="#star" x="480"  y="160"  width="5" height="5" class="tw2" style="animation-delay:1.1s"/>
+    <use href="#star" x="820"  y="60"   width="5" height="5" class="tw3" style="animation-delay:.6s"/>
+    <use href="#star" x="1220" y="120"  width="5" height="5" class="tw4" style="animation-delay:1.7s"/>
+    <use href="#star" x="1620" y="180"  width="6" height="6" class="twinkle" style="animation-delay:.9s"/>
+    <use href="#star" x="340"  y="400"  width="5" height="5" class="tw2" style="animation-delay:2.2s"/>
+    <use href="#star" x="1380" y="380"  width="5" height="5" class="tw3" style="animation-delay:1.3s"/>
+    <use href="#star" x="1740" y="300"  width="6" height="6" class="tw4" style="animation-delay:.3s"/>
+
+    <!-- Many small stars (clustered lightly; add more <use> lines if you want denser sky) -->
+    <!-- Row-ish scatter -->
+    <g opacity="0.9">
+      <!-- You can quickly duplicate these lines to increase density -->
+      <use href="#star" x="60" y="70" width="3" height="3"/>
+      <use href="#star" x="110" y="190" width="2.5" height="2.5"/>
+      <use href="#star" x="150" y="300" width="2.2" height="2.2" class="twinkle" style="animation-delay:1.4s"/>
+      <use href="#star" x="210" y="500" width="2.4" height="2.4"/>
+      <use href="#star" x="260" y="240" width="2.2" height="2.2"/>
+      <use href="#star" x="300" y="60" width="2" height="2"/>
+      <use href="#star" x="350" y="180" width="2.2" height="2.2" class="tw3" style="animation-delay:.8s"/>
+      <use href="#star" x="390" y="320" width="2" height="2"/>
+      <use href="#star" x="430" y="480" width="2.4" height="2.4"/>
+      <use href="#star" x="470" y="260" width="2.2" height="2.2"/>
+      <use href="#star" x="520" y="90" width="2" height="2"/>
+      <use href="#star" x="560" y="210" width="2.4" height="2.4" class="tw2" style="animation-delay:1.1s"/>
+      <use href="#star" x="600" y="370" width="2.2" height="2.2"/>
+      <use href="#star" x="640" y="520" width="2.2" height="2.2"/>
+      <use href="#star" x="680" y="140" width="2.4" height="2.4"/>
+      <use href="#star" x="720" y="260" width="2.2" height="2.2" class="twinkle" style="animation-delay:.3s"/>
+      <use href="#star" x="760" y="440" width="2" height="2"/>
+      <use href="#star" x="800" y="200" width="2.2" height="2.2"/>
+      <use href="#star" x="860" y="340" width="2.4" height="2.4"/>
+      <use href="#star" x="900" y="80" width="2" height="2"/>
+      <use href="#star" x="940" y="260" width="2.2" height="2.2"/>
+      <use href="#star" x="980" y="420" width="2.2" height="2.2" class="tw3" style="animation-delay:2s"/>
+      <use href="#star" x="1020" y="160" width="2" height="2"/>
+      <use href="#star" x="1060" y="320" width="2.2" height="2.2"/>
+      <use href="#star" x="1100" y="500" width="2.4" height="2.4"/>
+      <use href="#star" x="1140" y="240" width="2.2" height="2.2" class="tw2" style="animation-delay:.5s"/>
+      <use href="#star" x="1180" y="100" width="2" height="2"/>
+      <use href="#star" x="1220" y="360" width="2.2" height="2.2"/>
+      <use href="#star" x="1260" y="520" width="2.2" height="2.2"/>
+      <use href="#star" x="1300" y="200" width="2.4" height="2.4"/>
+      <use href="#star" x="1340" y="440" width="2.2" height="2.2"/>
+      <use href="#star" x="1380" y="140" width="2" height="2"/>
+      <use href="#star" x="1420" y="300" width="2.2" height="2.2" class="twinkle" style="animation-delay:1.8s"/>
+      <use href="#star" x="1460" y="70" width="2" height="2"/>
+      <use href="#star" x="1500" y="370" width="2.4" height="2.4"/>
+      <use href="#star" x="1540" y="240" width="2.2" height="2.2"/>
+      <use href="#star" x="1580" y="500" width="2.2" height="2.2"/>
+      <use href="#star" x="1620" y="180" width="2.2" height="2.2"/>
+      <use href="#star" x="1660" y="420" width="2.2" height="2.2" class="tw4" style="animation-delay:1.2s"/>
+      <use href="#star" x="1700" y="300" width="2.2" height="2.2"/>
+      <use href="#star" x="1740" y="100" width="2" height="2"/>
+      <use href="#star" x="1780" y="360" width="2.2" height="2.2"/>
+      <use href="#star" x="1820" y="520" width="2.2" height="2.2"/>
+      <use href="#star" x="1860" y="220" width="2.2" height="2.2"/>
+    </g>
+  </g>
+
+  <!-- Vignette overlay -->
+  <rect width="100%" height="100%" fill="url(#vignette)"/>
+
+  <!-- Optional title text (remove if not needed) -->
+  <!--
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+        font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell"
+        font-size="48" fill="white" opacity=".9" style="letter-spacing:.04em">
+    Your Project Name
+  </text>
+  -->
+</svg>
