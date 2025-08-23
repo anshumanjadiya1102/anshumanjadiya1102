@@ -1,7 +1,7 @@
 <!-- ocean-wave.svg -->
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320" width="100%" height="320" preserveAspectRatio="none">
   <defs>
-    <!-- Stars -->
+    <!-- Star shape -->
     <symbol id="star" viewBox="0 0 2 2">
       <circle cx="1" cy="1" r="1" fill="white"/>
     </symbol>
@@ -41,18 +41,33 @@
   <circle cx="1300" cy="70" r="70" fill="white" opacity="0.15"/>
   <circle cx="1300" cy="70" r="100" fill="white" opacity="0.08"/>
 
-  <!-- Stars -->
-  <use href="#star" x="150" y="40" width="3" height="3" class="star1"/>
-  <use href="#star" x="280" y="80" width="2" height="2" class="star2"/>
-  <use href="#star" x="400" y="30" width="3" height="3" class="star3"/>
-  <use href="#star" x="520" y="90" width="2" height="2" class="star4"/>
-  <use href="#star" x="640" y="50" width="3" height="3" class="star1"/>
-  <use href="#star" x="760" y="70" width="2" height="2" class="star2"/>
-  <use href="#star" x="880" y="20" width="3" height="3" class="star5"/>
-  <use href="#star" x="1000" y="60" width="2" height="2" class="star3"/>
-  <use href="#star" x="1120" y="40" width="3" height="3" class="star4"/>
-  <use href="#star" x="1220" y="100" width="2" height="2" class="star2"/>
-  <use href="#star" x="1350" y="30" width="3" height="3" class="star1"/>
+  <!-- MANY Stars across the sky -->
+  <g>
+    <use href="#star" x="150" y="40" width="3" height="3" class="star1"/>
+    <use href="#star" x="280" y="80" width="2" height="2" class="star2"/>
+    <use href="#star" x="400" y="30" width="3" height="3" class="star3"/>
+    <use href="#star" x="520" y="90" width="2" height="2" class="star4"/>
+    <use href="#star" x="640" y="50" width="3" height="3" class="star1"/>
+    <use href="#star" x="760" y="70" width="2" height="2" class="star2"/>
+    <use href="#star" x="880" y="20" width="3" height="3" class="star5"/>
+    <use href="#star" x="1000" y="60" width="2" height="2" class="star3"/>
+    <use href="#star" x="1120" y="40" width="3" height="3" class="star4"/>
+    <use href="#star" x="1220" y="100" width="2" height="2" class="star2"/>
+    <use href="#star" x="1350" y="30" width="3" height="3" class="star1"/>
+
+    <!-- Extra stars -->
+    <use href="#star" x="200" y="20" width="2" height="2" class="star3"/>
+    <use href="#star" x="320" y="60" width="3" height="3" class="star4"/>
+    <use href="#star" x="460" y="25" width="2" height="2" class="star5"/>
+    <use href="#star" x="580" y="40" width="3" height="3" class="star2"/>
+    <use href="#star" x="700" y="15" width="2" height="2" class="star1"/>
+    <use href="#star" x="820" y="50" width="3" height="3" class="star5"/>
+    <use href="#star" x="940" y="30" width="2" height="2" class="star4"/>
+    <use href="#star" x="1060" y="20" width="3" height="3" class="star3"/>
+    <use href="#star" x="1180" y="70" width="2" height="2" class="star2"/>
+    <use href="#star" x="1300" y="10" width="3" height="3" class="star1"/>
+    <use href="#star" x="1420" y="60" width="2" height="2" class="star5"/>
+  </g>
 
   <!-- Moonlight reflection (rippling) -->
   <path fill="url(#moonlight)" class="reflection">
@@ -94,4 +109,3 @@
       "/>
   </path>
 </svg>
-
