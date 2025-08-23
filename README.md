@@ -5,8 +5,7 @@ I'm a school student, a Java-learner with lot of dreams and hope in my eyes!!!
 Wanna Connect to me: <br>
 - Discord [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/JydSGaBN) <br>
 - E-mail [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anshuman.jadiya03@gmail.com) <br>
-
-
+---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
@@ -25,20 +24,24 @@ Here are some ideas to get you started:-->
  - 🏞 Bitbucket (with Jira)
  - ⚓Visual Studio Code <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-25AEF4?logo=visualstudio&logoColor=white&style=flat">
  - 🎨Passion & Determination
+   ---
 - ## ⛺ Current Updates...
  Hi there git pals!!! Wanna see my recent updates and codes?                                                                                                                                So see below... Below are my amazing and wonderful works and updates!                            
  - #### Hey guys, A new, Earth-shaking information!!! Now My Football Game is available 
  - SO, CHECK OUT : https://github.com/anshumanjadiya1102/Football_Game
+   ---
 - ## 📫 How to reach me:
 You can contact me through Gmail: anshuman.jadiya03@gmail.com                                                                                                                              
 Support me on Github: https://github.com/anshumanjadiya1102                                                                                                                                
 Follow me on Gitlab: https://gitlab.com/anshumanjadiya1102 <br>
 Support me on Bitbucket: https://bitbucket.org/anshumanjadiya1102/workspace/overview/
 <p align="left">Connect to me on Discord https://discord.gg/JydSGaBN <a href="https://discord.gg/https://discord.gg/JydSGaBN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/JydSGaBN" height="30" width="40" /></a></p> 
+---
 
 
 - ## 🌐Websites
 -  Hey there!!! I have finally created my own website: https://anshumanjadiya1102.github.io
+  ---
 
 <!--- 1st Section on Curated Articles -->
 - ## <b> 🔭My Priorities</b>
@@ -46,6 +49,7 @@ Support me on Bitbucket: https://bitbucket.org/anshumanjadiya1102/workspace/over
    and learning different-different languages...<br> 
   As I have created my own website, Now I'm on the way to create my own suite, "Beauty_Java_Suite"<br>
   Support me more & more for this mega-project...<br>
+  ---
   ## 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
