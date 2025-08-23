@@ -9,30 +9,47 @@
     <style><![CDATA[
       /* Twinkling stars */
       @keyframes twinkle {
-        0%, 100% { opacity: 0.9; }
-        50% { opacity: 0.2; }
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0.3; }
       }
       .star1 { animation: twinkle 3s infinite; }
-      .star2 { animation: twinkle 5s infinite; }
-      .star3 { animation: twinkle 4s infinite; }
+      .star2 { animation: twinkle 4s infinite; }
+      .star3 { animation: twinkle 5s infinite; }
       .star4 { animation: twinkle 6s infinite; }
+      .star5 { animation: twinkle 7s infinite; }
     ]]></style>
   </defs>
 
-  <!-- Full black ocean + sky background -->
+  <!-- Full black background (sky + sea) -->
   <rect width="100%" height="100%" fill="#000000"/>
 
-  <!-- Moon -->
-  <circle cx="1300" cy="60" r="40" fill="#f4f4f4"/>
-  <circle cx="1300" cy="60" r="60" fill="white" opacity="0.2"/>
+  <!-- Perfect circular Moon with glow -->
+  <circle cx="1300" cy="70" r="45" fill="#fdfdfd"/>
+  <circle cx="1300" cy="70" r="70" fill="white" opacity="0.15"/>
+  <circle cx="1300" cy="70" r="100" fill="white" opacity="0.08"/>
 
-  <!-- Stars in the sky -->
-  <use href="#star" x="200" y="50" width="3" height="3" class="star1"/>
-  <use href="#star" x="400" y="80" width="2" height="2" class="star2"/>
-  <use href="#star" x="600" y="40" width="3" height="3" class="star3"/>
-  <use href="#star" x="800" y="70" width="2" height="2" class="star4"/>
-  <use href="#star" x="1000" y="30" width="3" height="3" class="star1"/>
-  <use href="#star" x="1150" y="90" width="2" height="2" class="star3"/>
+  <!-- Lots of stars -->
+  <use href="#star" x="150" y="40" width="3" height="3" class="star1"/>
+  <use href="#star" x="280" y="80" width="2" height="2" class="star2"/>
+  <use href="#star" x="400" y="30" width="3" height="3" class="star3"/>
+  <use href="#star" x="520" y="90" width="2" height="2" class="star4"/>
+  <use href="#star" x="640" y="50" width="3" height="3" class="star1"/>
+  <use href="#star" x="760" y="70" width="2" height="2" class="star2"/>
+  <use href="#star" x="880" y="20" width="3" height="3" class="star5"/>
+  <use href="#star" x="1000" y="60" width="2" height="2" class="star3"/>
+  <use href="#star" x="1120" y="40" width="3" height="3" class="star4"/>
+  <use href="#star" x="1220" y="100" width="2" height="2" class="star2"/>
+  <use href="#star" x="1350" y="30" width="3" height="3" class="star1"/>
+  <use href="#star" x="200" y="120" width="2" height="2" class="star3"/>
+  <use href="#star" x="340" y="60" width="2" height="2" class="star5"/>
+  <use href="#star" x="460" y="110" width="3" height="3" class="star2"/>
+  <use href="#star" x="580" y="30" width="2" height="2" class="star1"/>
+  <use href="#star" x="700" y="100" width="3" height="3" class="star4"/>
+  <use href="#star" x="820" y="50" width="2" height="2" class="star2"/>
+  <use href="#star" x="940" y="80" width="3" height="3" class="star5"/>
+  <use href="#star" x="1080" y="20" width="2" height="2" class="star3"/>
+  <use href="#star" x="1200" y="60" width="2" height="2" class="star4"/>
+  <use href="#star" x="1320" y="90" width="3" height="3" class="star1"/>
 
   <!-- Back wave (dark bluish gray) -->
   <path fill="#0a2a43" fill-opacity="0.6">
@@ -54,3 +71,4 @@
       "/>
   </path>
 </svg>
+
