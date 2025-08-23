@@ -91,35 +91,9 @@ Support me on Bitbucket: https://bitbucket.org/anshumanjadiya1102/workspace/over
 +    System.Console.WriteLine("Goodbye, World!");
 }
 ```
-<!-- README.md -->
 
-<div align="center">
+<img src="./ocean-wave.svg" alt="Night Ocean with Moon and Stars" width="100%" height="250"/>
 
-  <!-- Space Nebula Banner -->
-  <img src="./stars-nebula.svg" alt="Stars & Nebula Background" width="100%"/>
-
-  <div style="margin-top:-360px; margin-bottom:180px;">
-    <h1 style="color:white; font-size:48px; font-weight:bold; text-shadow:0 0 8px #00f, 0 0 12px #0ff;">
-      🌌 Welcome to My Universe
-    </h1>
-    <p style="color:#d0e7ff; font-size:20px; max-width:800px; margin:auto; text-shadow:0 0 5px #000;">
-      A cosmic journey through projects, ideas, and code 🚀
-    </p>
-  </div>
-
-</div>
-
----
-
-## 🌟 Projects
-- Interstellar app  
-- Cosmic game  
-- Galaxy visualizer  
-
----
-
-<!-- Wave footer -->
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Wave Footer" width="100%"/>
 
 ###### anshumanjadiya1102_________________________________________________________________________________________________________© 2025 README.md. Crafted with ❤️
 
