@@ -2,27 +2,28 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320" width="100%" height="320" preserveAspectRatio="none">
   <defs>
     <!-- Shark shape -->
-    <symbol id="shark" viewBox="0 0 60 30">
-      <ellipse cx="25" cy="15" rx="25" ry="10" fill="#4d6d89"/>
-      <polygon points="50,10 60,15 50,20" fill="#4d6d89"/>
-      <polygon points="20,5 30,15 20,15" fill="#4d6d89"/>
-      <circle cx="15" cy="13" r="2" fill="white"/>
-      <circle cx="15" cy="13" r="1" fill="black"/>
+    <symbol id="shark" viewBox="0 0 80 30">
+      <ellipse cx="35" cy="15" rx="35" ry="10" fill="#2c3e50"/>
+      <polygon points="65,10 80,15 65,20" fill="#2c3e50"/>
+      <polygon points="30,0 40,15 30,15" fill="#2c3e50"/>
+      <circle cx="20" cy="13" r="2" fill="white"/>
+      <circle cx="20" cy="13" r="1" fill="black"/>
     </symbol>
 
     <!-- Dolphin shape -->
-    <symbol id="dolphin" viewBox="0 0 60 30">
-      <ellipse cx="25" cy="15" rx="20" ry="8" fill="#5dade2"/>
-      <polygon points="45,12 60,15 45,18" fill="#5dade2"/>
-      <polygon points="22,7 32,15 22,15" fill="#5dade2"/>
-      <circle cx="12" cy="13" r="1.5" fill="black"/>
+    <symbol id="dolphin" viewBox="0 0 70 30">
+      <ellipse cx="30" cy="15" rx="28" ry="8" fill="#3f5c7d"/>
+      <polygon points="58,12 70,15 58,18" fill="#3f5c7d"/>
+      <polygon points="26,5 38,15 26,15" fill="#3f5c7d"/>
+      <circle cx="15" cy="13" r="1.5" fill="black"/>
     </symbol>
 
-    <!-- Fish shape -->
-    <symbol id="fish" viewBox="0 0 40 20">
-      <ellipse cx="12" cy="10" rx="12" ry="6" fill="#ff9933"/>
-      <polygon points="24,5 40,10 24,15" fill="#ff9933"/>
-      <circle cx="7" cy="9" r="1.5" fill="black"/>
+    <!-- Realistic fish (slimmer body, fins, tail) -->
+    <symbol id="fish" viewBox="0 0 50 20">
+      <ellipse cx="20" cy="10" rx="18" ry="6" fill="#c0c0c0"/>
+      <polygon points="38,5 50,10 38,15" fill="#c0c0c0"/>
+      <polygon points="12,4 18,10 12,10" fill="#c0c0c0"/>
+      <circle cx="10" cy="9" r="1.5" fill="black"/>
     </symbol>
 
     <style><![CDATA[
@@ -46,14 +47,11 @@
     ]]></style>
   </defs>
 
-  <!-- Dark ocean gradient -->
-  <linearGradient id="oceanGradient" x1="0" y1="0" x2="0" y2="1">
-    <stop offset="0%" stop-color="#001f3f"/>
-    <stop offset="100%" stop-color="#001233"/>
-  </linearGradient>
+  <!-- Full black ocean background -->
+  <rect width="100%" height="100%" fill="#000000"/>
 
-  <!-- Back wave (dark) -->
-  <path fill="url(#oceanGradient)" fill-opacity="1">
+  <!-- Back wave (dark bluish gray) -->
+  <path fill="#0a2a43" fill-opacity="0.6">
     <animate attributeName="d" dur="12s" repeatCount="indefinite"
       values="
         M0,224L48,213.3C96,203,192,181,288,176C384,171,480,181,576,186.7C672,192,768,192,864,181.3C960,171,1056,149,1152,154.7C1248,160,1344,192,1392,208L1440,224L1440,320L0,320Z;
@@ -62,8 +60,8 @@
       "/>
   </path>
 
-  <!-- Front wave (lighter + semi-transparent) -->
-  <path fill="#3399ff" fill-opacity="0.4">
+  <!-- Front wave (lighter gray-blue, transparent) -->
+  <path fill="#1e3d59" fill-opacity="0.4">
     <animate attributeName="d" dur="8s" repeatCount="indefinite"
       values="
         M0,250L60,240C120,230,240,210,360,220C480,230,600,260,720,265C840,270,960,250,1080,240C1200,230,1320,240,1380,250L1440,260L1440,320L0,320Z;
@@ -73,14 +71,14 @@
   </path>
 
   <!-- Sharks -->
-  <use href="#shark" x="0" y="140" width="80" height="40" class="swimmer shark1"/>
-  <use href="#shark" x="0" y="190" width="90" height="45" class="swimmer shark2"/>
+  <use href="#shark" x="0" y="140" width="90" height="45" class="swimmer shark1"/>
+  <use href="#shark" x="0" y="190" width="100" height="50" class="swimmer shark2"/>
 
   <!-- Dolphins -->
-  <use href="#dolphin" x="0" y="100" width="70" height="35" class="swimmer dolphin1"/>
-  <use href="#dolphin" x="0" y="160" width="70" height="35" class="swimmer dolphin2"/>
+  <use href="#dolphin" x="0" y="100" width="80" height="40" class="swimmer dolphin1"/>
+  <use href="#dolphin" x="0" y="160" width="80" height="40" class="swimmer dolphin2"/>
 
-  <!-- Extra fishes -->
-  <use href="#fish" x="0" y="220" width="50" height="25" class="swimmer fish1"/>
-  <use href="#fish" x="0" y="250" width="55" height="28" class="swimmer fish2"/>
+  <!-- Realistic fishes -->
+  <use href="#fish" x="0" y="220" width="60" height="30" class="swimmer fish1"/>
+  <use href="#fish" x="0" y="260" width="65" height="32" class="swimmer fish2"/>
 </svg>
