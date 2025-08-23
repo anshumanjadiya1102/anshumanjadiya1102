@@ -2,6 +2,8 @@
 Welcome to my profile...                                                                                                                                                                  
 Hmm...But you don't know about me. So lets get started... 
 I'm a school student, a Java-learner with lot of dreams and hope in my eyes!!! 
+Wanna Connect to me: ## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/JydSGaBN) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anshuman.jadiya03@gmail.com) 
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
