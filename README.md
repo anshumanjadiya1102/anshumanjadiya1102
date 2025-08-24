@@ -163,6 +163,68 @@ Support me on Bitbucket: https://bitbucket.org/anshumanjadiya1102/workspace/over
 
 <div align="center">
 
+# 🌌 Java Beauty Calculator 🚀
+
+![Java](https://img.shields.io/badge/Coded%20In-Java-ff7518?style=for-the-badge&logo=java&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-Cross--Platform-6a5acd?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-00ffcc?style=for-the-badge&logo=rocket&logoColor=white)
+![OpenSource](https://img.shields.io/badge/Open%20Source-%E2%9C%85-ff69b4?style=for-the-badge&logo=github&logoColor=white)
+![Stars](https://img.shields.io/github/stars/username/repo?style=for-the-badge&logo=starship&color=yellow)
+![Build](https://img.shields.io/badge/Build-Passing-2ecc71?style=for-the-badge&logo=githubactions&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge&logo=open-source-initiative&logoColor=white)
+
+---
+
+A **Java-based calculator project** 🖥️✨ that goes beyond numbers — combining  
+🧮 **scientific calculations**, 💫 **fun beauty score mode**, and 🌍 **open-source community power**.  
+
+Designed for **students, developers, and Java enthusiasts** who want to explore real-world **Java programming** 🚀.  
+
+---
+
+## 🌠 Dark Theme Preview
+![Space Demo](https://media.giphy.com/media/Y0b2mpCw8RrRzqf2y9/giphy.gif)
+
+---
+
+## 📖 Table of Contents
+- [🌟 Features](#-features)
+- [📸 Screenshots](#-screenshots)
+- [⚡ Installation](#-installation)
+- [▶️ Usage](#️-usage)
+- [🛠 Tech Stack](#-tech-stack)
+- [❓ FAQ](#-faq)
+- [🤝 Contributing](#-contributing)
+- [📜 License](#-license)
+
+---
+
+## 🌟 Features ✨
+- ✅ **Basic & Scientific calculations** 🧮  
+- 🌸 Fun **Beauty Score Calculator** 💅  
+- ⚡ **Lightweight Java Application** 🪐  
+- 🖥️ Works on **Windows, Linux, MacOS** 🌍  
+- 🔓 100% **Open Source** 💖  
+
+---
+
+## 📸 Screenshots 🖼️
+> *(Add screenshots or demo GIFs for Google & visitors)*  
+
+![Demo](./assets/demo.gif)
+
+---
+
+## ⚡ Installation 🛠️
+Clone and run the project:
+
+```bash
+git clone https://github.com/username/repo.git
+cd repo
+javac Calculator.java
+java Calculator
+
+
 
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
