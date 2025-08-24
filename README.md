@@ -1,10 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello+Every+GitHub+Souls!+I'm+Anshuman+Jadiya!&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello+Every+GitHub+Souls!!&height=100&section=header"/>
 </p>
  # 👋Hello Every Github Souls! I'm Anshuman Jadiya
 Welcome to my profile...                                                                                                                                                                  
 Hmm...But you don't know about me. So lets get started... 
 I'm a school student, a Java-learner with lot of dreams and hope in my eyes!!! <br>
+
  [![Awesome](https://awesome.re/badge.svg)](https://github.com/anshumanjadiya1102/anshumanjadiya1102/blob/master/sources/awesome.md)<br>
  I'm a Java passionist and enthusiast who always want to promote Java and its value. It is the best language to learn as a Beginner...<br>
 Wanna Connect to me: <br>
