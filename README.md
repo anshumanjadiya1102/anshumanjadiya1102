@@ -58,7 +58,7 @@ Here are some ideas to get you started:-->
 ![Platform](https://img.shields.io/badge/Platform-Cross--Platform-6a5acd?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-00ffcc?style=for-the-badge&logo=rocket&logoColor=white)
 ![OpenSource](https://img.shields.io/badge/Open%20Source-%E2%9C%85-ff69b4?style=for-the-badge&logo=github&logoColor=white)
-![Stars](https://img.shields.io/github/stars/username/repo?style=for-the-badge&logo=starship&color=yellow)
+![Stars](https://img.shields.io/github/stars/anshumanjadiya1102/repo?style=for-the-badge&logo=starship&color=yellow)
 ![Build](https://img.shields.io/badge/Build-Passing-2ecc71?style=for-the-badge&logo=githubactions&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge&logo=open-source-initiative&logoColor=white)
 
