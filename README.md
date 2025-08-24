@@ -96,11 +96,8 @@ Support me on Bitbucket: https://bitbucket.org/anshumanjadiya1102/workspace/over
 ---
 
 ```diff
-- public class Hello {
-+ public class Hello, World! {
--    System.Console.WriteLine("Hello, World!");
-+    System.Console.WriteLine("Goodbye, World!");
-}
++ Hello there
+- I'm Anshuman Jadiya
 ```
 
 ## Connect and Support:
