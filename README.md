@@ -66,8 +66,6 @@ Support me on Bitbucket: https://bitbucket.org/anshumanjadiya1102/workspace/over
 
 ## 📊  Java-Beauty-Suite  
 
-## 🌟 My Projects  
-
 <div align="center">
 
 <table>
@@ -101,6 +99,8 @@ Support me on Bitbucket: https://bitbucket.org/anshumanjadiya1102/workspace/over
 </table>
 
 </div>
+
+ ###### _All are built with 💖 and Passion in Java_ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 
 
   
