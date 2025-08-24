@@ -175,7 +175,7 @@ Support me on Bitbucket: https://bitbucket.org/anshumanjadiya1102/workspace/over
 
 <div align=center>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C03&center=true&vCenter=true&width=435&lines=If+you+liked+my+work;So+please+follow;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C03&center=true&vCenter=true&width=435&lines=If+you+liked+my+work;So+please+follow+me;💖🎨🛠🌐;)](https://git.io/typing-svg)
 
 </div>
 
