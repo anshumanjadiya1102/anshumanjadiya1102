@@ -1,7 +1,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello+Every+GitHub+Souls!!&height=100&section=header"/>
+
+  <div align=center>
   
-  ###  _“Coding beauty into Java, one project at a time ☕✨”_ -Java_Beauty_Suite
+  ###  _“Coding beauty into Java, one project at a time ☕✨”_ - Java_Beauty_Suite
+
+  </div>
 
 </p>
 
