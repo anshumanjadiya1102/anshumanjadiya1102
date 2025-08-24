@@ -51,9 +51,8 @@ Here are some ideas to get you started:-->
 
 - ## ⛺ Current Updates...
  Hi there git pals!!! Wanna see my recent updates and codes?                                                                                                                                So see below... Below are my amazing and wonderful works and updates!                            
- - #### Hey guys, A new, Earth-shaking information!!! Now My Football Game is available 
  - SO, CHECK OUT : https://github.com/anshumanjadiya1102/Football_Game
-  ## 🌌 Java Beauty Calculator 🚀
+  #### 🌌 Java Beauty Calculator 🚀
 ![Java](https://img.shields.io/badge/Coded%20In-Java-ff7518?style=for-the-badge&logo=java&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-Cross--Platform-6a5acd?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-00ffcc?style=for-the-badge&logo=rocket&logoColor=white)
