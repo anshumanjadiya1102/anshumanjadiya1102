@@ -170,30 +170,9 @@ Support me on Bitbucket: https://bitbucket.org/anshumanjadiya1102/workspace/over
 
 ###### anshumanjadiya1102_________________________________________________________________________________________________________© 2025 README.md. Crafted with ❤️
 
-
-
-
-
 ---
 
-## 🌠 Dark Theme Preview
-![Space Demo](https://media.giphy.com/media/Y0b2mpCw8RrRzqf2y9/giphy.gif)
-
----
- 
-
----
-
-
-
-![Demo](./assets/demo.gif)
-
----
-
-
-
-
-
+<div align=center>
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>
