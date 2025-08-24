@@ -69,8 +69,8 @@ Support me on Bitbucket: https://bitbucket.org/anshumanjadiya1102/workspace/over
 | Apps     | Path       | Stars       |
 |---------------|----------------|----------------|
 | Java_Beauty_Calculator  | ![Status](https://img.shields.io/badge/Status-Active-brightgreen) [Java_Beauty_Game](https://github.com/anshumanjadiya1102/Java_Beauty_Calculator)  | [![Stars](https://img.shields.io/github/stars/anshumanjadiya1102/Java_Beauty_Calculator?style=flat-square)](https://github.com/anshumanjadiya1102/Java_Beauty_Calculator)   |
-| Todo-App.Java  |  [Todo-App.java](https://github.com/anshumanjadiya1102/Todo-App.java) [Todo-App.java](https://github.com/anshumanjadiya1102/Todo-App.java) |  [![Stars](https://img.shields.io/github/stars/anshumanjadiya1102/Todo-App.java?style=flat-square)](https://github.com/anshumanjadiya1102/Todo-App.java)   |
-| Number-Guessing-Game |  [Number-Guessing-Game](https://github.com/anshumanjadiya1102/Number-Guessing-Game) [Number-Guessing-Game](https://github.com/anshumanjadiya1102/Number-Guessing-Game)  |  [![Stars](https://img.shields.io/github/stars/anshumanjadiya1102/Number-Guessing-Game?style=flat-square)](https://github.com/anshumanjadiya1102/Number-Guessing-Game)   |
+| Todo-App.Java  | ![Status](https://img.shields.io/badge/Status-Active-brightgreen) [Todo-App.java](https://github.com/anshumanjadiya1102/Todo-App.java) |  [![Stars](https://img.shields.io/github/stars/anshumanjadiya1102/Todo-App.java?style=flat-square)](https://github.com/anshumanjadiya1102/Todo-App.java)   |
+| Number-Guessing-Game |  ![Status](https://img.shields.io/badge/Status-Active-brightgreen) [Number-Guessing-Game](https://github.com/anshumanjadiya1102/Number-Guessing-Game)  |  [![Stars](https://img.shields.io/github/stars/anshumanjadiya1102/Number-Guessing-Game?style=flat-square)](https://github.com/anshumanjadiya1102/Number-Guessing-Game)   |
 
   
   ---
