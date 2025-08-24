@@ -66,11 +66,42 @@ Support me on Bitbucket: https://bitbucket.org/anshumanjadiya1102/workspace/over
 
 ## 📊  Java-Beauty-Suite  
 
-| Apps     |   Status   | Path       | Stars       |
-|---------------|----------------|----------------|
-| Java_Beauty_Calculator  |   ![Status](https://img.shields.io/badge/Status-Active-brightgreen)   | [Java_Beauty_Game](https://github.com/anshumanjadiya1102/Java_Beauty_Calculator)  | [![Stars](https://img.shields.io/github/stars/anshumanjadiya1102/Java_Beauty_Calculator?style=flat-square)](https://github.com/anshumanjadiya1102/Java_Beauty_Calculator)   |
-| Todo-App.Java  | ![Status](https://img.shields.io/badge/Status-Active-brightgreen)   | [Todo-App.java](https://github.com/anshumanjadiya1102/Todo-App.java)   |  [![Stars](https://img.shields.io/github/stars/anshumanjadiya1102/Todo-App.java?style=flat-square)](https://github.com/anshumanjadiya1102/Todo-App.java)   |
-| Number-Guessing-Game |  ![Status](https://img.shields.io/badge/Status-Active-brightgreen)   | [Number-Guessing-Game](https://github.com/anshumanjadiya1102/Number-Guessing-Game)  |  [![Stars](https://img.shields.io/github/stars/anshumanjadiya1102/Number-Guessing-Game?style=flat-square)](https://github.com/anshumanjadiya1102/Number-Guessing-Game)   |
+## 🌟 My Projects  
+
+<div align="center">
+
+<table>
+  <tr>
+    <th><img src="https://img.shields.io/badge/App-🚀-blue?style=for-the-badge"></th>
+    <th><img src="https://img.shields.io/badge/Status-📌-brightgreen?style=for-the-badge"></th>
+    <th><img src="https://img.shields.io/badge/Repository-📂-orange?style=for-the-badge"></th>
+    <th><img src="https://img.shields.io/badge/Stars-⭐-yellow?style=for-the-badge"></th>
+  </tr>
+
+  <tr>
+    <td><b>Java_Beauty_Calculator</b></td>
+    <td><img src="https://img.shields.io/badge/Active-brightgreen?style=flat-square"></td>
+    <td><a href="https://github.com/anshumanjadiya1102/Java_Beauty_Calculator">🔗 Java_Beauty_Calculator</a></td>
+    <td><a href="https://github.com/anshumanjadiya1102/Java_Beauty_Calculator"><img src="https://img.shields.io/github/stars/anshumanjadiya1102/Java_Beauty_Calculator?style=for-the-badge" alt="stars"></a></td>
+  </tr>
+
+  <tr>
+    <td><b>Todo-App.Java</b></td>
+    <td><img src="https://img.shields.io/badge/Active-brightgreen?style=flat-square"></td>
+    <td><a href="https://github.com/anshumanjadiya1102/Todo-App.java">🔗 Todo-App.java</a></td>
+    <td><a href="https://github.com/anshumanjadiya1102/Todo-App.java"><img src="https://img.shields.io/github/stars/anshumanjadiya1102/Todo-App.java?style=for-the-badge" alt="stars"></a></td>
+  </tr>
+
+  <tr>
+    <td><b>Number-Guessing-Game</b></td>
+    <td><img src="https://img.shields.io/badge/Active-brightgreen?style=flat-square"></td>
+    <td><a href="https://github.com/anshumanjadiya1102/Number-Guessing-Game">🔗 Number-Guessing-Game</a></td>
+    <td><a href="https://github.com/anshumanjadiya1102/Number-Guessing-Game"><img src="https://img.shields.io/github/stars/anshumanjadiya1102/Number-Guessing-Game?style=for-the-badge" alt="stars"></a></td>
+  </tr>
+</table>
+
+</div>
+
 
   
   ---
