@@ -1,5 +1,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello+Every+GitHub+Souls!!&height=100&section=header"/>
+  
+  ##  _“Coding beauty into Java, one project at a time ☕✨”_
+
 </p>
  # 👋Hello Every Github Souls! I'm Anshuman Jadiya
 Welcome to my profile...                                                                                                                                                                  
@@ -185,11 +188,6 @@ Support me on Bitbucket: https://bitbucket.org/anshumanjadiya1102/workspace/over
 
 ---
 
-<div align=center>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C03&center=true&vCenter=true&width=435&lines=💖🎨🎶☕;)](https://git.io/typing-svg)
-
-</div>
 
 
 <div align="center" valign="center">
