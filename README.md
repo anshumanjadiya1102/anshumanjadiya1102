@@ -3,7 +3,7 @@
 
   <div align=center>
   
-  ###  _“Coding beauty into Java, one project at a time ☕✨”_ - Java_Beauty_Suite
+  #####  _“Coding beauty into Java, one project at a time ☕✨”_ - Java_Beauty_Suite
 
   </div>
 
