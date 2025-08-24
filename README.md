@@ -92,7 +92,13 @@ Support me on Bitbucket: https://bitbucket.org/anshumanjadiya1102/workspace/over
   Support me more & more for this mega-project...<br> <br>
 ---
 
-## 📊  Java-Beauty-Suite  
+## 📊  Java-Beauty-Suite 
+## 🚀 Featured Projects
+
+**[Java Beauty Suite](https://github.com/anshumanjadiya1102/Java_Beauty_Suite)**  
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)  
+> A suite of Java applications designed to showcase clean UI, productivity, and coding efficiency.
+
 
 <div align="center">
 
@@ -192,7 +198,7 @@ Support me on Bitbucket: https://bitbucket.org/anshumanjadiya1102/workspace/over
   <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=67&pause=1000&color=714542BB&center=true&vCenter=true&width=700&height=60&lines=Don't+Forget+to+Follow!" alt="Typing SVG" />
   <img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/wavingCat.gif" width="60" height="60" />
 </div>  
-
+###  _“Coding beauty into Java, one project at a time ☕✨”_
 
 ---
 
