@@ -62,6 +62,16 @@ Support me on Bitbucket: https://bitbucket.org/anshumanjadiya1102/workspace/over
    and learning different-different languages...<br> 
   As I have created my own website, Now I'm on the way to create my own suite, "Beauty_Java_Suite"<br>
   Support me more & more for this mega-project...<br>
+---
+
+## 📊  Java-Bea 
+
+| Apps     | Path       | Stars       |
+|---------------|----------------|----------------|
+| java_Beauty_Calculator  | [!Java_Beauty_Game](https://github.com/anshumanjadiya1102/Java_Beauty_Calculator)   | Row 1, Col 3   |
+| Todo-App.Java  |   [!Todo-App.java](https://github.com/anshumanjadiya1102/Todo-App.java)  | Row 2, Col 3   |
+| Number-Guessing-Game |  [!Number-Guessing-Game](https://github.com/anshumanjadiya1102/Number-Guessing-Game)   | Row 3, Col 3   |
+
   
   ---
   ## 💻 Tech Stack:
