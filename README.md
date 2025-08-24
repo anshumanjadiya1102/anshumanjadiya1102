@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello+Every+GitHub+Souls!+I'm+Anshuman+Jadiya!&height=100&section=header"/>
+</p>
  # 👋Hello Every Github Souls! I'm Anshuman Jadiya
 Welcome to my profile...                                                                                                                                                                  
 Hmm...But you don't know about me. So lets get started... 
