@@ -93,7 +93,7 @@ Support me on Bitbucket: https://bitbucket.org/anshumanjadiya1102/workspace/over
 ---
 
 ## 📊  Java-Beauty-Suite 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
 **[Java Beauty Suite](https://github.com/anshumanjadiya1102/Java_Beauty_Suite)**  
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)  
