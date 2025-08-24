@@ -72,10 +72,10 @@ Support me on Bitbucket: https://bitbucket.org/anshumanjadiya1102/workspace/over
 
 <table>
   <tr>
-    <th><img src="https://img.shields.io/badge/App-🚀-blue?style=for-the-badge"></th>
-    <th><img src="https://img.shields.io/badge/Status-📌-brightgreen?style=for-the-badge"></th>
-    <th><img src="https://img.shields.io/badge/Repository-📂-orange?style=for-the-badge"></th>
-    <th><img src="https://img.shields.io/badge/Stars-⭐-yellow?style=for-the-badge"></th>
+    <th> APP <img src="https://img.shields.io/badge/App-🚀-blue?style=for-the-badge"></th>
+    <th> STATUS <img src="https://img.shields.io/badge/Status-📌-brightgreen?style=for-the-badge"></th>
+    <th> PATH <img src="https://img.shields.io/badge/Repository-📂-orange?style=for-the-badge"></th>
+    <th> STARS <img src="https://img.shields.io/badge/Stars-⭐-yellow?style=for-the-badge"></th>
   </tr>
 
   <tr>
