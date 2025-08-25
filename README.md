@@ -141,11 +141,6 @@ My latest produces include:
 
 ---
 
-```diff
-+ Hello there
-- I'm Anshuman Jadiya
-```
-
 ## Connect and Support:
 Support me on Github: [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anshumanjadiya1102)  https://github.com/anshumanjadiya1102
 Follow me on Gitlab: [![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/anshumanjadiya1102) https://gitlab.com/anshumanjadiya1102 <br>
@@ -154,11 +149,7 @@ You can contact me through Gmail: [![Email](https://img.shields.io/badge/-Email-
 Connect me on Discord:  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/JydSGaBN) <br>
 Support me on Bitbucket:  https://bitbucket.org/anshumanjadiya1102/workspace/overview/
 
-
-
 ---
-
-
 
 <div align="center" valign="center">
   <img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/wavingCat.gif" width="60" height="60" />
@@ -166,10 +157,6 @@ Support me on Bitbucket:  https://bitbucket.org/anshumanjadiya1102/workspace/ove
  
   <img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/wavingCat.gif" width="60" height="60" />
 </div> 
-
-
-
-
 
 <div align="center">
 
