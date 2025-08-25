@@ -14,30 +14,21 @@
 Welcome to my profile...                                                                                                                                                                  
 Hmm...But you don't know about me. So lets get started... 
 I'm a school student, a Java-learner with lot of dreams and hope in my eyes!!! <br>
-
- [![Awesome](https://awesome.re/badge.svg)](https://github.com/anshumanjadiya1102/anshumanjadiya1102/blob/master/sources/awesome.md)<br>
+ [![Awesome](https://awesome.re/badge.svg)](https://github.com/anshumanjadiya1102/anshumanjadiya1102/blob/master/sources/awesome.md) <br>
  I'm a Java passionist and enthusiast who always want to promote Java and its value. It is the best language to learn as a Beginner...<br>
-
 - [![GitHub followers](https://img.shields.io/github/followers/anshumanjadiya1102?label=Followers&style=social)](https://github.com/anshumanjadiya1102) <br>
 - [![GitHub stars](https://img.shields.io/github/stars/anshumanjadiya1102?label=Stars&style=social)](https://github.com/anshumanjadiya1102) <br>
 - ![Drive-for-Java](https://img.shields.io/badge/Drive--for--Java-Open%20Source%20Community-00ccff?style=for-the-badge&logo=github&logoColor=white)
 - ![RecordHive](https://img.shields.io/badge/Organization-RecordHive-6a5acd?style=for-the-badge&logo=apachespark&logoColor=white)
+
 <div align=center>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C03&center=true&vCenter=true&width=435&lines=https://anshumanjadiya1102.github.io;Java+Beauty+Suite;Frontend+Developer;Backend+Support;Git+and+Github+Desktop+Support;Java+Enthusiast;HTML+Knower;Open+Source+Contributor)](https://git.io/typing-svg)
 
 </div>
 
-
 ---
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
-
-<!--
-**anshumanjadiya1102/anshumanjadiya1102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:-->
 -  ## 🌱 Current Stack
  - ☕Java (main language) ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
  - 📕HTML (side language with CSS)<img src="https://img.shields.io/badge/-HTML5-DE5934?logo=HTML5&logoColor=white&style=flat">&nbsp;
@@ -52,17 +43,17 @@ Here are some ideas to get you started:-->
 ---
 
 - ## ⛺ Current Updates...
- Hi there git pals!!! Wanna see my recent updates and codes?                                                                                                                                So see below... Below are my amazing and wonderful works and updates!                            
+ Hi there git pals!!! Wanna see my recent updates and codes? <br>                                                                                                                                                So see below... <br>
+ Below are my amazing and wonderful works and updates!                            
 
 ---
 
 
 - ## 🌐Websites
--  Hey there!!! I have finally created my own website: https://anshumanjadiya1102.github.io
+ Hey there!!! I have finally created my own website: https://anshumanjadiya1102.github.io
 
 ---
 
-<!--- 1st Section on Curated Articles -->
 - ## <b> 🔭My Priorities</b>
   I’m currently focusing on learning more and more Java, creating better and better apps,<img src="https://i.pinimg.com/originals/46/41/61/4641611401ecb508c625eebe448da663.gif" width="150" height="150" align="right" alt="anshumanjadiya1102"><br> 
    and learning different-different languages...<br> 
@@ -71,12 +62,14 @@ Here are some ideas to get you started:-->
 ---
 
 ## 📊  Java-Beauty-Suite 
-### 🚀 Featured Projects
 
 **[Java Beauty Suite](https://github.com/anshumanjadiya1102/Java_Beauty_Suite)**  
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)  
-> A suite of Java applications designed to showcase clean UI, productivity, and coding efficiency.
-
+> A suite of Java applications designed to showcase clean UI, productivity, and coding efficiency. <br>
+My latest produces include:
+- Java Calculator
+- Java Todo-App
+- Java Number Guessing Game
 
 <div align="center">
 
@@ -113,6 +106,7 @@ Here are some ideas to get you started:-->
 </div>
 
  ###### _All are built with 💖 and Passion in Java_ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+ 
   #### 🌌 Java Beauty Calculator 🚀
 ![Java](https://img.shields.io/badge/Coded%20In-Java-ff7518?style=for-the-badge&logo=java&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-Cross--Platform-6a5acd?style=for-the-badge&logo=windows-terminal&logoColor=white)
@@ -127,13 +121,15 @@ Here are some ideas to get you started:-->
 
 [![](https://visitcount.itsvg.in/api?id=anshumanjadiya1102&icon=6&color=7)](https://visitcount.itsvg.in)
 
- ### 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
 
 
  ## 🎉 Other Information
   
 ![Profile Views](https://komarev.com/ghpvc/?username=anshumanjadiya1102&color=orange&style=flat-square)
+
+ ### 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
