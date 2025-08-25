@@ -138,7 +138,7 @@ Here are some ideas to get you started:-->
 [![](https://visitcount.itsvg.in/api?id=anshumanjadiya1102&icon=6&color=7)](https://visitcount.itsvg.in)
 
 
-- ## Other Information
+- ## 🎉 Other Information
   
 ![Profile Views](https://komarev.com/ghpvc/?username=anshumanjadiya1102&color=orange&style=flat-square)
 
