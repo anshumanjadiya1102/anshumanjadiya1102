@@ -53,7 +53,8 @@ I'm a school student, a Java-learner with lot of dreams and hope in my eyes!!! <
 
 - ## ⛺ Current Updates...
  Hi there git pals!!! Wanna see my recent updates and codes? <br>                                                                                                                                                So see below... <br>
- Below are my amazing and wonderful works and updates!                            
+ Below are my amazing and wonderful works and updates! <br>
+ I have finally made my own "Java-Beauty-Suite", So check them up...
 
 ---
 
