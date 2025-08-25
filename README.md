@@ -143,10 +143,10 @@ My latest produces include:
 ---
 
 ## Connect and Support:
-Support me on Github: [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anshumanjadiya1102)  https://github.com/anshumanjadiya1102 <br>
-Follow me on Gitlab: [![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/anshumanjadiya1102) https://gitlab.com/anshumanjadiya1102 <br>
+Support me on Github: [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anshumanjadiya1102) <br>
+Follow me on Gitlab: [![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/anshumanjadiya1102) <br>
 My Website: [![Website](https://img.shields.io/badge/-Website-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://anshumanjadiya1102.github.io) <br>
-You can contact me through Gmail: [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto🥇anshuman.jadiya03@gmail.com) anshuman.jadiya03@gmail.com  E-mail [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anshuman.jadiya03@gmail.com) <br>
+You can contact me through Gmail: [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto🥇anshuman.jadiya03@gmail.com) <br>
 Connect me on Discord:  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/JydSGaBN) <br>
 Support me on Bitbucket:  https://bitbucket.org/anshumanjadiya1102/workspace/overview/ <br>
 
