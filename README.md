@@ -14,12 +14,12 @@
 Welcome to my profile...                                                                                                                                                                  
 Hmm...But you don't know about me. So lets get started... 
 I'm a school student, a Java-learner with lot of dreams and hope in my eyes!!! <br>
- [![Awesome](https://awesome.re/badge.svg)](https://github.com/anshumanjadiya1102/anshumanjadiya1102/blob/master/sources/awesome.md) <br>
  I'm a Java passionist and enthusiast who always want to promote Java and its value. It is the best language to learn as a Beginner...<br>
 - [![GitHub followers](https://img.shields.io/github/followers/anshumanjadiya1102?label=Followers&style=social)](https://github.com/anshumanjadiya1102) <br>
 - [![GitHub stars](https://img.shields.io/github/stars/anshumanjadiya1102?label=Stars&style=social)](https://github.com/anshumanjadiya1102) <br>
 - ![Drive-for-Java](https://img.shields.io/badge/Drive--for--Java-Open%20Source%20Community-00ccff?style=for-the-badge&logo=github&logoColor=white)
 - ![RecordHive](https://img.shields.io/badge/Organization-RecordHive-6a5acd?style=for-the-badge&logo=apachespark&logoColor=white)
+-  [![Awesome](https://awesome.re/badge.svg)](https://github.com/anshumanjadiya1102/anshumanjadiya1102/blob/master/sources/awesome.md) <br>
 
 <div align=center>
   
@@ -46,7 +46,8 @@ I'm a school student, a Java-learner with lot of dreams and hope in my eyes!!! <
   I’m currently focusing on learning more and more Java, creating better and better apps,<img src="https://i.pinimg.com/originals/46/41/61/4641611401ecb508c625eebe448da663.gif" width="150" height="150" align="right" alt="anshumanjadiya1102"><br> 
    and learning different-different languages...<br> 
   As I have created my own website, Now I'm on the way to create my own suite, "Beauty_Java_Suite"<br>
-  Support me more & more for this mega-project...<br> <br>
+  Support me more & more for this Java mega-project...<br>
+  My main priority is to promote Java as much as possible and to tell youth and the begginers about carrer-creation and job-variations provided by Java...<br>
   
 ---
 
