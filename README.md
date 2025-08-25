@@ -107,22 +107,7 @@ My latest produces include:
 
  ###### _All are built with 💖 and Passion in Java_ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
  
-  #### 🌌 Java Beauty Calculator 🚀
-![Java](https://img.shields.io/badge/Coded%20In-Java-ff7518?style=for-the-badge&logo=java&logoColor=white)
-![Platform](https://img.shields.io/badge/Platform-Cross--Platform-6a5acd?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-00ffcc?style=for-the-badge&logo=rocket&logoColor=white)
-![OpenSource](https://img.shields.io/badge/Open%20Source-%E2%9C%85-ff69b4?style=for-the-badge&logo=github&logoColor=white)
-![Stars](https://img.shields.io/github/stars/anshumanjadiya1102/repo?style=for-the-badge&logo=starship&color=yellow)
-![Build](https://img.shields.io/badge/Build-Passing-2ecc71?style=for-the-badge&logo=githubactions&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge&logo=open-source-initiative&logoColor=white)
-
- 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=anshumanjadiya1102&icon=6&color=7)](https://visitcount.itsvg.in)
-
-
-
 
  ## 🎉 Other Information
   
@@ -137,6 +122,14 @@ My latest produces include:
 ![](https://github-readme-stats.vercel.app/api?username=anshumanjadiya1102&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=anshumanjadiya1102&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anshumanjadiya1102&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  #### 🌌 Java Beauty Calculator 🚀
+![Java](https://img.shields.io/badge/Coded%20In-Java-ff7518?style=for-the-badge&logo=java&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-Cross--Platform-6a5acd?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-00ffcc?style=for-the-badge&logo=rocket&logoColor=white)
+![OpenSource](https://img.shields.io/badge/Open%20Source-%E2%9C%85-ff69b4?style=for-the-badge&logo=github&logoColor=white)
+![Stars](https://img.shields.io/github/stars/anshumanjadiya1102/repo?style=for-the-badge&logo=starship&color=yellow)
+![Build](https://img.shields.io/badge/Build-Passing-2ecc71?style=for-the-badge&logo=githubactions&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge&logo=open-source-initiative&logoColor=white)
 
 </div>
 
