@@ -193,12 +193,13 @@ Support me on Bitbucket: https://bitbucket.org/anshumanjadiya1102/workspace/over
   <img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/wavingCat.gif" width="60" height="60" />
 </div> 
 
-###  _“Coding beauty into Java, one project at a time ☕✨”_
+
 
 
 
 <div align="center">
 
+###  _“Coding beauty into Java, one project at a time ☕✨”_
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
