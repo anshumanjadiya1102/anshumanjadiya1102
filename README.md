@@ -188,8 +188,8 @@ Support me on Bitbucket: https://bitbucket.org/anshumanjadiya1102/workspace/over
 
 <div align="center" valign="center">
   <img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/wavingCat.gif" width="60" height="60" />
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=67&pause=1000&color=714542BB&center=true&vCenter=true&width=700&height=60&lines=Bye+Bye!" alt="Typing SVG" /></a>
-  <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=67&pause=1000&color=714542BB&center=true&vCenter=true&width=700&height=60&lines=Don't+Forget+to+Follow!" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=67&pause=1000&color=714542BB&center=true&vCenter=true&width=700&height=60&lines=Don't+Forget+to+Follow!" alt="Anshuman jadiya" /></a>
+ 
   <img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/wavingCat.gif" width="60" height="60" />
 </div> 
 
