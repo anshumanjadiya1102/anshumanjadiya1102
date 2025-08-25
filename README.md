@@ -171,7 +171,7 @@ Here are some ideas to get you started:-->
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anshumanjadiya1102)
 [![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/anshumanjadiya1102)
 [![Website](https://img.shields.io/badge/-Website-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://anshumanjadiya1102.github.io)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto🥇anshuman.jadiya03@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto🥇anshuman.jadiya03@gmail.com) <br>
 You can contact me through Gmail: anshuman.jadiya03@gmail.com                                                                                                                              
 Support me on Github: https://github.com/anshumanjadiya1102                                                                                                                                
 Follow me on Gitlab: https://gitlab.com/anshumanjadiya1102 <br>
