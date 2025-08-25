@@ -64,6 +64,8 @@ I'm a school student, a Java-learner with lot of dreams and hope in my eyes!!! <
 
 ## 📊  Java-Beauty-Suite 
 
+
+
 **[Java Beauty Suite](https://github.com/anshumanjadiya1102/Java_Beauty_Suite)**  
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)  
 > A suite of Java applications designed to showcase clean UI, productivity, and coding efficiency. <br>
@@ -106,6 +108,15 @@ My latest produces include:
 
 </div>
 
+| Calculator App (GUI) | To-Do CLI App |
+|-----------------------|---------------|
+| ![Calculator](https://files.oaiusercontent.com/file_00000000cd0461f5bd3bf2d5af302ac9) <br> *A modern calculator GUI with number and operator buttons, styled with a blue "=" button.* | ![To-Do CLI](https://files.oaiusercontent.com/file_0000000098a461f596d765545b46e6f2) <br> *A terminal-based To-Do application showing available commands and a sample task list.* |
+
+| Number Guessing Game (CLI) | Number Guessing Game (GUI) |
+|-----------------------------|----------------------------|
+| ![Guess CLI](https://files.oaiusercontent.com/file_000000005c2c622f96ec921cf685486f) <br> *A command-line number guessing game where the user guesses until correct.* | ![Guess GUI](https://files.oaiusercontent.com/file_000000009074622f9bcea76f478679ca) <br> *A GUI-based number guessing game with input box, feedback messages, and an exit button.* |
+
+
  ###### _All are built with 💖 and Passion in Java_ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
  
 ---
@@ -123,14 +134,6 @@ My latest produces include:
 ![](https://github-readme-stats.vercel.app/api?username=anshumanjadiya1102&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=anshumanjadiya1102&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anshumanjadiya1102&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-  #### 🌌 Java Beauty Calculator 🚀
-![Java](https://img.shields.io/badge/Coded%20In-Java-ff7518?style=for-the-badge&logo=java&logoColor=white)
-![Platform](https://img.shields.io/badge/Platform-Cross--Platform-6a5acd?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-00ffcc?style=for-the-badge&logo=rocket&logoColor=white)
-![OpenSource](https://img.shields.io/badge/Open%20Source-%E2%9C%85-ff69b4?style=for-the-badge&logo=github&logoColor=white)
-![Stars](https://img.shields.io/github/stars/anshumanjadiya1102/repo?style=for-the-badge&logo=starship&color=yellow)
-![Build](https://img.shields.io/badge/Build-Passing-2ecc71?style=for-the-badge&logo=githubactions&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge&logo=open-source-initiative&logoColor=white)
 
 </div>
 
