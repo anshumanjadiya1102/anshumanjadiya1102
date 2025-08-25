@@ -65,7 +65,7 @@ I'm a school student, a Java-learner with lot of dreams and hope in my eyes!!! <
 
 ---
 
-## 📊  Java-Beauty-Suite 
+## 📊  Java-Beauty-Suite --"short page, wide knowledge"
 
 
 
