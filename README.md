@@ -42,6 +42,14 @@ I'm a school student, a Java-learner with lot of dreams and hope in my eyes!!! <
 
 ---
 
+- ## <b> 🔭My Priorities</b>
+  I’m currently focusing on learning more and more Java, creating better and better apps,<img src="https://i.pinimg.com/originals/46/41/61/4641611401ecb508c625eebe448da663.gif" width="150" height="150" align="right" alt="anshumanjadiya1102"><br> 
+   and learning different-different languages...<br> 
+  As I have created my own website, Now I'm on the way to create my own suite, "Beauty_Java_Suite"<br>
+  Support me more & more for this mega-project...<br> <br>
+  
+---
+
 - ## ⛺ Current Updates...
  Hi there git pals!!! Wanna see my recent updates and codes? <br>                                                                                                                                                So see below... <br>
  Below are my amazing and wonderful works and updates!                            
@@ -52,13 +60,6 @@ I'm a school student, a Java-learner with lot of dreams and hope in my eyes!!! <
 - ## 🌐Websites
  Hey there!!! I have finally created my own website: https://anshumanjadiya1102.github.io
 
----
-
-- ## <b> 🔭My Priorities</b>
-  I’m currently focusing on learning more and more Java, creating better and better apps,<img src="https://i.pinimg.com/originals/46/41/61/4641611401ecb508c625eebe448da663.gif" width="150" height="150" align="right" alt="anshumanjadiya1102"><br> 
-   and learning different-different languages...<br> 
-  As I have created my own website, Now I'm on the way to create my own suite, "Beauty_Java_Suite"<br>
-  Support me more & more for this mega-project...<br> <br>
 ---
 
 ## 📊  Java-Beauty-Suite 
