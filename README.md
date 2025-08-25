@@ -67,13 +67,13 @@ I'm a school student, a Java-learner with lot of dreams and hope in my eyes!!! <
 
 
 **[Java Beauty Suite](https://github.com/anshumanjadiya1102/Java_Beauty_Suite)**  
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)  
+![Status](https://img.shields.io/badge/Status-Work_in_Progress-red)  
 > A suite of Java applications designed to showcase clean UI, productivity, and coding efficiency. <br>
 My latest produces include:
-- Java Calculator- *A modern calculator GUI with number and operator buttons, styled with a blue "=" button.*
-- Java Todo-App-  *A terminal-based To-Do application showing available commands and a sample task list.*
-- Java Number Guessing Game- *A command-line number guessing game where the user guesses until correct.*
-- Java Football Game- *A JavaFX-powered 2D Multiplayer Football Game with real-time play and CSS-styled GUI.*
+- _Java Calculator_- *A modern calculator GUI with number and operator buttons, styled with a blue "=" button.*
+- _Java Todo-App_-  *A terminal-based To-Do application showing available commands and a sample task list.*
+- _Java Number Guessing Game_- *A command-line number guessing game where the user guesses until correct.*
+- _Java Football Game_- *A JavaFX-powered 2D Multiplayer Football Game with real-time play and CSS-styled GUI.*
 
 <div align="center">
 
@@ -105,6 +105,14 @@ My latest produces include:
     <td><a href="https://github.com/anshumanjadiya1102/Number-Guessing-Game">🔗 Number-Guessing-Game</a></td>
     <td><a href="https://github.com/anshumanjadiya1102/Number-Guessing-Game"><img src="https://img.shields.io/github/stars/anshumanjadiya1102/Number-Guessing-Game?style=for-the-badge" alt="stars"></a></td>
   </tr>
+
+  <tr>
+    <td><b>Football_Game</b></td>
+    <td><img src="https://img.shields.io/badge/Active-brightgreen?style=flat-square"></td>
+    <td><a href="https://github.com/anshumanjadiya1102/Football_Game">🔗 Football_Game</a></td>
+    <td><a href="https://github.com/anshumanjadiya1102/Football_Game"><img src="https://img.shields.io/github/stars/anshumanjadiya1102/Football_Game?style=for-the-badge" alt="stars"></a></td>
+  </tr>
+  
 </table>
 
 </div>
