@@ -110,11 +110,11 @@ My latest produces include:
 
 | Calculator App (GUI) | To-Do CLI App |
 |-----------------------|---------------|
-| <img width="50" height="50" alt="eabf7a0a-4845-4025-9366-3c3ecf44006d" src="https://github.com/user-attachments/assets/2c0c2450-483d-4e0e-9062-ae2fef73b023" /> <br> *A modern calculator GUI with number and operator buttons, styled with a blue "=" button.* | <img width="50" height="50" alt="Capture" src="https://github.com/user-attachments/assets/3c04f0c6-12ff-4373-a906-30cac645a5b0" /> <br> *A terminal-based To-Do application showing available commands and a sample task list.* |
+| <img width="100" height="100" alt="eabf7a0a-4845-4025-9366-3c3ecf44006d" src="https://github.com/user-attachments/assets/2c0c2450-483d-4e0e-9062-ae2fef73b023" /> <br> *A modern calculator GUI with number and operator buttons, styled with a blue "=" button.* | <img width="100" height="100" alt="Capture" src="https://github.com/user-attachments/assets/3c04f0c6-12ff-4373-a906-30cac645a5b0" /> <br> *A terminal-based To-Do application showing available commands and a sample task list.* |
 
 | Number Guessing Game (CLI) | Number Guessing Game (GUI) |
 |-----------------------------|----------------------------|
-| <img width="50" height="50" alt="842c606e-2331-406c-98e5-6bece8702c26" src="https://github.com/user-attachments/assets/c3ce4528-3cf7-4d77-adde-c86736b87ae6" /> <br> *A command-line number guessing game where the user guesses until correct.* | <img width="1536" height="1024" alt="eb1c021a-5ae4-4008-9d2c-8a5d97524019" src="https://github.com/user-attachments/assets/4fcf13b8-861a-4b58-9135-94c2f801aab6" /> <br> *A GUI-based number guessing game with input box, feedback messages, and an exit button.* |
+| <img width="100" height="100" alt="842c606e-2331-406c-98e5-6bece8702c26" src="https://github.com/user-attachments/assets/c3ce4528-3cf7-4d77-adde-c86736b87ae6" /> <br> *A command-line number guessing game where the user guesses until correct.* | <img width="100" height="100" alt="eb1c021a-5ae4-4008-9d2c-8a5d97524019" src="https://github.com/user-attachments/assets/4fcf13b8-861a-4b58-9135-94c2f801aab6" /> <br> *A GUI-based number guessing game with input box, feedback messages, and an exit button.* |
 
 
  ###### _All are built with 💖 and Passion in Java_ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
