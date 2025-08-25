@@ -20,10 +20,6 @@ I'm a school student, a Java-learner with lot of dreams and hope in my eyes!!! <
 - [![GitHub stars](https://img.shields.io/github/stars/anshumanjadiya1102?label=Stars&style=social)](https://github.com/anshumanjadiya1102) <br>
 - ![Drive-for-Java](https://img.shields.io/badge/Drive--for--Java-Open%20Source%20Community-00ccff?style=for-the-badge&logo=github&logoColor=white)
 - ![RecordHive](https://img.shields.io/badge/Organization-RecordHive-6a5acd?style=for-the-badge&logo=apachespark&logoColor=white)
-<img width="1536" height="1024" alt="eabf7a0a-4845-4025-9366-3c3ecf44006d" src="https://github.com/user-attachments/assets/2c0c2450-483d-4e0e-9062-ae2fef73b023" />
-<img width="1536" height="1024" alt="eb1c021a-5ae4-4008-9d2c-8a5d97524019" src="https://github.com/user-attachments/assets/4fcf13b8-861a-4b58-9135-94c2f801aab6" />
-<img width="1536" height="1024" alt="842c606e-2331-406c-98e5-6bece8702c26" src="https://github.com/user-attachments/assets/c3ce4528-3cf7-4d77-adde-c86736b87ae6" />
-<img width="268" height="397" alt="Capture" src="https://github.com/user-attachments/assets/3c04f0c6-12ff-4373-a906-30cac645a5b0" />
 
 <div align=center>
   
@@ -114,11 +110,11 @@ My latest produces include:
 
 | Calculator App (GUI) | To-Do CLI App |
 |-----------------------|---------------|
-| ![Calculator](https://files.oaiusercontent.com/file_00000000cd0461f5bd3bf2d5af302ac9) <br> *A modern calculator GUI with number and operator buttons, styled with a blue "=" button.* | ![To-Do CLI](https://files.oaiusercontent.com/file_0000000098a461f596d765545b46e6f2) <br> *A terminal-based To-Do application showing available commands and a sample task list.* |
+| <img width="50" height="50" alt="eabf7a0a-4845-4025-9366-3c3ecf44006d" src="https://github.com/user-attachments/assets/2c0c2450-483d-4e0e-9062-ae2fef73b023" /> <br> *A modern calculator GUI with number and operator buttons, styled with a blue "=" button.* | <img width="50" height="50" alt="Capture" src="https://github.com/user-attachments/assets/3c04f0c6-12ff-4373-a906-30cac645a5b0" /> <br> *A terminal-based To-Do application showing available commands and a sample task list.* |
 
 | Number Guessing Game (CLI) | Number Guessing Game (GUI) |
 |-----------------------------|----------------------------|
-| ![Guess CLI](https://files.oaiusercontent.com/file_000000005c2c622f96ec921cf685486f) <br> *A command-line number guessing game where the user guesses until correct.* | ![Guess GUI](https://files.oaiusercontent.com/file_000000009074622f9bcea76f478679ca) <br> *A GUI-based number guessing game with input box, feedback messages, and an exit button.* |
+| <img width="50" height="50" alt="842c606e-2331-406c-98e5-6bece8702c26" src="https://github.com/user-attachments/assets/c3ce4528-3cf7-4d77-adde-c86736b87ae6" /> <br> *A command-line number guessing game where the user guesses until correct.* | <img width="1536" height="1024" alt="eb1c021a-5ae4-4008-9d2c-8a5d97524019" src="https://github.com/user-attachments/assets/4fcf13b8-861a-4b58-9135-94c2f801aab6" /> <br> *A GUI-based number guessing game with input box, feedback messages, and an exit button.* |
 
 
  ###### _All are built with 💖 and Passion in Java_ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
