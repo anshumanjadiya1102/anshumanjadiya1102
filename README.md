@@ -17,9 +17,7 @@ I'm a school student, a Java-learner with lot of dreams and hope in my eyes!!! <
 
  [![Awesome](https://awesome.re/badge.svg)](https://github.com/anshumanjadiya1102/anshumanjadiya1102/blob/master/sources/awesome.md)<br>
  I'm a Java passionist and enthusiast who always want to promote Java and its value. It is the best language to learn as a Beginner...<br>
-Wanna Connect to me: <br>
-- Discord [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/JydSGaBN) <br>
-- E-mail [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anshuman.jadiya03@gmail.com) <br>
+
 - [![GitHub followers](https://img.shields.io/github/followers/anshumanjadiya1102?label=Followers&style=social)](https://github.com/anshumanjadiya1102) <br>
 - [![GitHub stars](https://img.shields.io/github/stars/anshumanjadiya1102?label=Stars&style=social)](https://github.com/anshumanjadiya1102) <br>
 - ![Drive-for-Java](https://img.shields.io/badge/Drive--for--Java-Open%20Source%20Community-00ccff?style=for-the-badge&logo=github&logoColor=white)
@@ -128,17 +126,16 @@ Here are some ideas to get you started:-->
 
  ###### _All are built with 💖 and Passion in Java_ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 
-
-  
-  ---
-  ## 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-
+ 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=anshumanjadiya1102&icon=6&color=7)](https://visitcount.itsvg.in)
 
+ ### 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-- ## 🎉 Other Information
+
+ ## 🎉 Other Information
   
 ![Profile Views](https://komarev.com/ghpvc/?username=anshumanjadiya1102&color=orange&style=flat-square)
 
@@ -159,24 +156,18 @@ Here are some ideas to get you started:-->
 
 ---
 
-
----
-
 ```diff
 + Hello there
 - I'm Anshuman Jadiya
 ```
 
 ## Connect and Support:
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anshumanjadiya1102)
-[![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/anshumanjadiya1102)
-[![Website](https://img.shields.io/badge/-Website-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://anshumanjadiya1102.github.io)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto🥇anshuman.jadiya03@gmail.com) <br>
-You can contact me through Gmail: anshuman.jadiya03@gmail.com                                                                                                                              
-Support me on Github: https://github.com/anshumanjadiya1102                                                                                                                                
-Follow me on Gitlab: https://gitlab.com/anshumanjadiya1102 <br>
-Support me on Bitbucket: https://bitbucket.org/anshumanjadiya1102/workspace/overview/
-<p align="left">Connect to me on Discord https://discord.gg/JydSGaBN <a href="https://discord.gg/https://discord.gg/JydSGaBN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/JydSGaBN" height="30" width="40" /></a></p> 
+Support me on Github: [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anshumanjadiya1102)  https://github.com/anshumanjadiya1102
+Follow me on Gitlab: [![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/anshumanjadiya1102) https://gitlab.com/anshumanjadiya1102 <br>
+My Website: [![Website](https://img.shields.io/badge/-Website-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://anshumanjadiya1102.github.io)
+You can contact me through Gmail: [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto🥇anshuman.jadiya03@gmail.com) anshuman.jadiya03@gmail.com  E-mail [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anshuman.jadiya03@gmail.com) <br>
+Connect me on Discord:  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/JydSGaBN) <br>
+Support me on Bitbucket:  https://bitbucket.org/anshumanjadiya1102/workspace/overview/
 
 
 
