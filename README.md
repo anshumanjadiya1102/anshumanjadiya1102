@@ -66,7 +66,8 @@ I'm a school student, a Java-learner with lot of dreams and hope in my eyes!!! <
 
 
 
-**[Java Beauty Suite](https://github.com/anshumanjadiya1102/Java_Beauty_Suite)**  
+**[Java Beauty Suite](https://github.com/anshumanjadiya1102/Java_Beauty_Suite)** 
+<br>
 ![Status](https://img.shields.io/badge/Status-Work_in_Progress-red)  
 > A suite of Java applications designed to showcase clean UI, productivity, and coding efficiency. <br>
 My latest produces include:
