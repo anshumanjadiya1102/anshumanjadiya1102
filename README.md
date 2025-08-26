@@ -201,12 +201,14 @@ Support me on Bitbucket:  https://bitbucket.org/anshumanjadiya1102/workspace/ove
 
 </div>
 
-![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4)
-
-###### anshumanjadiya1102_________________________________________________________________________________________________________© 2025 README.md. Crafted with ❤️
-
-</div>
-
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
+![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4)
+
+###### anshumanjadiya1102_________________________________________________________________________________________________________© 2025 README.md. Crafted with ❤️
+</div>
+
+
+
