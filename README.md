@@ -83,8 +83,8 @@ I'm a school student, a Java-learner with lot of dreams and hope in my eyes!!! <
 
 ---
 
-## 📊  Java-Beauty-Suite --"short page, wide knowledge" <img width="100" height="100" alt="ChatGPT Image Aug 26, 2025, 07_50_13 PM" src="https://github.com/user-attachments/assets/cde043ee-2487-4061-b73b-d142dbf4e4ff" />
-
+## 📊  Java-Beauty-Suite --"short page, wide knowledge" 
+<img width="200" height="200" alt="ChatGPT Image Aug 26, 2025, 07_50_13 PM" src="https://github.com/user-attachments/assets/cde043ee-2487-4061-b73b-d142dbf4e4ff" />
 
 
 
