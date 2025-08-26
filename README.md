@@ -1,4 +1,4 @@
-<div style="border: 4px dashed #1abc9c; padding: 15px; border-radius: 12px; margin: 20px 0;">
+<div style="border: 8px double #ff4757; padding: 25px; border-radius: 15px;">
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello+Every+GitHub+Souls!!&height=100&section=header"/>
 
