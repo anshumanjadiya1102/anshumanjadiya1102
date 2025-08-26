@@ -1,4 +1,4 @@
-<div style="border: 8px double #ff4757; padding: 25px; border-radius: 15px;">
+![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello+Every+GitHub+Souls!!&height=100&section=header"/>
 
@@ -10,8 +10,12 @@
 
 </p>
 
- #  👋Hello Every Github Souls! I'm Anshuman Jadiya
- 
+![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
+
+    ╔════════════════════════════════════════════╗  
+ # 👋Hello Every Github Souls! I'm Anshuman Jadiya
+    ╚════════════════════════════════════════════╝  
+    
 Welcome to my profile...                                                                                                                                                                  
 Hmm...But you don't know about me. So lets get started... 
 I'm a school student, a Java-learner with lot of dreams and hope in my eyes!!! <br>
@@ -31,7 +35,10 @@ I'm a school student, a Java-learner with lot of dreams and hope in my eyes!!! <
 
 ---
 
--  ## 🌱 Current Stack
+      ╔════════════════════════════════════════════╗  
+-  ##        🌱 Current Stack
+       ╚════════════════════════════════════════════╝
+   
  - ☕Java (main language) ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
  - 📕HTML (side language with CSS)<img src="https://img.shields.io/badge/-HTML5-DE5934?logo=HTML5&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-CSS3-2275B2?logo=CSS3&logoColor=white&style=flat"> &nbsp;
@@ -41,6 +48,8 @@ I'm a school student, a Java-learner with lot of dreams and hope in my eyes!!! <
  - 🏞 Bitbucket (with Jira)
  - ⚓Visual Studio Code <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-25AEF4?logo=visualstudio&logoColor=white&style=flat">
  - 🎨Passion and Determination
+
+![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4)
 
 ---
 
@@ -130,7 +139,9 @@ My latest produces include:
   
 ![Profile Views](https://komarev.com/ghpvc/?username=anshumanjadiya1102&color=orange&style=flat-square)
 
- ### 💻 Tech Stack:
+    ╔═════════════════════════════════════╗  
+  ###    🚀 My Tech Arsenal  
+    ╚═════════════════════════════════════╝  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 <h3 align="left">Languages and Tools:</h3>
