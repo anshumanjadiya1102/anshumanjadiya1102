@@ -33,6 +33,8 @@ I'm a school student, a Java-learner with lot of dreams and hope in my eyes!!! <
 
 </div>
 
+![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
+
 ---
 
       
@@ -59,6 +61,8 @@ I'm a school student, a Java-learner with lot of dreams and hope in my eyes!!! <
   As I have created my own website, Now I'm on the way to create my own suite, "Beauty_Java_Suite"<br>
   Support me more & more for this Java mega-project...<br>
   My main priority is to promote Java as much as possible and to tell youth and the begginers about carrer-creation and job-variations provided by Java...<br>
+
+  ![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
   
 ---
 
@@ -67,11 +71,15 @@ I'm a school student, a Java-learner with lot of dreams and hope in my eyes!!! <
  Below are my amazing and wonderful works and updates! <br>
  I have finally made my own "Java-Beauty-Suite", So check them up...
 
+ ![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
+
 ---
 
 
 - ## 🌐Websites
  Hey there!!! I have finally created my own website: https://anshumanjadiya1102.github.io
+
+ ![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
 
 ---
 
@@ -132,6 +140,8 @@ My latest produces include:
 </div>
 
  ###### _All are built with 💖 and Passion in Java_ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+
+ ![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
  
 ---
 
@@ -139,9 +149,9 @@ My latest produces include:
   
 ![Profile Views](https://komarev.com/ghpvc/?username=anshumanjadiya1102&color=orange&style=flat-square)
 
-    ╔═════════════════════════════════════╗  
+    
   ###    🚀 My Tech Arsenal  
-    ╚═════════════════════════════════════╝  
+    
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 <h3 align="left">Languages and Tools:</h3>
@@ -159,6 +169,8 @@ My latest produces include:
 
 </div>
 
+![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
+
 ---
 
 ## Connect and Support:
@@ -168,6 +180,8 @@ My Website: [![Website](https://img.shields.io/badge/-Website-FF7139?style=for-t
 You can contact me through Gmail: [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto🥇anshuman.jadiya03@gmail.com) <br>
 Connect me on Discord:  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/JydSGaBN) <br>
 Support me on Bitbucket:  https://bitbucket.org/anshumanjadiya1102/workspace/overview/ <br>
+
+![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
 
 ---
 
