@@ -1,3 +1,4 @@
+<div style="border: 4px dashed #1abc9c; padding: 15px; border-radius: 12px; margin: 20px 0;">
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello+Every+GitHub+Souls!!&height=100&section=header"/>
 
@@ -176,3 +177,4 @@ Support me on Bitbucket:  https://bitbucket.org/anshumanjadiya1102/workspace/ove
 
 ###### anshumanjadiya1102_________________________________________________________________________________________________________© 2025 README.md. Crafted with ❤️
 
+</div>
