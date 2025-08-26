@@ -83,7 +83,7 @@ I'm a school student, a Java-learner with lot of dreams and hope in my eyes!!! <
 
 ---
 
-## 📊  Java-Beauty-Suite --"short page, wide knowledge" 
+##  <img width="50" height="50" alt="Anshuman Jadiya" src="https://github.com/user-attachments/assets/6db39f07-fed1-4596-9206-7ef26d414c65" /> Java-Beauty-Suite --"short page, wide knowledge" 
 <img width="200" height="200" alt="ChatGPT Image Aug 26, 2025, 07_50_13 PM" src="https://github.com/user-attachments/assets/cde043ee-2487-4061-b73b-d142dbf4e4ff" />
 
 
