@@ -1,4 +1,49 @@
-![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
+<div class="border-box">
+  <h2>Java Beauty Suite</h2>
+  <p>Creative Java Projects with Style</p>
+</div>
+
+<style>
+  body {
+    background: #0d1b2a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: sans-serif;
+    color: white;
+  }
+
+  .border-box {
+    padding: 20px 40px;
+    text-align: center;
+    position: relative;
+    border-radius: 20px;
+    background: #0d1b2a;
+    overflow: hidden;
+  }
+
+  .border-box::before {
+    content: "";
+    position: absolute;
+    top: -2px;
+    left: -2px;
+    right: -2px;
+    bottom: -2px;
+    background: linear-gradient(270deg, #ff0080, #7928ca, #00e0ff, #ff0080);
+    background-size: 600% 600%;
+    border-radius: 22px;
+    z-index: -1;
+    animation: moveBorder 6s linear infinite;
+  }
+
+  @keyframes moveBorder {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+  }
+</style>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello+Every+GitHub+Souls!!&height=100&section=header"/>
 
