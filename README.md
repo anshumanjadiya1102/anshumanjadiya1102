@@ -12,9 +12,9 @@
 
 ![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
 
-   ╔════════════════════════════════════════════╗  
+  
  # 👋Hello Every Github Souls! I'm Anshuman Jadiya
-   ╚════════════════════════════════════════════╝  
+   
     
 Welcome to my profile...                                                                                                                                                                  
 Hmm...But you don't know about me. So lets get started... 
@@ -35,9 +35,9 @@ I'm a school student, a Java-learner with lot of dreams and hope in my eyes!!! <
 
 ---
 
-      ╔════════════════════════════════════════════╗  
+      
 -  ##        🌱 Current Stack
-       ╚════════════════════════════════════════════╝
+     
    
  - ☕Java (main language) ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
  - 📕HTML (side language with CSS)<img src="https://img.shields.io/badge/-HTML5-DE5934?logo=HTML5&logoColor=white&style=flat">&nbsp;
@@ -185,6 +185,8 @@ Support me on Bitbucket:  https://bitbucket.org/anshumanjadiya1102/workspace/ove
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>
+
+![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4)
 
 ###### anshumanjadiya1102_________________________________________________________________________________________________________© 2025 README.md. Crafted with ❤️
 
