@@ -120,28 +120,28 @@ My latest produces include:
     <td><b>Todo-App.Java</b></td>
     <td><img src="https://img.shields.io/badge/Active-brightgreen?style=flat-square"></td>
     <td><a href="https://github.com/anshumanjadiya1102/Todo-App.java">🔗 Todo-App.java</a></td>
-    <td><a href="https://github.com/anshumanjadiya1102/Todo-App.java"><img src="https://img.shields.io/github/stars/anshumanjadiya1102/Todo-App.java?style=for-the-badge" alt="stars"></a></td>
+    <td><a href="https://github.com/anshumanjadiya1102/Todo-App.java"><img src="https://img.shields.io/github/stars/anshumanjadiya1102/Todo-App.java?style=for-the-badge&logo=github" alt="stars"></a></td>
   </tr>
 
   <tr>
     <td><b>Number-Guessing-Game</b></td>
     <td><img src="https://img.shields.io/badge/Active-brightgreen?style=flat-square"></td>
     <td><a href="https://github.com/anshumanjadiya1102/Number-Guessing-Game">🔗 Number-Guessing-Game</a></td>
-    <td><a href="https://github.com/anshumanjadiya1102/Number-Guessing-Game"><img src="https://img.shields.io/github/stars/anshumanjadiya1102/Number-Guessing-Game?style=for-the-badge" alt="stars"></a></td>
+    <td><a href="https://github.com/anshumanjadiya1102/Number-Guessing-Game"><img src="https://img.shields.io/github/stars/anshumanjadiya1102/Number-Guessing-Game?style=for-the-badge&logo=github" alt="stars"></a></td>
   </tr>
 
   <tr>
     <td><b>Football_Game</b></td>
     <td><img src="https://img.shields.io/badge/Active-brightgreen?style=flat-square"></td>
     <td><a href="https://github.com/anshumanjadiya1102/Football_Game">🔗 Football_Game</a></td>
-    <td><a href="https://github.com/anshumanjadiya1102/Football_Game"><img src="https://img.shields.io/github/stars/anshumanjadiya1102/Football_Game?style=for-the-badge" alt="stars"></a></td>
+    <td><a href="https://github.com/anshumanjadiya1102/Football_Game"><img src="https://img.shields.io/github/stars/anshumanjadiya1102/Football_Game?style=for-the-badge&logo=github" alt="stars"></a></a></td>
   </tr>
 
   <tr>
     <td><b>Tic-Tac-Toe-FX.java</b></td>
     <td><img src="https://img.shields.io/badge/Active-brightgreen?style=flat-square"></td>
     <td><a href="https://github.com/anshumanjadiya1102/TicTacToeFX.java">🔗 TicTacToeFX.java</a></td>
-    <td><a href="https://github.com/anshumanjadiya1102/TicTacToeFX.java"><img src="https://img.shields.io/github/stars/anshumanjadiya1102/TicTacToeFX.java?style=for-the-badge" alt="stars"></a></td>  
+    <td><a href="https://github.com/anshumanjadiya1102/Tic-Tac-Toe-FX.java"><img src="https://img.shields.io/github/stars/anshumanjadiya1102/Tic-Tac-Toe-FX.java?style=for-the-badge&logo=github" alt="stars"></a></a></td>  
     
   </tr>
   
