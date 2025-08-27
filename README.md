@@ -141,7 +141,7 @@ My latest produces include:
     <td><b>Tic-Tac-Toe-FX.java</b></td>
     <td><img src="https://img.shields.io/badge/Active-brightgreen?style=flat-square"></td>
     <td><a href="https://github.com/anshumanjadiya1102/TicTacToeFX.java">🔗 TicTacToeFX.java</a></td>
-    <td><a href="https://github.com/anshumanjadiya1102/Tic-Tac-Toe-FX.java"><img src="https://img.shields.io/github/stars/anshumanjadiya1102/Tic-Tac-Toe-FX.java?style=for-the-badge&logo=github" alt="stars"></a></a></td>  
+    <td><a href="https://github.com/anshumanjadiya1102/Tic-Tac-ToeFX.java"><img src="https://img.shields.io/github/stars/anshumanjadiya1102/Tic-Tac-ToeFX.java?style=for-the-badge&logo=github" alt="stars"></a></a></td>  
     
   </tr>
   
