@@ -112,7 +112,8 @@ My latest produces include:
     <td><b>Java_Beauty_Calculator</b></td>
     <td><img src="https://img.shields.io/badge/Active-brightgreen?style=flat-square"></td>
     <td><a href="https://github.com/anshumanjadiya1102/Java_Beauty_Calculator">🔗 Java_Beauty_Calculator</a></td>
-    <td><a href="https://github.com/anshumanjadiya1102/Java_Beauty_Calculator"><img src="https://img.shields.io/github/stars/anshumanjadiya1102/Java_Beauty_Calculator?style=for-the-badge" alt="stars"></a></td>
+    <td><a href="https://github.com/anshumanjadiya1102/Java_Beauty_Calculator"><img src="https://img.shields.io/github/stars/anshumanjadiya1102/Java_Beauty_Calculator?style=for-the-badge&logo=github" alt="stars"></a>
+</td>
   </tr>
 
   <tr>
