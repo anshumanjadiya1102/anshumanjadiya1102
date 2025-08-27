@@ -96,6 +96,7 @@ My latest produces include:
 - _Java Todo-App_-  *A terminal-based To-Do application showing available commands and a sample task list.*
 - _Java Number Guessing Game_- *A command-line number guessing game where the user guesses until correct.*
 - _Java Football Game_- *A JavaFX-powered 2D Multiplayer Football Game with real-time play and CSS-styled GUI.*
+- _Java Tic-Tac-Toe Game_- *A modern JavaFX Tic Tac Toe game with multiple difficulty levels (Easy, Medium, Hard). Play against a smart AI powered by Minimax algorithm or challenge a friend!*
 
 <div align="center">
 
