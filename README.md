@@ -134,6 +134,13 @@ My latest produces include:
     <td><a href="https://github.com/anshumanjadiya1102/Football_Game">🔗 Football_Game</a></td>
     <td><a href="https://github.com/anshumanjadiya1102/Football_Game"><img src="https://img.shields.io/github/stars/anshumanjadiya1102/Football_Game?style=for-the-badge" alt="stars"></a></td>
   </tr>
+
+  <tr>
+    <td><b>Tic-Tac-Toe-FX.java</b></td>
+    <td><a href="https://github.com/anshumanjadiya1102/TicTacToeFX.java">🔗 TicTacToeFX.java</a></td>
+    <td><a href="https://github.com/anshumanjadiya1102/TicTacToeFX.java"><img src="https://img.shields.io/github/stars/anshumanjadiya1102/TicTacToeFX.java?style=for-the-badge" alt="stars"></a></td>  
+    
+  </tr>
   
 </table>
 
