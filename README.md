@@ -174,7 +174,8 @@ My latest produces include:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anshumanjadiya1102&bg_color=0d1117&color=ffffff&line=f85c03&point=ffffff&area=true&hide_border=true" />
+[![Anshuman's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anshumanjadiya1102&bg_color=0d1117&color=ffffff&line=f85c03&point=ffffff&area=true&hide_border=true)](https://github.com/anshumanjadiya1102)
+
 
 </div>
 
