@@ -1,6 +1,26 @@
-# 🌟 Universal Trademark for All Projects
+
 
 ## 1. Wordmark (Text-based Trademark)
+# ™ Java Beauty Suite  
+**Crafting Code into Art**  
+
+---
+
+🚀 Empowering developers with **elegant solutions**.  
+☕ Inspired by the beauty of **Java & clean design**.  
+✨ Built to make every project feel like **art in motion**.  
+
+---
+
+## 🔒 Trademark & Rights
+- ™ Java Beauty Suite is a **trademark** of **Anshuman Jadiya**.  
+- All names, logos, and associated materials are protected under **intellectual property laws**.  
+- Unauthorized use, reproduction, or distribution without explicit permission is strictly prohibited.  
+- You may **reference** this trademark in open-source or educational projects **with attribution**.  
+- For commercial usage, please **request written approval**.  
+
+
+
 
 ---
 
@@ -19,6 +39,9 @@
 ---
 
 <div align=center>
-© 2025 Anshuman Jadiya. ™ Java Beauty Suite.  
-All rights reserved. Unauthorized use prohibited.
+---
+
+© 2025 Anshuman Jadiya  
+™ Java Beauty Suite — Crafting Code into Art  
+**All Rights Reserved.**
 </div>
