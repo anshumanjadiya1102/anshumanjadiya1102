@@ -62,32 +62,65 @@
     </td>
     
 <td width="35%" align="center">
-  <![1825bea87f35b80](https://github.com/user-attachments/assets/baa64a82-a0a4-4acf-89ab-2c8a5682324f)
+   <img src="https://i.pinimg.com/originals/46/41/61/4641611401ecb508c625eebe448da663.gif" width="300" height="300" align="right" alt="https://github.com/anshumanjadiya1102">
     </td>
   </tr>
 </table>
 
 ![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
 
-
-![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
-
 ## 🚀 My Projects (Java Beauty Suite)
-A collection of Java projects I’ve built with passion ❤️.  
-
-<div align="center">
-
-| App | Status | Repository | Stars |
-|-----|--------|------------|-------|
-| **Java_Beauty_Calculator** | 🟢 Active | [🔗 Repo](https://github.com/anshumanjadiya1102/Java_Beauty_Calculator) | ![Stars](https://img.shields.io/github/stars/anshumanjadiya1102/Java_Beauty_Calculator?style=flat&logo=github) |
-| **Todo-App.Java** | 🟢 Active | [🔗 Repo](https://github.com/anshumanjadiya1102/Todo-App.java) | ![Stars](https://img.shields.io/github/stars/anshumanjadiya1102/Todo-App.java?style=flat&logo=github) |
-| **Number-Guessing-Game** | 🟢 Active | [🔗 Repo](https://github.com/anshumanjadiya1102/Number-Guessing-Game) | ![Stars](https://img.shields.io/github/stars/anshumanjadiya1102/Number-Guessing-Game?style=flat&logo=github) |
-| **Football_Game (JavaFX)** | 🟢 Active | [🔗 Repo](https://github.com/anshumanjadiya1102/Football_Game) | ![Stars](https://img.shields.io/github/stars/anshumanjadiya1102/Football_Game?style=flat&logo=github) |
-| **TicTacToeFX.java** | 🟢 Active | [🔗 Repo](https://github.com/anshumanjadiya1102/TicTacToeFX.java) | ![Stars](https://img.shields.io/github/stars/anshumanjadiya1102/TicTacToeFX.java?style=flat&logo=github) |
-
-</div>
-
-###### _All built with 💖 in Java_ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30">
+## <img width="20" height="20" alt="Anshuman Jadiya" src="https://github.com/user-attachments/assets/6db39f07-fed1-4596-9206-7ef26d414c65" /> Java-Beauty-Suite --"Short page, Wide knowledge" **
+[Java Beauty Suite](https://github.com/anshumanjadiya1102/Java_Beauty_Suite)** ![Status](https://img.shields.io/badge/Status-Work_in_Progress-red) 
+> A suite of Java applications designed to showcase clean UI, productivity, and coding efficiency. <br>
+My latest produces include:
+- _Java Calculator_- *A modern calculator GUI with number and operator buttons, styled with a blue "=" button.*
+-_Java Todo-App_- *A terminal-based To-Do application showing available commands and a sample task list.*
+- _Java Number Guessing Game_- *A command-line number guessing game where the user guesses until correct.*
+- _Java Football Game_- *A JavaFX-powered 2D Multiplayer Football Game with real-time play and CSS-styled GUI.*
+- _Java Tic-Tac-Toe Game_- *A modern JavaFX Tic Tac Toe game with multiple levels. Play against a AI powered by Minimax algorithm or challenge a friend!*
+<div align="center"> 
+  <table> 
+    <tr> 
+      <th> APP <img src="https://img.shields.io/badge/App-🚀-blue?style=for-the-badge"></th> 
+      <th> STATUS <img src="https://img.shields.io/badge/Status-📌-brightgreen?style=for-the-badge"></th> 
+      <th> PATH <img src="https://img.shields.io/badge/Repository-📂-orange?style=for-the-badge"></th> 
+      <th> STARS <img src="https://img.shields.io/badge/Stars-⭐-yellow?style=for-the-badge"></th> 
+    </tr> 
+    <tr> 
+      <td><b>Java_Beauty_Calculator</b></td>
+      <td><img src="https://img.shields.io/badge/Active-brightgreen?style=flat-square"></td> 
+      <td><a href="https://github.com/anshumanjadiya1102/Java_Beauty_Calculator">🔗 Java_Beauty_Calculator</a></td> 
+      <td><a href="https://github.com/anshumanjadiya1102/Java_Beauty_Calculator"><img src="https://img.shields.io/github/stars/anshumanjadiya1102/Java_Beauty_Calculator?style=for-the-badge&logo=github" alt="stars"></a> </td> 
+    </tr> 
+    <tr> 
+      <td><b>Todo-App.Java</b></td> 
+      <td><img src="https://img.shields.io/badge/Active-brightgreen?style=flat-square"></td> 
+      <td><a href="https://github.com/anshumanjadiya1102/Todo-App.java">🔗 Todo-App.java</a></td> 
+      <td><a href="https://github.com/anshumanjadiya1102/Todo-App.java"><img src="https://img.shields.io/github/stars/anshumanjadiya1102/Todo-App.java?style=for-the-badge&logo=github" alt="stars"></a></td> 
+    </tr> 
+    <tr> 
+      <td><b>Number-Guessing-Game</b></td> 
+      <td><img src="https://img.shields.io/badge/Active-brightgreen?style=flat-square"></td> 
+      <td><a href="https://github.com/anshumanjadiya1102/Number-Guessing-Game">🔗 Number-Guessing-Game</a></td> 
+      <td><a href="https://github.com/anshumanjadiya1102/Number-Guessing-Game"><img src="https://img.shields.io/github/stars/anshumanjadiya1102/Number-Guessing-Game?style=for-the-badge&logo=github" alt="stars"></a></td> 
+    </tr> 
+    <tr> 
+      <td><b>Football_Game</b></td> 
+      <td><img src="https://img.shields.io/badge/Active-brightgreen?style=flat-square"></td> 
+      <td><a href="https://github.com/anshumanjadiya1102/Football_Game">🔗 Football_Game</a></td> 
+      <td><a href="https://github.com/anshumanjadiya1102/Football_Game"><img src="https://img.shields.io/github/stars/anshumanjadiya1102/Football_Game?style=for-the-badge&logo=github" alt="stars"></a>
+      </td> 
+    </tr> 
+    <tr> 
+      <td><b>Tic-Tac-Toe-FX.java</b></td> 
+      <td><img src="https://img.shields.io/badge/Active-brightgreen?style=flat-square"></td> 
+      <td><a href="https://github.com/anshumanjadiya1102/TicTacToeFX.java">🔗 TicTacToeFX.java</a></td> 
+      <td><a href="https://github.com/anshumanjadiya1102/TicTacToeFX.java"><img src="https://img.shields.io/github/stars/anshumanjadiya1102/TicTacToeFX.java?style=for-the-badge&logo=github" alt="stars"></a></a></td> 
+  </tr> 
+  </table> 
+</div> 
+###### _All are built with 💖 and Passion in Java_ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
 
 ![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
 
