@@ -133,7 +133,7 @@ My latest produces include:
 
 ![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
 
-## 📊 GitHub Stats
+## [![MasterHead](https://cdn.defenseone.com/media/img/cd/2020/10/29/iStock-879913090/route-fifty-lead-image.jpg?1627411361)](https://anshumanjadiya1102.github.io) GitHub Stats
 
 ### 🚀 My Tech Arsenal 
 
