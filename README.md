@@ -55,15 +55,13 @@
   <tr>
     <td width="65%">
       <p>
-        Currently, my top priority is expanding the <b>Java Beauty Suite</b> ✨ while continuing to highlight the true <i>beauty in Java</i> through every project I create.  
-        I am focused on mastering <b>JavaFX</b>, improving my <b>GitHub workflows</b>, and refining <b>clean coding practices</b>.  
-        Alongside learning, I’m actively working on building more interactive games and productivity apps 🌱.  
-        My ultimate goal is to deliver open-source Java applications that are not only useful and professional but also playful, creative, and beautifully crafted 🚀.  
+        Currently, my top priority is expanding the <b>Java Beauty Suite</b> ✨ while continuing to highlight the true <i>beauty in Java</i> through every project I create.<br>  
+        I am focused on mastering <b>JavaFX</b>, improving my <b>GitHub workflows</b>, and refining <b>clean coding practices</b>🌱. <br>  
+        My ultimate goal is to deliver open-source Java applications that are not only useful and professional but also playful, creative, and beautifully crafted 🚀<br>.  
       </p>
-      <p><i>Last updated: August 2025</i></p>
     </td>
     <td width="35%" align="center">
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="180px" alt="planet spinning gif"/>
+     <img src="https://i.pinimg.com/originals/46/41/61/4641611401ecb508c625eebe448da663.gif" width="150" height="150" align="right" alt="https://github.com/anshumanjadiya1102">
     </td>
   </tr>
 </table>
