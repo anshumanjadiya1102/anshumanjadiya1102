@@ -60,8 +60,9 @@
         My ultimate goal is to deliver open-source Java applications that are not only useful and professional but also playful, creative, and beautifully crafted 🚀<br>.  
       </p>
     </td>
-    <td width="35%" align="center">
-     <img src="https://i.pinimg.com/originals/46/41/61/4641611401ecb508c625eebe448da663.gif" width="150" height="150" align="right" alt="https://github.com/anshumanjadiya1102">
+    <![1825bea87f35b80](https://github.com/user-attachments/assets/baa64a82-a0a4-4acf-89ab-2c8a5682324f)
+td width="35%" align="center">
+    
     </td>
   </tr>
 </table>
