@@ -17,7 +17,18 @@
 💡 I believe Java is the perfect language for beginners, and I want to **share its beauty** with the world.  
 🚀 Currently exploring new ideas, contributing to open source, and building my **Java Beauty Suite**.  
 
----
+- ![Profile Views](https://komarev.com/ghpvc/?username=anshumanjadiya1102&color=orange&style=flat-square)
+- [![GitHub followers](https://img.shields.io/github/followers/anshumanjadiya1102?label=Followers&style=social)](https://github.com/anshumanjadiya1102) <br>
+- [![GitHub stars](https://img.shields.io/github/stars/anshumanjadiya1102?label=Stars&style=social)](https://github.com/anshumanjadiya1102) <br>
+- <a href="https://github.com/anshumanjadiya1102/Opensource-practice/pulls">
+- <img src="https://img.shields.io/github/issues-pr/recodehive/Opensource-practice" alt="Pull Requests Badge"/></a>
+- ![Drive-for-Java](https://img.shields.io/badge/Drive--for--Java-Open%20Source%20Community-00ccff?style=for-the-badge&logo=github&logoColor=white)
+- ![RecordHive](https://img.shields.io/badge/Organization-RecordHive-6a5acd?style=for-the-badge&logo=apachespark&logoColor=white)
+- [![Awesome](https://awesome.re/badge.svg)](https://github.com/anshumanjadiya1102/anshumanjadiya1102/blob/master/sources/awesome.md) <br>
+
+<div align=center>
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C03&center=true&vCenter=true&width=435&lines=https://anshumanjadiya1102.github.io;Java+Beauty+Suite;Frontend+Developer;Backend+Support;Git+and+Github+Desktop+Support;Java+Enthusiast;HTML+Knower;Open+Source+Contributor)](https://git.io/typing-svg) 
+</div>
 
 ## 🌱 Current Stack
 
@@ -49,29 +60,17 @@
 
 ![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
 
-## 🌍 Priority & Current Updates  
-
-<table>
-  <tr>
-    <td width="65%">
-      <p>
-        Currently, my top priority is expanding the <b>Java Beauty Suite</b> ✨ while continuing to highlight the true <i>beauty in Java</i> through every project I create.<br>  
-        I am focused on mastering <b>JavaFX</b>, improving my <b>GitHub workflows</b>, and refining <b>clean coding practices</b>🌱. <br>  
-        My ultimate goal is to deliver open-source Java applications that are not only useful and professional but also playful, creative, and beautifully crafted 🚀<br>.  
-      </p>
-    </td>
-    
-<td width="35%" align="center">
-   <img src="https://i.pinimg.com/originals/46/41/61/4641611401ecb508c625eebe448da663.gif" width="300" height="300" align="right" alt="https://github.com/anshumanjadiya1102">
-    </td>
-  </tr>
-</table>
+## 🌍 Priority & Current Updates 
+Currently, my top priority is expanding the <b>Java Beauty Suite</b> <br> <img src="https://i.pinimg.com/originals/46/41/61/4641611401ecb508c625eebe448da663.gif" width="300" height="300" align="right" alt="https://github.com/anshumanjadiya1102">
+✨ while continuing to highlight the true <i>beauty in Java</i> through every project I create.<br>  
+I am focused on mastering <b>JavaFX</b>, improving my <b>GitHub workflows</b>, and refining <b>clean coding practices</b>🌱. <br>  
+My ultimate goal is to deliver open-source Java applications that are not only useful and professional but also playful, creative, and beautifully crafted 🚀<br>.  
 
 ![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
 
 ## 🚀 My Projects (Java Beauty Suite)
-## <img width="20" height="20" alt="Anshuman Jadiya" src="https://github.com/user-attachments/assets/6db39f07-fed1-4596-9206-7ef26d414c65" /> Java-Beauty-Suite --"Short page, Wide knowledge" **
-[Java Beauty Suite](https://github.com/anshumanjadiya1102/Java_Beauty_Suite)** ![Status](https://img.shields.io/badge/Status-Work_in_Progress-red) 
+#### <img width="20" height="20" alt="Anshuman Jadiya" src="https://github.com/user-attachments/assets/6db39f07-fed1-4596-9206-7ef26d414c65" /> Java-Beauty-Suite  **
+[Java Beauty Suite](https://github.com/anshumanjadiya1102/Java_Beauty_Suite)** ![Status](https://img.shields.io/badge/Status-Allmost Done-Orange) 
 > A suite of Java applications designed to showcase clean UI, productivity, and coding efficiency. <br>
 My latest produces include:
 - _Java Calculator_- *A modern calculator GUI with number and operator buttons, styled with a blue "=" button.*
@@ -126,15 +125,28 @@ My latest produces include:
 
 ## 📊 GitHub Stats
 
-<div align="center">
+### 🚀 My Tech Arsenal 
+
+<div align=center>
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
+</div>
 
 ![](https://github-readme-stats.vercel.app/api?username=anshumanjadiya1102&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://nirzak-streak-stats.vercel.app/?user=anshumanjadiya1102&theme=dark&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anshumanjadiya1102&theme=dark&hide_border=false&layout=compact)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anshumanjadiya1102&bg_color=0d1117&color=ffffff&line=f85c03&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 ![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
 
@@ -146,7 +158,7 @@ My latest produces include:
 - 💬 [**Discord**](https://discord.gg/JydSGaBN)  
 - 📂 [**Bitbucket**](https://bitbucket.org/anshumanjadiya1102/workspace/overview/)  
 
----
+![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
 
 <div align="center">
   <img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/wavingCat.gif" width="60" height="60" />
@@ -154,7 +166,7 @@ My latest produces include:
   <img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/wavingCat.gif" width="60" height="60" />
 </div> 
 
----
+![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
 
 ### _“Coding beauty into Java, one project at a time ☕✨”_  
 ###### © 2025 Anshuman Jadiya – Crafted with ❤️
