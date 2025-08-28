@@ -1,17 +1,17 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello+Every+GitHub+Soul!!&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello+Every+GitHub+Souls!!&height=100&section=header"/>
 </p>
 
 <div align="center">
   
-  #### ✨ _“Coding beauty into Java, one project at a time ☕✨”_ – Java_Beauty_Suite  
+  #### ✨ _“"Where creativity meets the beauty in Java ☕✨”_ – Java_Beauty_Suite  
 
 </div>
 
 ![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey, I'm [Anshuman Jadiya](https://anshumanjadiya1102.github.io)
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello Every Github Souls, I'm [Anshuman Jadiya](https://anshumanjadiya1102.github.io)
 
 🎓 A curious student & passionate **Java enthusiast** who loves building creative apps.  
 💡 I believe Java is the perfect language for beginners, and I want to **share its beauty** with the world.  
@@ -19,10 +19,16 @@
 
 ---
 
-## 🌱 Tech Stack
-<p align="left">
-  ☕ **Java (main language)**  
-  📕 HTML + CSS • 🗽 Python (basics) • 🛠 Git & GitHub • 🚀 GitLab • 🏞 Bitbucket • ⚓ VS Code  
+## 🌱 Current Stack
+
+- ☕Java (main language) <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> <br>
+- 📕HTML (side language with CSS) <br>
+- 🗽Python (not much)  <br>
+- 🛠 Gitlab (side support and CI/CD) <br>
+- 🚀 Git and Github desktop support (Version control)  <br>
+- 🏞 Bitbucket (with Jira) <br>
+- ⚓Visual Studio Code  <br>
+- 🎨Passion and Determination <br>
 </p>
 
 <div align="center">
@@ -35,8 +41,35 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Passion](https://img.shields.io/badge/Passion%20%26%20Determination-%23FF1493.svg?style=for-the-badge&logo=heart&logoColor=white)
+
 
 </div>
+
+![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
+
+## 🌍 Priority & Current Updates  
+
+<table>
+  <tr>
+    <td width="65%">
+      <p>
+        Currently, my top priority is expanding the <b>Java Beauty Suite</b> ✨ while continuing to highlight the true <i>beauty in Java</i> through every project I create.  
+        I am focused on mastering <b>JavaFX</b>, improving my <b>GitHub workflows</b>, and refining <b>clean coding practices</b>.  
+        Alongside learning, I’m actively working on building more interactive games and productivity apps 🌱.  
+        My ultimate goal is to deliver open-source Java applications that are not only useful and professional but also playful, creative, and beautifully crafted 🚀.  
+      </p>
+      <p><i>Last updated: August 2025</i></p>
+    </td>
+    <td width="35%" align="center">
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="180px" alt="planet spinning gif"/>
+    </td>
+  </tr>
+</table>
+
+![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
+
 
 ![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
 
