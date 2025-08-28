@@ -62,19 +62,20 @@
 ![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
 
 ## 🌍 Priority & Current Updates 
-Currently, my top priority is expanding the <b>Java Beauty Suite</b> <br> <img src="https://i.pinimg.com/originals/46/41/61/4641611401ecb508c625eebe448da663.gif" width="300" height="300" align="right" alt="https://github.com/anshumanjadiya1102">
-✨ while continuing to highlight the true <i>beauty in Java</i> through every project I create.<br>  
-I am focused on mastering <b>JavaFX</b>, improving my <b>GitHub workflows</b>, and refining <b>clean coding practices</b>🌱. <br>  
-My ultimate goal is to deliver open-source Java applications that are not only useful and professional but also playful, creative,<br>
-and beautifully crafted 🚀. <br>  
+Currently, my top priority is expanding the <b>Java Beauty Suite</b> <img src="https://i.pinimg.com/originals/46/41/61/4641611401ecb508c625eebe448da663.gif" width="300" height="300" align="right" alt="https://github.com/anshumanjadiya1102"> ✨ while continuing to highlight the true <i>beauty in Java</i> through every project I create. 
+I am focused on mastering <b>JavaFX</b>, improving my <b>GitHub workflows</b>, and refining <b>clean coding practices</b>🌱.<br> 
+My ultimate goal is to deliver open-source Java applications that are not only useful and professional
+but also playful, creative, and beautifully crafted 🚀. <br>  
 
 ![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
 
 ## 🚀 My Projects (Java Beauty Suite)
 #### <img width="20" height="20" alt="Anshuman Jadiya" src="https://github.com/user-attachments/assets/6db39f07-fed1-4596-9206-7ef26d414c65" />  Java-Beauty-Suite  
-
-**[Java Beauty Suite](https://github.com/anshumanjadiya1102/Java_Beauty_Suite)**<br> 
+<div align=center.
+**[Java Beauty Suite](https://github.com/anshumanjadiya1102/Java_Beauty_Suite)**
 ![Status](https://img.shields.io/badge/Status-Allmost_Done-orange)
+[![Website](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A//rusty-suite.tech&style=for-the-badge)](https://anshumanjadiya.github.io)
+  
 > A suite of Java applications designed to showcase clean UI, productivity, and coding efficiency. <br>
 My latest produces include:
 - _Java Calculator_- *A modern calculator GUI with number and operator buttons, styled with a blue "=" button.*
