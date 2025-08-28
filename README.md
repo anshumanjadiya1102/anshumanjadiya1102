@@ -133,7 +133,7 @@ My latest produces include:
 
 ![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
 
-## [![MasterHead](https://cdn.defenseone.com/media/img/cd/2020/10/29/iStock-879913090/route-fifty-lead-image.jpg?1627411361)](https://anshumanjadiya1102.github.io) GitHub Stats
+## <p align="left"> <img src="https://media.tenor.com/q4L3wKD-P7YAAAAj/hydra-we-bhack.gif" alt="FrJ" width="40" height="40" style="margin-right: 10px; vertical-align: middle;"/><img src="https://profile-counter.glitch.me/FrJ-root/count.svg?" alt="FrJ" /> </p> GitHub Stats
 
 ### 🚀 My Tech Arsenal 
 
