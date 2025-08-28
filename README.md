@@ -20,14 +20,15 @@
 - ![Profile Views](https://komarev.com/ghpvc/?username=anshumanjadiya1102&color=orange&style=flat-square)
 - [![GitHub followers](https://img.shields.io/github/followers/anshumanjadiya1102?label=Followers&style=social)](https://github.com/anshumanjadiya1102) <br>
 - [![GitHub stars](https://img.shields.io/github/stars/anshumanjadiya1102?label=Stars&style=social)](https://github.com/anshumanjadiya1102) <br>
-- <a href="https://github.com/anshumanjadiya1102/Opensource-practice/pulls">
-- <img src="https://img.shields.io/github/issues-pr/recodehive/Opensource-practice" alt="Pull Requests Badge"/></a>
+- <a href="https://github.com/anshumanjadiya1102/Opensource-practice/pulls"><img src="https://img.shields.io/github/issues-pr/recodehive/Opensource-practice" alt="Pull Requests Badge"/></a>
 - ![Drive-for-Java](https://img.shields.io/badge/Drive--for--Java-Open%20Source%20Community-00ccff?style=for-the-badge&logo=github&logoColor=white)
 - ![RecordHive](https://img.shields.io/badge/Organization-RecordHive-6a5acd?style=for-the-badge&logo=apachespark&logoColor=white)
 - [![Awesome](https://awesome.re/badge.svg)](https://github.com/anshumanjadiya1102/anshumanjadiya1102/blob/master/sources/awesome.md) <br>
 
 <div align=center>
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C03&center=true&vCenter=true&width=435&lines=https://anshumanjadiya1102.github.io;Java+Beauty+Suite;Frontend+Developer;Backend+Support;Git+and+Github+Desktop+Support;Java+Enthusiast;HTML+Knower;Open+Source+Contributor)](https://git.io/typing-svg) 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C03&center=true&vCenter=true&width=435&lines=;Backend+Support;Frontend+Developer;Java+Enthusiast;HTML+Knower;Open+Source+Contributor)](https://git.io/typing-svg)
+
 </div>
 
 ## 🌱 Current Stack
@@ -42,7 +43,7 @@
 - 🎨Passion and Determination <br>
 </p>
 
-<div align="center">
+<div align="left">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -69,8 +70,9 @@ My ultimate goal is to deliver open-source Java applications that are not only u
 ![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
 
 ## 🚀 My Projects (Java Beauty Suite)
-#### <img width="20" height="20" alt="Anshuman Jadiya" src="https://github.com/user-attachments/assets/6db39f07-fed1-4596-9206-7ef26d414c65" /> Java-Beauty-Suite  **
-[Java Beauty Suite](https://github.com/anshumanjadiya1102/Java_Beauty_Suite)** ![Status](https://img.shields.io/badge/Status-Allmost Done-Orange) 
+#### <img width="20" height="20" alt="Anshuman Jadiya" src="https://github.com/user-attachments/assets/6db39f07-fed1-4596-9206-7ef26d414c65" /> ** Java-Beauty-Suite  **
+[Java Beauty Suite](https://github.com/anshumanjadiya1102/Java_Beauty_Suite)
+![Status](https://img.shields.io/badge/Status-Allmost Done-Orange) 
 > A suite of Java applications designed to showcase clean UI, productivity, and coding efficiency. <br>
 My latest produces include:
 - _Java Calculator_- *A modern calculator GUI with number and operator buttons, styled with a blue "=" button.*
@@ -118,7 +120,9 @@ My latest produces include:
       <td><a href="https://github.com/anshumanjadiya1102/TicTacToeFX.java"><img src="https://img.shields.io/github/stars/anshumanjadiya1102/TicTacToeFX.java?style=for-the-badge&logo=github" alt="stars"></a></a></td> 
   </tr> 
   </table> 
-</div> 
+  
+</div>
+
 ###### _All are built with 💖 and Passion in Java_ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
 
 ![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
@@ -168,8 +172,14 @@ My latest produces include:
 
 ![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
 
-### _“Coding beauty into Java, one project at a time ☕✨”_  
-###### © 2025 Anshuman Jadiya – Crafted with ❤️
+<div align="center">
+  
+  ##### ✨ _“"Where creativity meets the beauty in Java ☕✨”_ – Java_Beauty_Suite  
+
+
+  ###### anshumanjadiya1102_________________________________________________________________________________________________________© 2025 Anshuman Jadiya – Crafted with ❤️
+
+</div>
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
