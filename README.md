@@ -73,7 +73,7 @@ My ultimate goal is to deliver open-source Java applications that are not only u
 #### <img width="20" height="20" alt="Anshuman Jadiya" src="https://github.com/user-attachments/assets/6db39f07-fed1-4596-9206-7ef26d414c65" />  Java-Beauty-Suite  
 
 **[Java Beauty Suite](https://github.com/anshumanjadiya1102/Java_Beauty_Suite)**<br> 
-![Status](https://img.shields.io/badge/Status-Allmost Done-orange)
+![Status](https://img.shields.io/badge/Status-Allmost_Done-orange)
 > A suite of Java applications designed to showcase clean UI, productivity, and coding efficiency. <br>
 My latest produces include:
 - _Java Calculator_- *A modern calculator GUI with number and operator buttons, styled with a blue "=" button.*
