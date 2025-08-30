@@ -165,7 +165,7 @@ My latest produces include:
 - 💻 [**GitHub**](https://github.com/anshumanjadiya1102)  
 - 🦊 [**GitLab**](https://gitlab.com/anshumanjadiya1102)  
 - 📧 [**Email**](mailto:anshuman.jadiya03@gmail.com)  
-- 💬 [**Discord**](https://discord.gg/JydSGaBN)  
+- 💬 [**Discord**](https://discord.gg/68mtBJqRgs)  
 - 📂 [**Bitbucket**](https://bitbucket.org/anshumanjadiya1102/workspace/overview/)  
 
 ![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
