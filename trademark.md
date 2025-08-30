@@ -1,4 +1,8 @@
+<div color=red>
 
+# NOTE: This app/repository/creation is an unregistered trademark of [Anshuman Jadiya](https://github.com/anshumanjadiya1102)
+
+</div>
 
 ## 1. Wordmark (Text-based Trademark)
 # ™ Java Beauty Suite  
