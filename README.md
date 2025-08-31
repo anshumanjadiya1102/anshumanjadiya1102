@@ -74,7 +74,7 @@ but also playful, creative, and beautifully crafted 🚀. <br>
 <div align=center>
   
 **![Status](https://img.shields.io/badge/Status-Allmost_Done-orange)**
-**[![Website](https://img.shields.io/website?up_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A//anshumanjadiya1102.github.io&style=for-the-badge)](https://anshumanjadiya1102.github.io)**
+**[![Website](https://img.shields.io/website?color=green&up_message=online&url=https://anshumanjadiya1102.github.io&style=for-the-badge)](https://anshumanjadiya1102.github.io)**
 
 </div>
   
