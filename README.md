@@ -132,7 +132,7 @@ My latest produces include:
 
 ![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
 
-## <p align="left"> <img src="https://media.tenor.com/q4L3wKD-P7YAAAAj/hydra-we-bhack.gif" alt="https://anshumanjadiya1102.github.io" width="40" height="40" style="margin-right: 10px; vertical-align: middle;"/> </p> GitHub Stats
+##  GitHub Stats <p align="left"> <img src="https://media.tenor.com/q4L3wKD-P7YAAAAj/hydra-we-bhack.gif" alt="https://anshumanjadiya1102.github.io" width="40" height="40" style="margin-right: 10px; vertical-align: middle;"/> </p>
 
 ### 🚀 My Tech Arsenal 
 
