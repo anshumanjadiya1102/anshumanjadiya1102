@@ -73,9 +73,8 @@ but also playful, creative, and beautifully crafted 🚀. <br>
 #### <img width="20" height="20" alt="Anshuman Jadiya" src="https://github.com/user-attachments/assets/6db39f07-fed1-4596-9206-7ef26d414c65" />  Java-Beauty-Suite  
 <div align=center>
   
-**[Java Beauty Suite](https://github.com/anshumanjadiya1102/Java_Beauty_Suite)**
-![Status](https://img.shields.io/badge/Status-Allmost_Done-orange)
-[![Website](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A//java_beauty-suite.tech&style=for-the-badge)](https://anshumanjadiya1102.github.io)
+**![Status](https://img.shields.io/badge/Status-Allmost_Done-orange)**
+**[![Website](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A//java_beauty-suite.tech&style=for-the-badge)](https://anshumanjadiya1102.github.io)**
 
 </div>
   
