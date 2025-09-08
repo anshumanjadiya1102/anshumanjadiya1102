@@ -11,7 +11,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200"> 
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello Every Github Souls, I'm [Anshuman Jadiya](https://anshumanjadiya1102.github.io)
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello Every Github Souls, I'm [Anshuman Jadiya](https://anshumanjadiya1102.github.io) <img height="40" alt="Anshuman Jadiya" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
 🎓 A curious student & passionate **Java enthusiast** who loves building creative apps.  
 💡 I believe Java is the perfect language for beginners, and I want to **share its beauty** with the world.  
