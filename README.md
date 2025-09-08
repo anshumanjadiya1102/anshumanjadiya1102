@@ -180,8 +180,7 @@ My latest produces include:
 
 <table>
   <tr>
-    <!-- Left Column: All Stats and Graphs -->
-    <td valign="top" style="padding-right: 20px;">
+    <td valign="top" width="70%" style="padding-right: 20px;">
       <img src="https://github-readme-stats.vercel.app/api?username=anshumanjadiya1102&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/><br><br>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshumanjadiya1102&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/><br><br>
@@ -189,7 +188,7 @@ My latest produces include:
    <img src="https://nirzak-streak-stats.vercel.app/?user=anshumanjadiya1102&theme=dark&hide_border=false" alt="Streak Stats"/><br><br>
    </td>
 
-  <td valign="top">
+  <td valign="top" width="30%">
       <img src="https://github.com/LauraAllObe/LauraAllObe/blob/main/workHome.gif" width="500" height="700" alt="Work GIF"/>
     </td>
   </tr>
