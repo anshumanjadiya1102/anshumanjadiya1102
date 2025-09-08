@@ -81,42 +81,6 @@
 
 <div align="left">
 
-<table align="center">
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://github.com/anshumanjadiya1102.png" alt="Profile Picture" width="120" style="border-radius:50%;">
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://komarev.com/ghpvc/?username=anshumanjadiya1102&color=orange&style=flat-square" alt="Profile Views"/>
-      <a href="https://github.com/anshumanjadiya1102">
-        <img src="https://img.shields.io/github/followers/anshumanjadiya1102?label=Followers&style=social" alt="GitHub Followers"/>
-      </a>
-      <a href="https://github.com/anshumanjadiya1102">
-        <img src="https://img.shields.io/github/stars/anshumanjadiya1102?label=Stars&style=social" alt="GitHub Stars"/>
-      </a>
-      <a href="https://github.com/anshumanjadiya1102/Opensource-practice/pulls">
-        <img src="https://img.shields.io/github/issues-pr/recodehive/Opensource-practice" alt="Pull Requests Badge"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Drive--for--Java-Open%20Source%20Community-00ccff?style=for-the-badge&logo=github&logoColor=white" alt="Drive-for-Java"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Organization-RecordHive-6a5acd?style=for-the-badge&logo=apachespark&logoColor=white" alt="RecordHive"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <a href="https://github.com/anshumanjadiya1102/anshumanjadiya1102/blob/master/sources/awesome.md">
-        <img src="https://awesome.re/badge.svg" alt="Awesome"/>
-      </a>
-    </td>
-  </tr>
-</table>
 
 
 
