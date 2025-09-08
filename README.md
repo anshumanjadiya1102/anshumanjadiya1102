@@ -9,7 +9,7 @@
 
 </div>
 
-![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200"> 
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello Every Github Souls, I'm [Anshuman Jadiya](https://anshumanjadiya1102.github.io)
 
