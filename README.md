@@ -17,19 +17,54 @@
 💡 I believe Java is the perfect language for beginners, and I want to **share its beauty** with the world.  
 🚀 Currently exploring new ideas, contributing to open source, and building my **Java Beauty Suite**.  
 
-- ![Profile Views](https://komarev.com/ghpvc/?username=anshumanjadiya1102&color=orange&style=flat-square)
-- [![GitHub followers](https://img.shields.io/github/followers/anshumanjadiya1102?label=Followers&style=social)](https://github.com/anshumanjadiya1102) <br>
-- [![GitHub stars](https://img.shields.io/github/stars/anshumanjadiya1102?label=Stars&style=social)](https://github.com/anshumanjadiya1102) <br>
-- <a href="https://github.com/anshumanjadiya1102/Opensource-practice/pulls"><img src="https://img.shields.io/github/issues-pr/recodehive/Opensource-practice" alt="Pull Requests Badge"/></a>
-- ![Drive-for-Java](https://img.shields.io/badge/Drive--for--Java-Open%20Source%20Community-00ccff?style=for-the-badge&logo=github&logoColor=white)
-- ![RecordHive](https://img.shields.io/badge/Organization-RecordHive-6a5acd?style=for-the-badge&logo=apachespark&logoColor=white)
-- [![Awesome](https://awesome.re/badge.svg)](https://github.com/anshumanjadiya1102/anshumanjadiya1102/blob/master/sources/awesome.md) <br>
-
 <div align=center>
+
+ <img src="https://img.shields.io/badge/Organization-RecordHive-6a5acd?style=for-the-badge&logo=apachespark&logoColor=white" alt="RecordHive"/>
+ <img src="https://img.shields.io/badge/Drive--for--Java-Open%20Source%20Community-00ccff?style=for-the-badge&logo=github&logoColor=white" alt="Drive-for-Java"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C03&center=true&vCenter=true&width=435&lines=;Backend+Support;Frontend+Developer;Java+Enthusiast;HTML+Knower;Open+Source+Contributor)](https://git.io/typing-svg)
 
 </div>
+
+<table align="center">
+  <thead align="center">
+    <tr>
+      <td><b>👀 Profile Views</b></td>
+      <td><b>👤 Followers</b></td>
+      <td><b>🌟 Stars</b></td>
+      <td><b>🔔 Pull Requests</b></td>
+      <td><b>✅ Awesome</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://komarev.com/ghpvc/?username=anshumanjadiya1102&color=orange&style=flat-square" alt="Profile Views"/>
+      </td>
+      <td>
+        <a href="https://github.com/anshumanjadiya1102">
+          <img src="https://img.shields.io/github/followers/anshumanjadiya1102?label=Followers&style=social" alt="GitHub Followers"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/anshumanjadiya1102">
+          <img src="https://img.shields.io/github/stars/anshumanjadiya1102?label=Stars&style=social" alt="GitHub Stars"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/anshumanjadiya1102/Opensource-practice/pulls">
+          <img src="https://img.shields.io/github/issues-pr/recodehive/Opensource-practice" alt="Pull Requests Badge"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/anshumanjadiya1102/anshumanjadiya1102/blob/master/sources/awesome.md">
+          <img src="https://awesome.re/badge.svg" alt="Awesome"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 ## 🌱 Current Stack
 
@@ -45,16 +80,43 @@
 
 <div align="left">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Passion](https://img.shields.io/badge/Passion%20%26%20Determination-%23FF1493.svg?style=for-the-badge&logo=heart&logoColor=white)
+<table align="center">
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github.com/anshumanjadiya1102.png" alt="Profile Picture" width="120" style="border-radius:50%;">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://komarev.com/ghpvc/?username=anshumanjadiya1102&color=orange&style=flat-square" alt="Profile Views"/>
+      <a href="https://github.com/anshumanjadiya1102">
+        <img src="https://img.shields.io/github/followers/anshumanjadiya1102?label=Followers&style=social" alt="GitHub Followers"/>
+      </a>
+      <a href="https://github.com/anshumanjadiya1102">
+        <img src="https://img.shields.io/github/stars/anshumanjadiya1102?label=Stars&style=social" alt="GitHub Stars"/>
+      </a>
+      <a href="https://github.com/anshumanjadiya1102/Opensource-practice/pulls">
+        <img src="https://img.shields.io/github/issues-pr/recodehive/Opensource-practice" alt="Pull Requests Badge"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Drive--for--Java-Open%20Source%20Community-00ccff?style=for-the-badge&logo=github&logoColor=white" alt="Drive-for-Java"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Organization-RecordHive-6a5acd?style=for-the-badge&logo=apachespark&logoColor=white" alt="RecordHive"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <a href="https://github.com/anshumanjadiya1102/anshumanjadiya1102/blob/master/sources/awesome.md">
+        <img src="https://awesome.re/badge.svg" alt="Awesome"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 </div>
