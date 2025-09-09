@@ -1,19 +1,7 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello+Every+GitHub+Souls!!&height=100&section=header"/>
+
 </p>
-
-  #### ✨ _“"Where creativity meets the beauty in Java ☕✨”_ – Java_Beauty_Suite  
-
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200"> 
-
-# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> Hello Every Github Souls, I'm [Anshuman Jadiya](https://anshumanjadiya1102.github.io) <img height="40" alt="Anshuman Jadiya" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
-
-🎓 A curious student & passionate **Java enthusiast** who loves building creative apps.  
-💡 I believe Java is the perfect language for beginners, and I want to **share its beauty** with the world.  
-🚀 Currently exploring new ideas, contributing to open source, and building my **Java Beauty Suite**.  
 
 <div align=center>
 
@@ -21,7 +9,17 @@
 
 </div>
 
-<table align="center">
+![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
+
+
+# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> Hello Every Github Souls, I'm [Anshuman Jadiya](https://anshumanjadiya1102.github.io) <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+
+🎓 A curious student & passionate **Java enthusiast** who loves building creative apps.  
+💡 I believe Java is the perfect language for beginners, and I want to **share its beauty** with the world.  
+🚀 Currently exploring new ideas, contributing to open source, and building my **Java Beauty Suite**.  
+
+<div align=center>
+  <table align="center">
   <thead align="center">
     <tr>
       <td><b>👀 Profile Views</b></td>
@@ -59,13 +57,12 @@
     </tr>
   </tbody>
 </table>
-<div align=center>
  <img src="https://img.shields.io/badge/Organization-RecordHive-6a5acd?style=for-the-badge&logo=apachespark&logoColor=white" alt="RecordHive"/>
  <img src="https://img.shields.io/badge/Drive--for--Java-Open%20Source%20Community-00ccff?style=for-the-badge&logo=github&logoColor=white" alt="Drive-for-Java"/>
 </div>
 
 
-## 🌱 Current Stack
+## 🌱 Current Stack <img height="40" alt="Anshuman Jadiya" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
 - ☕Java (main language) <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> <br>
 - 📕HTML (side language with CSS) <br>
@@ -86,7 +83,7 @@
 
 ![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
 
-## 🌍 Priority & Current Updates 
+## 🌍 Priority & Current Updates  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 Currently, my top priority is expanding the <b>Java Beauty Suite</b> <img src="https://i.pinimg.com/originals/46/41/61/4641611401ecb508c625eebe448da663.gif" width="250" height="250" align="right" alt="https://github.com/anshumanjadiya1102"> ✨ while continuing to highlight the true <i>beauty in Java</i> through every project I create. 
 I am focused on mastering <b>JavaFX</b>, improving my <b>GitHub workflows</b>, and refining <b>clean coding practices</b>🌱.<br> 
 My ultimate goal is to deliver open-source Java applications that are not only useful and professional
@@ -94,8 +91,7 @@ but also playful, creative, and beautifully crafted 🚀. <br>
 
 ![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
 
-## 🚀 My Projects (Java Beauty Suite)
-#### <img width="20" height="20" alt="Anshuman Jadiya" src="https://github.com/user-attachments/assets/6db39f07-fed1-4596-9206-7ef26d414c65" />  Java-Beauty-Suite  
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> My Projects (Java Beauty Suite)
 <div align=center>
   
 **![Status](https://img.shields.io/badge/Status-Allmost_Done-orange)**
@@ -157,7 +153,7 @@ My latest produces include:
 
 ![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
 
-##  GitHub Stats <p align="left"> <img src="https://media.tenor.com/q4L3wKD-P7YAAAAj/hydra-we-bhack.gif" alt="https://anshumanjadiya1102.github.io" width="40" height="40" style="margin-right: 10px; vertical-align: middle;"/> </p>
+##  <img src="https://media.tenor.com/q4L3wKD-P7YAAAAj/hydra-we-bhack.gif" height="40" style="margin-right: 10px; vertical-align: middle;"/>  GitHub Stats
 
 ### 🚀 My Tech Arsenal 
 
@@ -235,10 +231,10 @@ My latest produces include:
 
 
   ###### anshumanjadiya1102______________________________________________________________________________________________________© 2025 Anshuman Jadiya – Crafted with ❤️
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+
 
 </div>
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-
-
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200"> 
