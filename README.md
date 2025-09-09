@@ -100,7 +100,7 @@ but also playful, creative, and beautifully crafted 🚀. <br>
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> My Projects (Java Beauty Suite)
 <div align=center>
   
-**![Status](https://img.shields.io/badge/Status-Allmost_Done-orange)**
+**![Status](https://img.shields.io/badge/Status-Done-green)**
 **[![Website](https://img.shields.io/website?color=green&up_message=online&url=https://anshumanjadiya1102.github.io&style=for-the-badge)](https://anshumanjadiya1102.github.io)**
 
 </div>
@@ -108,7 +108,7 @@ but also playful, creative, and beautifully crafted 🚀. <br>
 > A suite of Java applications designed to showcase clean UI, productivity, and coding efficiency. <br>
 My latest produces include:
 - _Java Calculator_- *A modern calculator GUI with number and operator buttons, styled with a blue "=" button.*
--_Java Todo-App_- *A terminal-based To-Do application showing available commands and a sample task list.*
+- _Java Todo-App_- *A terminal-based To-Do application showing available commands and a sample task list.*
 - _Java Number Guessing Game_- *A command-line number guessing game where the user guesses until correct.*
 - _Java Football Game_- *A JavaFX-powered 2D Multiplayer Football Game with real-time play and CSS-styled GUI.*
 - _Java Tic-Tac-Toe Game_- *A modern JavaFX Tic Tac Toe game with multiple levels. Play against a AI powered by Minimax algorithm or challenge a friend!*
