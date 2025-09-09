@@ -36,7 +36,8 @@
   <tbody>
     <tr>
       <td>
-        <img src="https://komarev.com/ghpvc/?username=anshumanjadiya1102&color=orange&style=flat-square" alt="Profile Views"/>
+        
+  ![Visitors](https://api.visitorbadge.io/api/visitors?path=anshumanjadiya1102/anshumanjadiya1102&label=Total%20Visitors&labelColor=%23000&countColor=%230A0209&style=flat-square)
       </td>
       <td>
         <a href="https://github.com/anshumanjadiya1102">
@@ -160,7 +161,8 @@ My latest produces include:
 ![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
 
 ##  <img src="https://media.tenor.com/q4L3wKD-P7YAAAAj/hydra-we-bhack.gif" height="30" style="margin-right: 10px; vertical-align: middle;"/>  My Tech Arsenal 
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <div align=center>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
@@ -184,7 +186,8 @@ My latest produces include:
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 </div>
 
    <img src="https://github-readme-stats.vercel.app/api?username=anshumanjadiya1102&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/><br><br>
@@ -193,17 +196,17 @@ My latest produces include:
 
    <img src="https://nirzak-streak-stats.vercel.app/?user=anshumanjadiya1102&theme=dark&hide_border=false" alt="Streak Stats"/><br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=anshumanjadiya1102&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=anshumanjadiya1102&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 
 
-<img src="https://github-contributor-stats.vercel.app/api?username=anshumanjadiya1102&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
+   <img src="https://github-contributor-stats.vercel.app/api?username=anshumanjadiya1102&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshumanjadiya1102&bg_color=0d1117&color=ffffff&line=f85c03&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
-</a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshumanjadiya1102&bg_color=0d1117&color=ffffff&line=f85c03&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
+  </a>
 
 
-![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## 🌐 Connect & Support
 - 🌍 [**Website**](https://anshumanjadiya1102.github.io)      
