@@ -11,13 +11,17 @@
 
 ![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
 
-
+<div align=center>
+  
 # <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> Hello Every Github Souls, I'm [Anshuman Jadiya](https://anshumanjadiya1102.github.io) <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+<br>
+  
+</div>
 
 🎓 A curious student & passionate **Java enthusiast** who loves building creative apps.  
 💡 I believe Java is the perfect language for beginners, and I want to **share its beauty** with the world.  
 🚀 Currently exploring new ideas, contributing to open source, and building my **Java Beauty Suite**.  
-
+<br>
 <div align=center>
   <table align="center">
   <thead align="center">
@@ -60,6 +64,8 @@
  <img src="https://img.shields.io/badge/Organization-RecordHive-6a5acd?style=for-the-badge&logo=apachespark&logoColor=white" alt="RecordHive"/>
  <img src="https://img.shields.io/badge/Drive--for--Java-Open%20Source%20Community-00ccff?style=for-the-badge&logo=github&logoColor=white" alt="Drive-for-Java"/>
 </div>
+
+![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
 
 
 ## 🌱 Current Stack <img height="40" alt="Anshuman Jadiya" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
