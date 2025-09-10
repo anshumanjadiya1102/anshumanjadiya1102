@@ -98,7 +98,13 @@ but also playful, creative, and beautifully crafted 🚀. <br>
 
 ![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> My Projects (Java Beauty Suite)
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> [My Projects](https://github.com/anshumanjadiya1102/anshumanjadiya1102.github.io)
+
+> [!IMPORTANT]
+> Java Beauty Suite contains more than these 5 projects. <br>
+> All the projects coming under Java Beauty Suite are Unregistered Trademark of [Anshuman Jadiya](https://github.com/anshumanjadiya1102) <br>
+> But you are free to fork and Collaborate with me. <br>
+
 <div align=center>
   
 **![Status](https://img.shields.io/badge/Status-Done-green)**
@@ -106,7 +112,7 @@ but also playful, creative, and beautifully crafted 🚀. <br>
 
 </div>
   
-> A suite of Java applications designed to showcase clean UI, productivity, and coding efficiency. <br>
+A curated list of Java applications designed to showcase clean UI, productivity, and coding efficiency. <br>
 My latest produces include:
 - _Java Calculator_- *A modern calculator GUI with number and operator buttons, styled with a blue "=" button.*
 - _Java Todo-App_- *A terminal-based To-Do application showing available commands and a sample task list.*
