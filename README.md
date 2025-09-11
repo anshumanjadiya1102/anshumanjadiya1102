@@ -212,7 +212,7 @@ but also playful, creative, and beautifully crafted 🚀. <br>
 
 </div>
 
-<img width="1452" height="172" alt="yoyo" src="https://github.com/user-attachments/assets/2517dc17-d2c1-4ff3-9704-e3250754a7f1" />
+<img width="344" height="86" alt="yoyo2" src="https://github.com/user-attachments/assets/eb1c177f-710e-4a17-9496-be8a4cd7c404" />
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
