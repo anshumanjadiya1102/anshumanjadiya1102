@@ -201,7 +201,21 @@ but also playful, creative, and beautifully crafted 🚀. <br>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshumanjadiya1102&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/><br>
 
-   <img src="https://nirzak-streak-stats.vercel.app/?user=anshumanjadiya1102&theme=dark&hide_border=false" alt="Streak Stats"/><br><br>
+   <img src="https://nirzak-streak-stats.vercel.app/?user=anshumanjadiya1102&theme=dark&hide_border=false" alt="Streak Stats"/><br>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<div align=center>
+
+###  🔰 GSSoC'24 Badges 🔰
+
+</div>
+
+<img width="1452" height="172" alt="yoyo" src="https://github.com/user-attachments/assets/2517dc17-d2c1-4ff3-9704-e3250754a7f1" />
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
   <img src="https://github-profile-trophy.vercel.app/?username=anshumanjadiya1102&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 
