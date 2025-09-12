@@ -215,7 +215,7 @@ but also playful, creative, and beautifully crafted 🚀. <br>
 <img width="344" height="86" alt="yoyo2" src="https://github.com/user-attachments/assets/eb1c177f-710e-4a17-9496-be8a4cd7c404" />
 
 ### Other Badges 
-<a href="https://github.com/fuchsia-agency"><img src="https://github.com/user-attachments/assets/5ea245f9-9b0f-4f7f-b71e-a4baf38a81f7" alt="GitHub Collaborators Badge" width="100" /></a>
+<a href="https://github.com/GCCvitb"><img src="https://github.com/user-attachments/assets/5ea245f9-9b0f-4f7f-b71e-a4baf38a81f7" alt="GitHub Collaborators Badge" width="100" /></a>
 <a href="https://github.com/fuchsia-agency"><img width="100" height="100" alt="fuchsia-agency-logo-jorge" src="https://github.com/user-attachments/assets/3429d80e-aecf-45e3-8145-f993094a22c1" /></a>
 
 
