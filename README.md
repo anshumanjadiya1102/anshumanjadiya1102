@@ -214,6 +214,12 @@ but also playful, creative, and beautifully crafted 🚀. <br>
 
 <img width="344" height="86" alt="yoyo2" src="https://github.com/user-attachments/assets/eb1c177f-710e-4a17-9496-be8a4cd7c404" />
 
+### Other Badges 
+<img src="https://github.com/user-attachments/assets/5ea245f9-9b0f-4f7f-b71e-a4baf38a81f7" 
+     alt="GitHub Collaborators Badge" 
+     width="100" />
+
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
