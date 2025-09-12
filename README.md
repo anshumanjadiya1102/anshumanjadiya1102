@@ -216,7 +216,7 @@ but also playful, creative, and beautifully crafted 🚀. <br>
 
 ### Other Badges 
 <a href="https://github.com/fuchsia-agency"><img src="https://github.com/user-attachments/assets/5ea245f9-9b0f-4f7f-b71e-a4baf38a81f7" alt="GitHub Collaborators Badge" width="100" /></a>
-<a href="https://github.com/fuchsia-agency"><img width="725" height="725" alt="fuchsia-agency-logo-jorge" src="https://github.com/user-attachments/assets/3429d80e-aecf-45e3-8145-f993094a22c1" /></a>
+<a href="https://github.com/fuchsia-agency"><img width="100" height="100" alt="fuchsia-agency-logo-jorge" src="https://github.com/user-attachments/assets/3429d80e-aecf-45e3-8145-f993094a22c1" /></a>
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
