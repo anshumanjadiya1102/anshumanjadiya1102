@@ -102,17 +102,17 @@ but also playful, creative, and beautifully crafted 🚀. <br>
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> [My Projects](https://github.com/anshumanjadiya1102/anshumanjadiya1102.github.io)
 
-> [!IMPORTANT]
-> Java Beauty Suite contains more than these 5 projects. <br>
-> All the projects coming under Java Beauty Suite are Unregistered Trademark of [Anshuman Jadiya](https://github.com/anshumanjadiya1102) <br>
-> But you are free to fork and Collaborate with me. <br>
-
 <div align=center>
   
 **![Status](https://img.shields.io/badge/Status-Done-green)**
 **[![Website](https://img.shields.io/website?color=green&up_message=online&url=https://anshumanjadiya1102.github.io&style=for-the-badge)](https://anshumanjadiya1102.github.io)**
 
 </div>
+
+> [!IMPORTANT]
+> Java Beauty Suite contains more than these 5 projects. <br>
+> All the projects coming under Java Beauty Suite are Unregistered Trademark of [Anshuman Jadiya](https://github.com/anshumanjadiya1102) <br>
+> But you are free to fork and Collaborate with me. <br>
 
 > [!TIP]  
 >  ###### A curated list of Java applications designed to showcase clean UI, productivity, and coding efficiency. <br> 
@@ -195,20 +195,7 @@ but also playful, creative, and beautifully crafted 🚀. <br>
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 </div>
-
-   <img src="https://github-readme-stats.vercel.app/api?username=anshumanjadiya1102&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/><br><br>
-
-   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anshumanjadiya1102&theme=dracula" alt="Profile Summary"/><br>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshumanjadiya1102&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/><br>
-
-   <img src="https://nirzak-streak-stats.vercel.app/?user=anshumanjadiya1102&theme=dark&hide_border=false" alt="Streak Stats"/><br>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <div align=center>
 
@@ -220,20 +207,27 @@ but also playful, creative, and beautifully crafted 🚀. <br>
 <a href="https://github.com/GCCvitb"><img src="https://github.com/user-attachments/assets/5ea245f9-9b0f-4f7f-b71e-a4baf38a81f7" alt="GitHub Collaborators Badge" width="85" /></a>
 <a href="https://github.com/fuchsia-agency"><img width="75" height="75" alt="fuchsia-agency-logo-jorge" src="https://github.com/user-attachments/assets/3429d80e-aecf-45e3-8145-f993094a22c1" /></a>
 <div align=center>
-<img src="https://trendshift.io/api/badge/developers/530"
-     alt="Trendshift badge"
-     style="max-width:100%; height:auto;"
-     loading="lazy">
+<img src="https://trendshift.io/api/badge/developers/530" alt="Trendshift badge" style="max-width:100%; height:auto;" loading="lazy">
 </div>
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-  <img src="https://github-profile-trophy.vercel.app/?username=anshumanjadiya1102&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=anshumanjadiya1102&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/><br><br>
 
+   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anshumanjadiya1102&theme=dracula" alt="Profile Summary"/><br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshumanjadiya1102&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/><br>
+
+   <img src="https://nirzak-streak-stats.vercel.app/?user=anshumanjadiya1102&theme=dark&hide_border=false" alt="Streak Stats"/><br>
+
+   <img src="https://github-profile-trophy.vercel.app/?username=anshumanjadiya1102&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 
    <img src="https://github-contributor-stats.vercel.app/api?username=anshumanjadiya1102&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshumanjadiya1102&bg_color=0d1117&color=ffffff&line=f85c03&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
