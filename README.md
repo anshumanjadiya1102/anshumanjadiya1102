@@ -1,27 +1,28 @@
-<p align="center">
+<p align="center"><a name="readme-top"></a>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello+Every+GitHub+Souls!!&height=100&section=header"/>
 
 </p>
 
 <div align=center>
 
-<img src="https://github.com/WebXDAO/.github/assets/73097560/2f2f4777-292d-4eaf-9ecd-87d0fb8142a6" width="60px"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C03&center=true&vCenter=true&width=435&lines=;Backend+Support;Frontend+Developer;Java+Enthusiast;HTML+Knower;Open+Source+Contributor)](https://git.io/typing-svg) <img src="https://github.com/WebXDAO/.github/assets/73097560/2f2f4777-292d-4eaf-9ecd-87d0fb8142a6" width="60px">
+<img src="https://github.com/WebXDAO/.github/assets/73097560/2f2f4777-292d-4eaf-9ecd-87d0fb8142a6" width="60px"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C03&center=true&vCenter=true&width=435&lines=;Anshuman+Jadiya;Backend+Support;Frontend+Developer;Java+Enthusiast;HTML+Knower;Open+Source+Contributor)](https://git.io/typing-svg) <img src="https://github.com/WebXDAO/.github/assets/73097560/2f2f4777-292d-4eaf-9ecd-87d0fb8142a6" width="60px">
 
 </div>
 
-![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
 
 <div align=center>
   
 # <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> Hello Every Github Souls, I'm [Anshuman Jadiya](https://anshumanjadiya1102.github.io) <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 <br>
+
+
   
 </div>
 
 🎓 A curious student & passionate **Java enthusiast** who loves building creative apps.  
 💡 I believe Java is the perfect language for beginners, and I want to **share its beauty** with the world.  
 🚀 Currently exploring new ideas, contributing to open source, and building my **Java Beauty Suite**.  
-<br>
+<br><br>
 <div align=center>
   <table align="center">
   <thead align="center">
@@ -199,6 +200,8 @@ but also playful, creative, and beautifully crafted 🚀. <br>
 
    <img src="https://github-readme-stats.vercel.app/api?username=anshumanjadiya1102&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/><br><br>
 
+   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anshumanjadiya1102&theme=dracula" alt="Profile Summary"/><br>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshumanjadiya1102&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/><br>
 
    <img src="https://nirzak-streak-stats.vercel.app/?user=anshumanjadiya1102&theme=dark&hide_border=false" alt="Streak Stats"/><br>
@@ -231,9 +234,6 @@ but also playful, creative, and beautifully crafted 🚀. <br>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshumanjadiya1102&bg_color=0d1117&color=ffffff&line=f85c03&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
   </a>
 
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
 ## 🌐 Connect & Support
 - 🌍 [**Website**](https://anshumanjadiya1102.github.io)      
 - 💻 [**GitHub**](https://github.com/anshumanjadiya1102)  
@@ -260,14 +260,16 @@ but also playful, creative, and beautifully crafted 🚀. <br>
 
 <div align="center">
   
-  ##### ✨ _“"Where creativity meets the beauty in Java ☕✨”_ – Java_Beauty_Suite  [🔝](#--""Where--)
+  ##### ✨ _“"Where creativity meets the beauty in Java ☕✨”_ – Java_Beauty_Suite
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 
   ###### anshumanjadiya1102______________________________________________________________________________________________________© 2025 Anshuman Jadiya – Crafted with ❤️
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
-
+ 
 </div>
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200"> 
