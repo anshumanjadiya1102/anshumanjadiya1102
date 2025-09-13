@@ -93,7 +93,7 @@
 ![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
 
 ## 🌍 Priority & Current Updates
-Currently, my top priority is expanding the <b>Java Beauty Suite</b> <img src="https://i.pinimg.com/originals/46/41/61/4641611401ecb508c625eebe448da663.gif" width="250" height="250" align="right" alt="https://github.com/anshumanjadiya1102"> ✨ while continuing to highlight the true <i>beauty in Java</i> through every project I create. 
+Currently, my top priority is expanding the <b>Java Beauty Suite</b>  <img  src="https://shorturl.at/odfzC" width="500" align="right"> ✨ while continuing to highlight the true <i>beauty in Java</i> through every project I create. 
 I am focused on mastering <b>JavaFX</b>, improving my <b>GitHub workflows</b>, and refining <b>clean coding practices</b>🌱.<br> 
 My ultimate goal is to deliver open-source Java applications that are not only useful and professional
 but also playful, creative, and beautifully crafted 🚀. <br>  
