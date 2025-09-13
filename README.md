@@ -93,11 +93,11 @@
 ![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
 
 ## 🌍 Priority & Current Updates
-Currently, my top priority is expanding the <b>Java Beauty Suite</b>  <img  src="https://shorturl.at/odfzC" width="500" align="right"> <br>
-✨ while continuing to highlight the true <i>beauty in Java</i> through every project I create. 
-I am focused on mastering <b>JavaFX</b>, improving my <b>GitHub workflows</b>, and refining <b>clean coding practices</b>🌱.<br> 
+Currently, my top priority is expanding the <b>Java Beauty Suite</b>  <img  src="https://shorturl.at/odfzC" width="500" align="right"> 
+✨ while continuing to highlight the true <i>beauty in Java</i> through every project I create.<br> 
+I am focused on mastering <b>JavaFX</b>, improving my <b>GitHub workflows</b>, and refining <b>clean coding practices</b>🌱. <br>
 My ultimate goal is to deliver open-source Java applications that are not only useful and professional
-but also playful, creative, and beautifully crafted 🚀. <br>  
+but also playful, creative, and beautifully crafted 🚀.  
 
 ![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
 
@@ -245,7 +245,7 @@ but also playful, creative, and beautifully crafted 🚀. <br>
   </a>
 
 ## 🌐 Connect & Support
-- 🌍 [**Website**](https://anshumanjadiya1102.github.io)      <img src="https://github.com/user-attachments/assets/504996c9-8b56-4741-a4b8-ada254800ddf" alt="Skills_Animation_Dark" align="right">
+- 🌍 [**Website**](https://anshumanjadiya1102.github.io)     
 - 💻 [**GitHub**](https://github.com/anshumanjadiya1102)  
 - 🦊 [**GitLab**](https://gitlab.com/anshumanjadiya1102)  
 - 📧 [**Email**](mailto:anshuman.jadiya03@gmail.com)  
