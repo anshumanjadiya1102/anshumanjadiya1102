@@ -242,7 +242,7 @@ but also playful, creative, and beautifully crafted 🚀. <br>
   </a>
 
 ## 🌐 Connect & Support
-- 🌍 [**Website**](https://anshumanjadiya1102.github.io)      
+- 🌍 [**Website**](https://anshumanjadiya1102.github.io)      <img src="https://github.com/user-attachments/assets/504996c9-8b56-4741-a4b8-ada254800ddf" alt="Skills_Animation_Dark" align="right">
 - 💻 [**GitHub**](https://github.com/anshumanjadiya1102)  
 - 🦊 [**GitLab**](https://gitlab.com/anshumanjadiya1102)  
 - 📧 [**Email**](mailto:anshuman.jadiya03@gmail.com)  
