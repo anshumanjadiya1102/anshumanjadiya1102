@@ -252,19 +252,40 @@ but also playful, creative, and beautifully crafted 🚀.
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshumanjadiya1102&bg_color=0d1117&color=ffffff&line=f85c03&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
   </a>
 
-## 🌐 Connect & Support
-- 🌍 [**Website**](https://anshumanjadiya1102.github.io)     
-- 💻 [**GitHub**](https://github.com/anshumanjadiya1102)  
-- 🦊 [**GitLab**](https://gitlab.com/anshumanjadiya1102)  
-- 📧 [**Email**](mailto:anshuman.jadiya03@gmail.com)  
-- 💬 [**Discord**](https://discord.gg/68mtBJqRgs)  
-- 📂 [**Bitbucket**](https://bitbucket.org/anshumanjadiya1102/workspace/overview/)
-- 🗽 [**Reddit**](https://www.reddit.com/user/anshumanjadiya1102/)
-- 🐱‍🏍 [**Dev.to**](https://dev.to/anshumanjadiya1102)
-- ⚓ [**X.com**](https://x.com/anshumanjadiya)
+## 🌐 Connect & Support    
 - 🎨 [**Forem**](https://forem.com/anshumanjadiya1102)
 - 🛠 [**Hashnode**](https://hashnode.com/@anshumanjadiya1102)
 - 🐱‍👤 [**Stack Overflow**](https://stackoverflow.com/users/31370142/anshuman-jadiya)
+
+<a href="https://github.com/anshumanjadiya1102">
+<img width="60" height="60" alt="github" src="https://github.com/user-attachments/assets/b5df5c33-d971-4fd1-b0d7-36a56ec78eed" />
+</a>
+<a href="mailto:anshuman.jadiya03@gmail.com">
+<img width="60" height="60" alt="gmail" src="https://github.com/user-attachments/assets/8acb23a2-a55c-482f-a200-6a0115c5cf03" />
+</a>
+<a href="https://github.com/anshumanjadiya1102">
+<img width="60" height="60" alt="internet" src="https://github.com/user-attachments/assets/2fd1dbfe-f503-4cbf-b3dc-6a2d63bb87d1" />
+</a>
+<a href="https://gitlab.com/anshumanjadiya1102">
+<img width="60" height="60" alt="gitlab" src="https://github.com/user-attachments/assets/412140b6-9806-428c-bab4-25ab6b34897e" />
+</a>
+<a href="https://discord.gg/68mtBJqRgs">
+<img width="60" height="60" alt="discord" src="https://github.com/user-attachments/assets/330d20c9-8752-4d16-a2f3-c1713bf99ce8" />
+</a>
+<a href="https://bitbucket.org/anshumanjadiya1102/workspace/overview/">
+<img width="60" height="60" alt="bitbucket" src="https://github.com/user-attachments/assets/7b63823d-7042-42cc-a6bb-e1ae0f3a19de" />
+</a>
+<a href="https://www.reddit.com/user/anshumanjadiya1102/">
+<img width="60" height="60" alt="reddit" src="https://github.com/user-attachments/assets/6bf0430a-4ca2-44c8-b285-86691af657ed" />
+</a>
+<a href="https://dev.to/anshumanjadiya1102">
+<img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/fb616e3c-5a35-408f-975c-117cd5618ded" />
+</a>
+<a href="https://x.com/anshumanjadiya">
+<img width="60" height="60" alt="twitter" src="https://github.com/user-attachments/assets/47d624d3-33e5-4146-a1c8-30ae62b17e4e" />
+</a>
+
+
 
 ![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
 
