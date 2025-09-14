@@ -231,10 +231,18 @@ but also playful, creative, and beautifully crafted 🚀.
    <img src="https://github-contributor-stats.vercel.app/api?username=anshumanjadiya1102&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
    
    ### Top Repos
-  <a href="https://github.com/anshumanjadiya1102/WeatherApp"><img src="https://gh-card.dev/repos/anshumanjadiya1102/WeatherApp.svg#gh-dark-mode-only" /></a>
-  <a href="https://github.com/anshumanjadiya1102/Football_Game">
-  <img src="https://gh-card.dev/repos/anshumanjadiya1102/Football_Game.svg#gh-dark-mode-only" />
-</a>
+  <a href="https://github.com/anshumanjadiya1102/WeatherApp">
+  <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=anshumanjadiya1102&repo=WeatherApp&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
+        </a>
+   <a href="https://github.com/anshumanjadiya1102/Football_Game">
+  <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=anshumanjadiya1102&repo=Football_Game&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
+        </a><br>
+          <a href="https://github.com/anshumanjadiya1102/Java_Beauty_Calculator">
+  <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=anshumanjadiya1102&repo=Java_Beauty_Calculator&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
+        </a>
+          <a href="https://github.com/anshumanjadiya1102/Todo-App.java">
+  <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=anshumanjadiya1102&repo=Todo-App.java&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
+        </a>
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
