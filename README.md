@@ -255,6 +255,8 @@ but also playful, creative, and beautifully crafted 🚀.
 ## 🌐 Connect & Support    
 
 <div align=center>
+
+  ![left](https://github.com/user-attachments/assets/8546fd69-e30e-415d-ad14-9f543b19e347)
 <a href="https://github.com/anshumanjadiya1102">
 <img width="60" height="60" alt="github" src="https://github.com/user-attachments/assets/b5df5c33-d971-4fd1-b0d7-36a56ec78eed" />
 </a>
@@ -274,7 +276,7 @@ but also playful, creative, and beautifully crafted 🚀.
 <img width="60" height="60" alt="bitbucket" src="https://github.com/user-attachments/assets/7b63823d-7042-42cc-a6bb-e1ae0f3a19de" />
 </a>
 <a href="https://www.reddit.com/user/anshumanjadiya1102/">
-<img width="60" height="60" alt="reddit" src="https://github.com/user-attachments/assets/6bf0430a-4ca2-44c8-b285-86691af657ed" /><br>
+<img width="60" height="60" alt="reddit" src="https://github.com/user-attachments/assets/6bf0430a-4ca2-44c8-b285-86691af657ed" /> <img src="https://github.com/user-attachments/assets/29882840-9704-4571-9d76-7cad441c44ce" alt="Description of image" style="float:right; margin:0 0 1rem 1rem; max-width:40%; height:auto;" loading="lazy"> <br>
 </a>
 <a href="https://dev.to/anshumanjadiya1102">
 <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/fb616e3c-5a35-408f-975c-117cd5618ded" />
