@@ -253,8 +253,8 @@ but also playful, creative, and beautifully crafted 🚀.
   </a>
 
 ## 🌐 Connect & Support    
-- 🐱‍👤 [**Stack Overflow**](https://stackoverflow.com/users/31370142/anshuman-jadiya)
 
+<div align=center>
 <a href="https://github.com/anshumanjadiya1102">
 <img width="60" height="60" alt="github" src="https://github.com/user-attachments/assets/b5df5c33-d971-4fd1-b0d7-36a56ec78eed" />
 </a>
@@ -274,7 +274,7 @@ but also playful, creative, and beautifully crafted 🚀.
 <img width="60" height="60" alt="bitbucket" src="https://github.com/user-attachments/assets/7b63823d-7042-42cc-a6bb-e1ae0f3a19de" />
 </a>
 <a href="https://www.reddit.com/user/anshumanjadiya1102/">
-<img width="60" height="60" alt="reddit" src="https://github.com/user-attachments/assets/6bf0430a-4ca2-44c8-b285-86691af657ed" />
+<img width="60" height="60" alt="reddit" src="https://github.com/user-attachments/assets/6bf0430a-4ca2-44c8-b285-86691af657ed" /><br>
 </a>
 <a href="https://dev.to/anshumanjadiya1102">
 <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/fb616e3c-5a35-408f-975c-117cd5618ded" />
@@ -288,8 +288,16 @@ but also playful, creative, and beautifully crafted 🚀.
 <a href="https://hashnode.com/@anshumanjadiya1102">
 <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/f7f3a640-c087-4b7c-9fe2-b6451822d8e4" />
 </a>
-
-
+<a href="https://stackoverflow.com/users/31370142/anshuman-jadiya">
+<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/4914c1d1-6742-417e-bd00-9755cdf598af" />
+</a>
+<a href="https://in/anshuman-jadiya-a56929381">
+<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/104b06ff-717f-43b9-be3c-be404b5963e6" />
+</a>
+<a href="https://@anshuman-jadiya03.bsky.social">
+<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/84daf12a-46a3-4296-b95c-17967a35efd5" />
+</a>
+</div>
 
 ![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
 
