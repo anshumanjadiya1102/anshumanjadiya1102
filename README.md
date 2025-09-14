@@ -253,8 +253,6 @@ but also playful, creative, and beautifully crafted 🚀.
   </a>
 
 ## 🌐 Connect & Support    
-- 🎨 [**Forem**](https://forem.com/anshumanjadiya1102)
-- 🛠 [**Hashnode**](https://hashnode.com/@anshumanjadiya1102)
 - 🐱‍👤 [**Stack Overflow**](https://stackoverflow.com/users/31370142/anshuman-jadiya)
 
 <a href="https://github.com/anshumanjadiya1102">
@@ -283,6 +281,12 @@ but also playful, creative, and beautifully crafted 🚀.
 </a>
 <a href="https://x.com/anshumanjadiya">
 <img width="60" height="60" alt="twitter" src="https://github.com/user-attachments/assets/47d624d3-33e5-4146-a1c8-30ae62b17e4e" />
+</a>
+<a href="https://forem.com/anshumanjadiya1102">
+<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/672eb0e9-9538-4000-a55f-40ea5307daf8" />
+</a>
+<a href="https://hashnode.com/@anshumanjadiya1102">
+<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/f7f3a640-c087-4b7c-9fe2-b6451822d8e4" />
 </a>
 
 
