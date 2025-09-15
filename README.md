@@ -13,7 +13,7 @@
 
 <div align=center>
   
-# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> Hello Every Github Souls, I'm [Anshuman Jadiya](https://anshumanjadiya1102.github.io) <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> Hello Every Github Soul, I'm [Anshuman Jadiya](https://anshumanjadiya1102.github.io) <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 <br>
 
 
@@ -92,7 +92,7 @@
 
 ![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
 
-## 🌍 Priority & Current Updates
+## 🌍 Priority & Current Stack <img height="40" alt="Anshuman Jadiya" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 Currently, my top priority is expanding the <b>Java<br> Beauty Suite</b>  <img  src="https://shorturl.at/odfzC" width="500" align="right"> 
 ✨ while continuing to highlight the true <i>beauty in Java</i> through every project I create.<br> 
 I am focused on mastering <b>JavaFX</b>, improving my <b>GitHub workflows</b>, and refining <b>clean coding practices</b>🌱. <br>
@@ -105,7 +105,6 @@ but also playful, creative, and beautifully crafted 🚀.
 
 <div align=center>
   
-**![Status](https://img.shields.io/badge/Status-Done-green)**
 **[![Website](https://img.shields.io/website?color=green&up_message=online&url=https://anshumanjadiya1102.github.io&style=for-the-badge)](https://anshumanjadiya1102.github.io)**
 
 </div>
@@ -231,19 +230,33 @@ but also playful, creative, and beautifully crafted 🚀.
    <img src="https://github-contributor-stats.vercel.app/api?username=anshumanjadiya1102&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
    
    ### Top Repos
+
+   <table>
+     <tr>
+       <td>
   <a href="https://github.com/anshumanjadiya1102/WeatherApp">
   <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=anshumanjadiya1102&repo=WeatherApp&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
         </a>
+         </td>
+       <td>
    <a href="https://github.com/anshumanjadiya1102/Football_Game">
   <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=anshumanjadiya1102&repo=Football_Game&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
-        </a><br>
+        </a>
+         </td>
+       </tr>
+     <tr>
+       <td>
           <a href="https://github.com/anshumanjadiya1102/Java_Beauty_Calculator">
   <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=anshumanjadiya1102&repo=Java_Beauty_Calculator&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
         </a>
+         </td>
+       <td>
           <a href="https://github.com/anshumanjadiya1102/Todo-App.java">
   <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=anshumanjadiya1102&repo=Todo-App.java&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
         </a>
-
+         </td>
+       </tr>
+</table>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -258,46 +271,46 @@ but also playful, creative, and beautifully crafted 🚀.
 
   ![left](https://github.com/user-attachments/assets/8546fd69-e30e-415d-ad14-9f543b19e347)
 <a href="https://github.com/anshumanjadiya1102">
-<img width="60" height="60" alt="github" src="https://github.com/user-attachments/assets/b5df5c33-d971-4fd1-b0d7-36a56ec78eed" />
+<img width="40" height="40" alt="github" src="https://github.com/user-attachments/assets/b5df5c33-d971-4fd1-b0d7-36a56ec78eed" />
 </a>
 <a href="mailto:anshuman.jadiya03@gmail.com">
-<img width="60" height="60" alt="gmail" src="https://github.com/user-attachments/assets/8acb23a2-a55c-482f-a200-6a0115c5cf03" />
+<img width="40" height="40" alt="gmail" src="https://github.com/user-attachments/assets/8acb23a2-a55c-482f-a200-6a0115c5cf03" />
 </a>
 <a href="https://github.com/anshumanjadiya1102">
-<img width="60" height="60" alt="internet" src="https://github.com/user-attachments/assets/2fd1dbfe-f503-4cbf-b3dc-6a2d63bb87d1" />
+<img width="40" height="40" alt="internet" src="https://github.com/user-attachments/assets/2fd1dbfe-f503-4cbf-b3dc-6a2d63bb87d1" />
 </a>
 <a href="https://gitlab.com/anshumanjadiya1102">
-<img width="60" height="60" alt="gitlab" src="https://github.com/user-attachments/assets/412140b6-9806-428c-bab4-25ab6b34897e" />
+<img width="40" height="40" alt="gitlab" src="https://github.com/user-attachments/assets/412140b6-9806-428c-bab4-25ab6b34897e" />
 </a>
 <a href="https://discord.gg/68mtBJqRgs">
-<img width="60" height="60" alt="discord" src="https://github.com/user-attachments/assets/330d20c9-8752-4d16-a2f3-c1713bf99ce8" />
+<img width="40" height="40" alt="discord" src="https://github.com/user-attachments/assets/330d20c9-8752-4d16-a2f3-c1713bf99ce8" />
 </a>
 <a href="https://bitbucket.org/anshumanjadiya1102/workspace/overview/">
-<img width="60" height="60" alt="bitbucket" src="https://github.com/user-attachments/assets/7b63823d-7042-42cc-a6bb-e1ae0f3a19de" />
+<img width="40" height="40" alt="bitbucket" src="https://github.com/user-attachments/assets/7b63823d-7042-42cc-a6bb-e1ae0f3a19de" />
 </a>
 <a href="https://www.reddit.com/user/anshumanjadiya1102/">
-<img width="60" height="60" alt="reddit" src="https://github.com/user-attachments/assets/6bf0430a-4ca2-44c8-b285-86691af657ed" /> <img src="https://github.com/user-attachments/assets/29882840-9704-4571-9d76-7cad441c44ce" alt="Description of image" style="float:right; margin:0 0 1rem 1rem; max-width:40%; height:auto;" loading="lazy"> <br>
+<img width="40" height="40" alt="reddit" src="https://github.com/user-attachments/assets/6bf0430a-4ca2-44c8-b285-86691af657ed" /> <img src="https://github.com/user-attachments/assets/29882840-9704-4571-9d76-7cad441c44ce" alt="Description of image" style="float:right; margin:0 0 1rem 1rem; max-width:40%; height:auto;" loading="lazy"> <br>
 </a>
 <a href="https://dev.to/anshumanjadiya1102">
-<img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/fb616e3c-5a35-408f-975c-117cd5618ded" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/fb616e3c-5a35-408f-975c-117cd5618ded" />
 </a>
 <a href="https://x.com/anshumanjadiya">
-<img width="60" height="60" alt="twitter" src="https://github.com/user-attachments/assets/47d624d3-33e5-4146-a1c8-30ae62b17e4e" />
+<img width="40" height="40" alt="twitter" src="https://github.com/user-attachments/assets/47d624d3-33e5-4146-a1c8-30ae62b17e4e" />
 </a>
 <a href="https://forem.com/anshumanjadiya1102">
-<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/672eb0e9-9538-4000-a55f-40ea5307daf8" />
+<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/672eb0e9-9538-4000-a55f-40ea5307daf8" />
 </a>
 <a href="https://hashnode.com/@anshumanjadiya1102">
-<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/f7f3a640-c087-4b7c-9fe2-b6451822d8e4" />
+<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/f7f3a640-c087-4b7c-9fe2-b6451822d8e4" />
 </a>
 <a href="https://stackoverflow.com/users/31370142/anshuman-jadiya">
-<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/4914c1d1-6742-417e-bd00-9755cdf598af" />
+<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/4914c1d1-6742-417e-bd00-9755cdf598af" />
 </a>
 <a href="https://in/anshuman-jadiya-a56929381">
-<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/104b06ff-717f-43b9-be3c-be404b5963e6" />
+<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/104b06ff-717f-43b9-be3c-be404b5963e6" />
 </a>
 <a href="https://@anshuman-jadiya03.bsky.social">
-<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/84daf12a-46a3-4296-b95c-17967a35efd5" />
+<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/84daf12a-46a3-4296-b95c-17967a35efd5" />
 </a>
 </div>
 
@@ -313,16 +326,10 @@ but also playful, creative, and beautifully crafted 🚀.
 
 <div align="center">
   
-  ##### ✨ _“"Where creativity meets the beauty in Java ☕✨”_ – Java_Beauty_Suite
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+  ##### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> _Where creativity meets the beauty in Java_ 
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
-
-  ###### anshumanjadiya1102______________________________________________________________________________________________________© 2025 Anshuman Jadiya – Crafted with ❤️
-
- 
 </div>
 
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting%20My%20Profile!&fontSize=20&fontColor=fff&animation=twinkling"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200"> 
+   ###### anshumanjadiya1102___________________________________________________________________________________________________© 2025 Anshuman Jadiya – Crafted with ❤️
