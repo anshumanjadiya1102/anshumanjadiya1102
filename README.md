@@ -223,9 +223,13 @@ but also playful, creative, and beautifully crafted 🚀.
 
    <img src="https://nirzak-streak-stats.vercel.app/?user=anshumanjadiya1102&theme=dark&hide_border=false" alt="Streak Stats"/><br>
 
-  <a href="https://github.com/anshumanjadiya1102">
-    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=anshumanjadiya1102&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20&theme=dracula">
-  </a>
+<a href="https://github.com/anshumanjadiya1102">
+  <img 
+    alt="GitHub Trophies" 
+    src="https://github-profile-trophy.vercel.app/?username=anshumanjadiya1102&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20&theme=dracula" 
+  />
+</a>
+
 
    <img src="https://github-contributor-stats.vercel.app/api?username=anshumanjadiya1102&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
    
