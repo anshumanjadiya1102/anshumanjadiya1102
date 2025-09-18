@@ -211,10 +211,9 @@ but also playful, creative, and beautifully crafted 🚀. <br>
 
 </div>
 
-<a href="https://github.com/GSSoC24"><img width="344" height="86" alt="GSSOC" src="https://github.com/user-attachments/assets/eb1c177f-710e-4a17-9496-be8a4cd7c404" />
-<img width="165" height="165" alt="GSSOC" src="https://github.com/user-attachments/assets/1be5969f-251c-4eda-b119-86bcc7cc8268" /></a>
-<a href="https://github.com/GCCvitb"><img src="https://github.com/user-attachments/assets/5ea245f9-9b0f-4f7f-b71e-a4baf38a81f7" alt="GitHub Collaborators Badge" width="85" /></a>
-<a href="https://github.com/fuchsia-agency"><img width="75" height="75" alt="fuchsia-agency-logo-jorge" src="https://github.com/user-attachments/assets/3429d80e-aecf-45e3-8145-f993094a22c1" /></a>
+<a href="https://github.com/GSSoC24"><img width="1100" height="150" alt="Gssoc" src="https://github.com/user-attachments/assets/ec017353-cb0e-4ea0-b986-b3f61b51c2df" /></a>
+<a href="https://github.com/GCCvitb"><img src="https://github.com/user-attachments/assets/5ea245f9-9b0f-4f7f-b71e-a4baf38a81f7" alt="GitHub Collaborators Badge" width="120" /></a>
+<a href="https://github.com/fuchsia-agency"><img width="100" height="100" alt="fuchsia-agency-logo-jorge" src="https://github.com/user-attachments/assets/3429d80e-aecf-45e3-8145-f993094a22c1" /></a>
 <div align=center>
 <img src="https://trendshift.io/api/badge/developers/530" alt="Trendshift badge" style="max-width:100%; height:auto;" loading="lazy">
 </div>
