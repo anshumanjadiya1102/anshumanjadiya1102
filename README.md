@@ -242,7 +242,8 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
    <img src="https://github-contributor-stats.vercel.app/api?username=anshumanjadiya1102&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
 
    ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)<br>
+<img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Jokes Card" align="center" width="300" height="180"/>
    
    ### Top Repos
 
