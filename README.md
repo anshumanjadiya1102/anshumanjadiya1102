@@ -97,30 +97,22 @@ but also playful, creative, and beautifully crafted 🚀.
 
 ![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
 
-<kbd align="center" valign="center">
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> [My Projects](https://github.com/anshumanjadiya1102/anshumanjadiya1102.github.io)
+
+<div align=left>
+<kbd align="left" valign="left">
             <a href="https://github.com/Charmve/computer-vision-in-action">
                 <img align="right" src="https://komarev.com/ghpvc/?username=anshumanjadiya1102&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
             </a>
             <u><i>*These columns are <code>automatically</code> updated by <a hrerf="https://github.com/features/actions">GitHub actions</a>.</i></u> &ensp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </kbd><br><br>
-<div align=left>
-  
-Dreaming up ideas and making them come true is where my passion lies. See my project list [here](https://github.com/anshumanjadiya1102?tab=repositories). 
-   <img src="https://github-readme-weather-widget.vercel.app" align="right">
-Thank You for supporting and showing love on GitHub.<br>
-You can view my Most Famous projects here.
-
 </div>
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> [My Projects](https://github.com/anshumanjadiya1102/anshumanjadiya1102.github.io)
-
-<div align=center>
-  
-**[![Website](https://img.shields.io/website?color=green&up_message=online&url=https://anshumanjadiya1102.github.io&style=for-the-badge)](https://anshumanjadiya1102.github.io)**
-
-</div>
+ 
+ <img src="https://github-readme-weather-widget.vercel.app" align="right">   
 
 > [!IMPORTANT]
+> Dreaming up ideas and making them come true is where my passion lies. See my project list [here](https://github.com/anshumanjadiya1102?tab=repositories). <br>
 > Java Beauty Suite contains more than these 5 projects. <br>
 > All the projects coming under Java Beauty Suite are Unregistered Trademark of [Anshuman Jadiya](https://github.com/anshumanjadiya1102) <br>
 > But you are free to fork and Collaborate with me. <br>
@@ -133,7 +125,10 @@ You can view my Most Famous projects here.
 > - _Java Number Guessing Game_- *A command-line number guessing game where the user guesses until correct.*
 > - _Java Football Game_- *A JavaFX-powered 2D Multiplayer Football Game with real-time play and CSS-styled GUI.*
 > - _Java Tic-Tac-Toe Game_- *A modern JavaFX Tic Tac Toe game with multiple levels. Play against a AI powered by Minimax algorithm or challenge a friend!*
+
 <div align="center"> 
+  
+  **[![Website](https://img.shields.io/website?color=green&up_message=online&url=https://anshumanjadiya1102.github.io&style=for-the-badge)](https://anshumanjadiya1102.github.io)**
   <table> 
     <tr> 
       <th> APP <img src="https://img.shields.io/badge/App-🚀-blue?style=for-the-badge"></th> 
