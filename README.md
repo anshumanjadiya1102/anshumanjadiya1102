@@ -221,9 +221,9 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=anshumanjadiya1102&theme=dark&data=followers,repositories,commits,stars" alt="Profile Stats"/>
-
-   <img src="https://github-readme-stats.vercel.app/api?username=anshumanjadiya1102&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/><br><br>
+ 
+![](https://github-readme-stats.vercel.app/api?username=anshumanjadiya1102&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/><br>
+![](https://nirzak-streak-stats.vercel.app/?user=anshumanjadiya1102&theme=dracula&hide_border=false)<br/>
 
    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anshumanjadiya1102&theme=dracula" alt="Profile Summary"/><br>
 
@@ -240,6 +240,9 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
 
 
    <img src="https://github-contributor-stats.vercel.app/api?username=anshumanjadiya1102&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
+
+   ### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
    
    ### Top Repos
 
@@ -345,5 +348,3 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
 
 
    ###### anshumanjadiya1102___________________________________________________________________________________________________© 2025 Anshuman Jadiya – Crafted with ❤️
-
-</table>
