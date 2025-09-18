@@ -93,7 +93,9 @@ Currently, my top priority is expanding the <b>Java<br> Beauty Suite</b>  <img  
 ✨ while continuing to highlight the true <i>beauty in Java</i> through every project I create.<br> 
 I am focused on mastering <b>JavaFX</b>, improving my <b>GitHub workflows</b>, and refining <b>clean coding practices</b>🌱. <br>
 My ultimate goal is to deliver open-source Java applications that are not only useful and professional
-but also playful, creative, and beautifully crafted 🚀.  
+but also playful, creative, and beautifully crafted 🚀. <br>
+> To express my gratitude for your support and love, I have prepared a small gift for you. Click on the icon!<br>
+<a href="https://anshumanjadiya1102.github.io/games" target="_blank"><img align="left" src="https://charmve.github.io/sponsor_files/playagame.png" alt="Play a Game with Me" width="180px"></a>
 
 ![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
 
