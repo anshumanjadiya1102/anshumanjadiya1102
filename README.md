@@ -6,12 +6,6 @@
 <div align=center>
 
 <img src="https://github.com/WebXDAO/.github/assets/73097560/2f2f4777-292d-4eaf-9ecd-87d0fb8142a6" width="60px"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C03&center=true&vCenter=true&width=435&lines=;Backend+Support;Frontend+Developer;Java+Enthusiast;HTML+Knower;Open+Source+Contributor)](https://git.io/typing-svg) <img src="https://github.com/WebXDAO/.github/assets/73097560/2f2f4777-292d-4eaf-9ecd-87d0fb8142a6" width="60px">
-
-
-</div>
-
-
-<div align=center>
   
 # <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> Hello Every Github Soul, I'm [Anshuman Jadiya](https://anshumanjadiya1102.github.io) <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 <br>
@@ -102,6 +96,21 @@ My ultimate goal is to deliver open-source Java applications that are not only u
 but also playful, creative, and beautifully crafted 🚀.  
 
 ![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
+
+<kbd align="center" valign="center">
+            <a href="https://github.com/Charmve/computer-vision-in-action">
+                <img align="right" src="https://komarev.com/ghpvc/?username=anshumanjadiya1102&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
+            </a>
+            <u><i>*These columns are <code>automatically</code> updated by <a hrerf="https://github.com/features/actions">GitHub actions</a>.</i></u> &ensp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</kbd><br><br>
+<div align=left>
+  
+Dreaming up ideas and making them come true is where my passion lies. See my project list [here](https://github.com/anshumanjadiya1102?tab=repositories). 
+   <img src="https://github-readme-weather-widget.vercel.app" align="right">
+Thank You for supporting and showing love on GitHub.<br>
+You can view my Most Famous projects here.
+
+</div>
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> [My Projects](https://github.com/anshumanjadiya1102/anshumanjadiya1102.github.io)
 
@@ -337,4 +346,7 @@ but also playful, creative, and beautifully crafted 🚀.
 
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting%20My%20Profile!&fontSize=20&fontColor=fff&animation=twinkling"/>
 
+
    ###### anshumanjadiya1102___________________________________________________________________________________________________© 2025 Anshuman Jadiya – Crafted with ❤️
+
+</table>
