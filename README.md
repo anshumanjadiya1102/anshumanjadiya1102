@@ -78,12 +78,7 @@
 - 🎨Passion and Determination <br>
 </p>
 
-<div align="left">
 
-
-
-
-</div>
 
 ![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
 
@@ -94,6 +89,7 @@ I am focused on mastering <b>JavaFX</b>, improving my <b>GitHub workflows</b>, a
 My ultimate goal is to deliver open-source Java applications that are not only useful and professional
 but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><br>
 > To express my gratitude for your support and love, I have prepared a small gift for you. Click on the icon! <a href="https://anshumanjadiya1102.github.io/games" target="_blank"><img align="right" src="https://charmve.github.io/sponsor_files/playagame.png" alt="Play a Game with Me" width="180px"></a>
+
 
 ![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
 
@@ -221,10 +217,12 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
  
-![](https://github-readme-stats.vercel.app/api?username=anshumanjadiya1102&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/><br>
-![](https://nirzak-streak-stats.vercel.app/?user=anshumanjadiya1102&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=anshumanjadiya1102&theme=dracula&hide_border=false&include_all_commits=false&count_private=false) <img src="https://github.com/user-attachments/assets/2c2d673f-7911-40e1-9968-56d681152266" alt="Cozy pixel art room with trees outside" width="500" align="right"><br/><br>
+
+![](https://nirzak-streak-stats.vercel.app/?user=anshumanjadiya1102&theme=dracula&hide_border=false)<br>
 
    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anshumanjadiya1102&theme=dracula" alt="Profile Summary"/><br>
+ 
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshumanjadiya1102&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/><br>
 
