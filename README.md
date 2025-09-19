@@ -217,7 +217,7 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
  
-![](https://github-readme-stats.vercel.app/api?username=anshumanjadiya1102&theme=dracula&hide_border=false&include_all_commits=false&count_private=false) <img src="https://github.com/user-attachments/assets/2c2d673f-7911-40e1-9968-56d681152266" alt="Cozy pixel art room with trees outside" width="500" align="right"><br/><br>
+![](https://github-readme-stats.vercel.app/api?username=anshumanjadiya1102&theme=dracula&hide_border=false&include_all_commits=false&count_private=false) <img src="https://github.com/user-attachments/assets/2c2d673f-7911-40e1-9968-56d681152266" alt="Cozy pixel art room with trees outside" width="400" align="right"><br/><br>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=anshumanjadiya1102&theme=dracula&hide_border=false)<br>
 
