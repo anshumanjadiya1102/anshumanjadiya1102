@@ -225,8 +225,7 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
 ![](https://nirzak-streak-stats.vercel.app/?user=anshumanjadiya1102&theme=dracula&hide_border=false)<br/>
 
 
-
-![GitHub 3D Contribution Graph](https://raw.githubusercontent.com/anshumanjadiya1102/anshumanjadiya1102/main/profile-3d-contrib/profile-night-rainbow.svg)
+![3D Graph](https://raw.githubusercontent.com/anshumanjadiya1102/anshumanjadiya1102/main/profile-3d-contrib/profile-night-rainbow.svg)
 
    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anshumanjadiya1102&theme=dracula" alt="Profile Summary"/><br>
 
