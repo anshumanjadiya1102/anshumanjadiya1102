@@ -14,7 +14,7 @@
   
 </div>
 
-🎓 A curious student & passionate **Java enthusiast** who loves building creative apps.  
+🎓 A curious student & passionate **Java enthusiast** who loves building creative apps. <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'><br> 
 💡 I believe Java is the perfect language for beginners, and I want to **share its beauty** with the world.  
 🚀 Currently exploring new ideas, contributing to open source, and building my **Java Beauty Suite**. <br>
 ❓ Ask Me anything related to Java or GitHub tip [here](https://github.com/anshumanjadiya1102/anshumanjadiya1102/discussions/5)<br>
