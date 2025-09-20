@@ -217,7 +217,7 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
  
-![](https://github-readme-stats.vercel.app/api?username=anshumanjadiya1102&theme=dracula&hide_border=false&include_all_commits=false&count_private=false) <img width="450" height="290" alt="dark" src="https://github.com/user-attachments/assets/a09690ad-16da-49c0-8667-fd330b9eb42c" align="right"/><br/>
+![](https://github-readme-stats.vercel.app/api?username=anshumanjadiya1102&theme=dracula&hide_border=false&include_all_commits=false&count_private=false) <img width="400" height="260" alt="dark" src="https://github.com/user-attachments/assets/a09690ad-16da-49c0-8667-fd330b9eb42c" align="right"/><br/>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=anshumanjadiya1102&theme=dracula&hide_border=false)<br>
 
@@ -324,8 +324,9 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
 <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/104b06ff-717f-43b9-be3c-be404b5963e6" />
 </a>
 <a href="https://@anshuman-jadiya03.bsky.social">
-<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/84daf12a-46a3-4296-b95c-17967a35efd5" />
+<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/84daf12a-46a3-4296-b95c-17967a35efd5" /><br>
 </a>
+My progress can be tracked from [GitRoll](https://gitroll.io/profile/uxIDD2BhS6Odqerk4oAweVWhmxsC2)
 </div>
 
 ![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
