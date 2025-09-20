@@ -281,7 +281,7 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
     <td>
 <p align="center">
       Anshuman's GitRoll Contribution Graph <br>
-  <a href="https://gitroll.com/https://gitroll.io/profile/uxIDD2BhS6Odqerk4oAweVWhmxsC2" target="_blank">
+  <a href="https://gitroll.io/profile/uxIDD2BhS6Odqerk4oAweVWhmxsC2" target="_blank">
 <img width="643" height="600" alt="download (1)" src="https://github.com/user-attachments/assets/0f177160-573d-4452-9e4c-899c0a05e6b2" />
   </a>
 </p>
