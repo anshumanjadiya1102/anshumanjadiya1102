@@ -344,19 +344,26 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
 My progress can be tracked from [GitRoll](https://gitroll.io/profile/uxIDD2BhS6Odqerk4oAweVWhmxsC2)
 </div>
 
-<details>
-  <summary>Recommended Videos</summary>
+
+## <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/cee1ab80-c7bd-462f-acb4-bb8de20eea85" /> Recommended Videos
   <p>
-    <!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
-    <!-- BEGIN YOUTUBE-CARDS -->
+  
+   ![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
+   
+   <!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
+   <!-- BEGIN YOUTUBE-CARDS -->
     
 [![Tips and advice for Computer Science students](https://ytcards.demolab.com/?id=UItfbdI0oNc&title=Tips+and+advice+for+Computer+Science+students&lang=en&timestamp=1638183600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=380 "Tips and advice for Computer Science students")](https://youtu.be/UItfbdI0oNc?si=mjrsewEwBdhtvzDX)
 [![How I would learn to code (if I could start over)](https://ytcards.demolab.com/?id=kS03mP7p0ts&title=How+I+would+learn+to+code+(+if+I+could+start+over+)&lang=en&timestamp=1698663600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=695 "How I would learn to code (if I could start over)")](https://youtu.be/kS03mP7p0ts?si=7UXbigeHmyTVGP60)
 [![How to prep for CS?](https://ytcards.demolab.com/?id=YBMf2o2MVDg&title=How+to+prep+for+CS?+Do+I+need+Maths?&lang=en&timestamp=1690632000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=860 "How to prep for CS? Do I need Maths?")](https://youtu.be/YBMf2o2MVDg?si=KGaQIzz_8E6JFYlD)
+[![How to make GitHub Readme](https://ytcards.demolab.com/?id=KhGWbt1dAKQ&title=The+Math+Problem+that+Stumped+the+World&lang=en&timestamp=1690632000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1120 "The Math Problem that Stumped the World")](https://www.youtube.com/watch?v=KhGWbt1dAKQ&t=2s)
+[![Complete Git and GitHub Tutorial for Beginners](https://ytcards.demolab.com/?id=Ez8F0nW6S-w&title=Complete+Git+and+GitHub+Tutorial+for+Beginners&lang=en&timestamp=1690632000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3600 "Complete Git and GitHub Tutorial for Beginners")](https://www.youtube.com/watch?v=Ez8F0nW6S-w)
+<img src="https://github.com/user-attachments/assets/442dc74e-5de0-4cc5-9b10-589dd1237e09" alt="Anshuman Jadiya is good" width="100"><br>
+
 
 <!-- END YOUTUBE-CARDS -->
   </p>
-</details>
+
 
 
 ![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
