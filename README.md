@@ -209,12 +209,35 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
 
 </div>
 
-<a href="https://github.com/GSSoC24"><img width="1100" height="150" alt="Gssoc" src="https://github.com/user-attachments/assets/ec017353-cb0e-4ea0-b986-b3f61b51c2df" /></a>
-<a href="https://github.com/GCCvitb"><img src="https://github.com/user-attachments/assets/5ea245f9-9b0f-4f7f-b71e-a4baf38a81f7" alt="GitHub Collaborators Badge" width="120" /></a>
-<a href="https://github.com/fuchsia-agency"><img width="100" height="100" alt="fuchsia-agency-logo-jorge" src="https://github.com/user-attachments/assets/3429d80e-aecf-45e3-8145-f993094a22c1" /></a>
+
 <div align=center>
 <img src="https://trendshift.io/api/badge/developers/530" alt="Trendshift badge" style="max-width:100%; height:auto;" loading="lazy">
 </div>
+<table>
+  <tr>
+    <td>
+<img width="550" alt="Screenshot 2025-09-20 133813" src="https://github.com/user-attachments/assets/75aaa98a-7684-4fb3-a680-b1e82bec93b5" align="left">
+    </td>
+    <td>
+      <a href="https://github.com/GSSoC24">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
+<a href="https://github.com/GCCvitb"><img src="https://github.com/user-attachments/assets/5ea245f9-9b0f-4f7f-b71e-a4baf38a81f7" alt="GitHub Collaborators Badge" width="120" /></a>
+<a href="https://github.com/fuchsia-agency"><img width="100" height="100" alt="fuchsia-agency-logo-jorge" src="https://github.com/user-attachments/assets/3429d80e-aecf-45e3-8145-f993094a22c1" /></a>
+      
+</td>
+  </tr>
+</table>
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
