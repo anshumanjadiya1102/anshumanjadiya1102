@@ -9,6 +9,10 @@
   
 # <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> Hello Every Github Soul, I'm [Anshuman Jadiya](https://anshumanjadiya1102.github.io) <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /><br>
 
+
+Frontend and Web developer
+--------------------------
+
 </div>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 <br>
@@ -217,7 +221,7 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
  
-![](https://github-readme-stats.vercel.app/api?username=anshumanjadiya1102&theme=dracula&hide_border=false&include_all_commits=false&count_private=false) <img width="400" height="260" alt="dark" src="https://github.com/user-attachments/assets/a09690ad-16da-49c0-8667-fd330b9eb42c" align="right"/><br/>
+![](https://github-readme-stats.vercel.app/api?username=anshumanjadiya1102&theme=dracula&hide_border=false&include_all_commits=false&count_private=false) <img width="350" height="220" alt="dark" src="https://github.com/user-attachments/assets/a09690ad-16da-49c0-8667-fd330b9eb42c" align="right"/><br/>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=anshumanjadiya1102&theme=dracula&hide_border=false)<br>
 
