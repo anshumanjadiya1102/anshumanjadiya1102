@@ -275,13 +275,24 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
          </td>
        </tr>
 </table>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshumanjadiya1102&bg_color=0d1117&color=ffffff&line=f85c03&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
+<div align=center>
+<table>
+  <tr>
+    <td>
+<p align="center">
+      Anshuman's GitRoll Contribution Graph <br>
+  <a href="https://gitroll.com/https://gitroll.io/profile/uxIDD2BhS6Odqerk4oAweVWhmxsC2" target="_blank">
+<img width="643" height="600" alt="download (1)" src="https://github.com/user-attachments/assets/0f177160-573d-4452-9e4c-899c0a05e6b2" />
   </a>
+</p>
+    </td>
+  </tr>
+</table>
+</div>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
 ## 🌐 Connect & Support    
 
