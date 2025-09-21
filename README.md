@@ -229,7 +229,7 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
        <div align=center> <b> VS code</b> </div> 
       </td>
       <td>
-<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="50">
+<img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="50"/>
         <div align=center> <b> Vercel</b> </div>
       </td>
       <td>
