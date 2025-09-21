@@ -242,6 +242,8 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95af376418aa" width="50">
         <div align=center> <b> Ubuntu</b> </div>
       </td>
+      </tr>
+    <tr>
       <td>
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="50"> 
         <div align=center> <b> Jet Brains</b> </div>
@@ -250,8 +252,6 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
           <img width="50" alt="gitlab" src="https://github.com/user-attachments/assets/412140b6-9806-428c-bab4-25ab6b34897e" />
           <div align=center> <b> GitLab</b> </div>
         </td>
-    </tr>
-    <tr>
       <td>   
    <img src="https://github.com/user-attachments/assets/9c686f2a-2e65-4a36-a562-2c6ff9b0c2bd" width="50" />
    <div align=center> <b> Maven</b> </div>
