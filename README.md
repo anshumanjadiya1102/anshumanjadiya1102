@@ -238,6 +238,7 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
       </td>
       <td>
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3c16d4f2-b757-4c70-8f42-43d5dddd2c36" width="50">
+        <div align=center> <b> Firebase</b> </div>
     </td>
       <td>
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95af376418aa" width="50">
