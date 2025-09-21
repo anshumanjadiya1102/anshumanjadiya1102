@@ -452,7 +452,12 @@ My progress can be tracked from [GitRoll](https://gitroll.io/profile/uxIDD2BhS6O
 [![Complete Git and GitHub Tutorial for Beginners](https://ytcards.demolab.com/?id=Ez8F0nW6S-w&title=Complete+Git+and+GitHub+Tutorial+for+Beginners&lang=en&timestamp=1690632000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3600 "Complete Git and GitHub Tutorial for Beginners")](https://www.youtube.com/watch?v=Ez8F0nW6S-w)
 <img src="https://github.com/user-attachments/assets/442dc74e-5de0-4cc5-9b10-589dd1237e09" alt="Anshuman Jadiya is good" width="100"><br>
 
-
+<details>
+        <summary>Other Best Blogs of the week</summary>
+        <p><div align="center">
+       <a href="https://rawcdn.githack.com/Charmve/Charmve/4cebbd1b66e8a6fb3bc56def6417d7668799c3d9/src/scoll-board.svg"><img src="/src/scoll-board.svg"></a>
+</div></p>
+</details>
 <!-- END YOUTUBE-CARDS -->
   </p>
 
