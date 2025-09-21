@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Globe from TopoJSON</title>
+  <style>body { margin:0; }</style>
+</head>
+<body>
+  <div id="globeViz" style="width: 100vw; height: 100vh;"></div>
+
+  <!-- Three.js and Globe.gl -->
+  <script src="https://unpkg.com/three/build/three.min.js"></script>
+  <script src="https://unpkg.com/globe.gl"></script>
+
+  <script>
+    fetch('topo.json') // your TopoJSON file
+      .then(res => res.json())
+      .then(topoData => {
+        // Create globe
+        const globe = Globe()(document.getElementById('globeViz'))
+          .globeImageUrl('//unpkg.com/three-globe/example/img/earth-night.jpg') // optional texture
+          .topoJson(topoData, Object.keys(topoData.objects)[0]); // use first object in TopoJSON
+      });
+  </script>
+</body>
+</html>
