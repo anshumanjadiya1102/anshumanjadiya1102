@@ -251,13 +251,25 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
           <div align=center> <b> GitLab</b> </div>
         </td>
     </tr>
+    <tr>
+      <td>   
+   <img src="https://github.com/user-attachments/assets/9c686f2a-2e65-4a36-a562-2c6ff9b0c2bd" width="50" />
+   <div align=center> <b> Maven</b> </div>
+      </td>
+      <td>
+        <img width="50" alt="bitbucket" src="https://github.com/user-attachments/assets/7b63823d-7042-42cc-a6bb-e1ae0f3a19de" />
+        <div align=center> <b> Bitbucket</b> </div>
+      </td>
+      <td>
+        <img src="https://github.com/user-attachments/assets/aeabe377-9e2e-4ab7-9b50-cb88b845a344" width="50" />
+ <div align=center> <b> Jira</b> </div>
+      </td>
+      <td> 
+   <img src="https://github.com/user-attachments/assets/c50acf83-1332-4b9f-8789-af4b87490a08" width="50" />
+ <div align=center> <b> Powershell</b> </div>
+      </td>
+    </tr>
   </table>
-
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) 
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) 
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-
 </div><br>
 
 <div align=center>
