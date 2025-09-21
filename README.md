@@ -185,7 +185,6 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
     
   ### Languages and Developments
   </b>
-  <br>
   <table>
     <tr>
       <td>
@@ -217,7 +216,6 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
     </table><br>
     
    ### 🛠️<b> Software & Tools </b>
-   <br>
   <table>
       <tr>
       <td>
@@ -248,13 +246,15 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="50"> 
         <div align=center> <b> Jet Brains</b> </div>
       </td>
+        <td>
+          <img width="50" alt="gitlab" src="https://github.com/user-attachments/assets/412140b6-9806-428c-bab4-25ab6b34897e" />
+          <div align=center> <b> GitLab</b> </div>
+        </td>
     </tr>
   </table>
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) 
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
