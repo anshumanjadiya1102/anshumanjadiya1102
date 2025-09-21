@@ -456,6 +456,46 @@ My progress can be tracked from [GitRoll](https://gitroll.io/profile/uxIDD2BhS6O
         <summary>Other Best Blogs of the week</summary>
         <p><div align="center">
        <a href="https://github.com/anshumanjadiya1102"><img src="/src/scoll-board.svg"></a>
+
+### Globe-Map
+          
+   ```geojson
+{
+ "type": "FeatureCollection",
+ "features": [
+   {
+     "type": "Feature",
+     "id": 1,
+     "properties": {
+       "ID": 0
+     },
+     "geometry": {
+       "type": "Polygon",
+       "coordinates": [
+         [
+             [23.5,53.9],
+             [32.6,52.6]
+         ]
+       ]
+     }
+   }
+ ]
+}
+
+   ```
+### Anshuman's Stack
+
+```mermaid
+graph TD;
+    Anshuman-Jadiya-->Java;
+    Java-->JavaFX;
+    Anshuman-Jadiya-->Python;
+    Anshuman-Jadiya-->CSS;
+    Anshuman-Jadiya-->HTML;
+    Anshuman-Jadiya-->Future-Stack;
+    Future-Stack-->SQL;
+   ```
+
 </div></p>
 </details>
 <!-- END YOUTUBE-CARDS -->
