@@ -455,7 +455,7 @@ My progress can be tracked from [GitRoll](https://gitroll.io/profile/uxIDD2BhS6O
 <details>
         <summary>Other Best Blogs of the week</summary>
         <p><div align="center">
-       <a href="https://rawcdn.githack.com/Charmve/Charmve/4cebbd1b66e8a6fb3bc56def6417d7668799c3d9/src/scoll-board.svg"><img src="/src/scoll-board.svg"></a>
+       <a href="https://github.com/anshumanjadiya1102"><img src="/src/scoll-board.svg"></a>
 </div></p>
 </details>
 <!-- END YOUTUBE-CARDS -->
