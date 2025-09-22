@@ -274,7 +274,7 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
 
 <div align=center>
 
-###  🔰 GSSoC'24 and Other Badges 🔰
+###  🔰 GSSoC and Other Badges 🔰
 
 </div>
 
