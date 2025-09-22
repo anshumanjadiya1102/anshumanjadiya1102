@@ -456,7 +456,14 @@ My progress can be tracked from [GitRoll](https://gitroll.io/profile/uxIDD2BhS6O
         <summary>Other Best Blogs of the week</summary>
         <p><div align="center">
        <a href="https://github.com/anshumanjadiya1102"><img src="/src/scoll-board.svg"></a>
-        <a href="https://github.com/anshumanjadiya1102"><img src="/index.html"></a>   
+        <video src="https://github.com/user-attachments/assets/619816c5-9dac-4ec3-a63f-74bf03a07e95" 
+       controls 
+       autoplay 
+       loop 
+       muted 
+       playsinline 
+       width="600">
+</video> 
          
 
 
