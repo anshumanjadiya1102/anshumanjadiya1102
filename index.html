@@ -1,0 +1,267 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Bound Video Player</title>
+  <style>
+    /* Page layout */
+    :root{
+      --bg:#0f1724;
+      --card:#0b1220;
+      --accent:#6ee7b7;
+      --max-width:900px;
+    }
+    html,body{height:100%;}
+    body{
+      margin:0;
+      font-family:system-ui,-apple-system,Segoe UI,Roboto,"Helvetica Neue",Arial;
+      background:linear-gradient(180deg, #071022 0%, #071730 100%);
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      padding:24px;
+      color:#e6eef8;
+    }
+
+    /* Bounded container */
+    .video-card{
+      width:100%;
+      max-width:var(--max-width);
+      background:linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));
+      border-radius:12px;
+      box-shadow: 0 8px 30px rgba(2,6,23,0.7);
+      overflow:hidden;
+      border:1px solid rgba(255,255,255,0.03);
+    }
+
+    /* Responsive aspect ratio box (16:9) */
+    .video-wrap{
+      position:relative;
+      width:100%;
+      padding-top:56.25%; /* 16:9 aspect ratio; change to 75% for 4:3 etc. */
+      background:#000;
+    }
+
+    /* Actual video fills the box */
+    .video-wrap video,
+    .video-wrap .poster-overlay{
+      position:absolute;
+      top:0; left:0; right:0; bottom:0;
+      width:100%;
+      height:100%;
+      object-fit:cover;
+    }
+
+    /* Controls area under the video */
+    .meta{
+      padding:14px 16px;
+      display:flex;
+      align-items:center;
+      justify-content:space-between;
+      gap:12px;
+    }
+    .meta .title{
+      font-weight:600;
+      font-size:15px;
+      line-height:1;
+    }
+    .meta .actions{
+      display:flex;
+      gap:8px;
+      align-items:center;
+    }
+    .btn{
+      background:transparent;
+      border:1px solid rgba(255,255,255,0.06);
+      padding:8px 10px;
+      border-radius:8px;
+      cursor:pointer;
+      color:inherit;
+      font-size:13px;
+    }
+    .btn:hover{ transform:translateY(-2px); }
+
+    /* Large centered play button overlay (hidden when playing) */
+    .play-overlay{
+      position:absolute;
+      left:50%;
+      top:50%;
+      transform:translate(-50%,-50%);
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      pointer-events:none;
+      transition:opacity .2s ease;
+    }
+    .play-overlay button{
+      pointer-events:auto;
+      border:0;
+      background:rgba(2,6,23,0.6);
+      backdrop-filter: blur(4px);
+      color:var(--accent);
+      width:84px;
+      height:84px;
+      border-radius:50%;
+      display:grid;
+      place-items:center;
+      font-size:22px;
+      box-shadow: 0 8px 24px rgba(2,6,23,0.6);
+      cursor:pointer;
+    }
+
+    /* Muted badge */
+    .muted-badge{
+      position:absolute;
+      right:10px;
+      top:10px;
+      background:rgba(0,0,0,0.45);
+      padding:6px 8px;
+      font-size:12px;
+      border-radius:8px;
+      display:flex;
+      gap:6px;
+      align-items:center;
+    }
+
+    /* small help text */
+    .hint{
+      font-size:13px;
+      opacity:0.8;
+    }
+
+    /* make sure controls accessible on small screens */
+    @media (max-width:520px){
+      .meta{padding:10px;}
+      .btn{padding:7px 9px;font-size:12px;}
+      .play-overlay button{width:64px;height:64px;font-size:18px;}
+    }
+  </style>
+</head>
+<body>
+  <div class="video-card" role="region" aria-label="Bound video player">
+    <div class="video-wrap" id="videoWrap">
+
+      <!-- Replace the src below with your actual file URL or relative path -->
+      <!-- Example uses your provided URL as a placeholder -->
+      <video id="myVideo"
+             playsinline
+             webkit-playsinline
+             preload="metadata"
+             controls
+             muted
+             loop
+             poster=""
+             aria-label="Demo video">
+        <!-- If you have multiple formats, include them here -->
+        <source src="https://github.com/user-attachments/assets/619816c5-9dac-4ec3-a63f-74bf03a07e95" type="video/mp4">
+        <!-- fallback -->
+        Your browser does not support HTML5 video. <a href="https://github.com/user-attachments/assets/619816c5-9dac-4ec3-a63f-74bf03a07e95">Download the video</a>.
+      </video>
+
+      <!-- Muted indicator -->
+      <div class="muted-badge" id="mutedBadge">🔇 muted</div>
+
+      <!-- Play overlay (visible before playing) -->
+      <div class="play-overlay" id="overlay">
+        <button id="overlayBtn" aria-label="Play video">►</button>
+      </div>
+
+    </div>
+
+    <div class="meta">
+      <div>
+        <div class="title">My Bound Video</div>
+        <div class="hint">Bound in a responsive container — 16:9 aspect ratio</div>
+      </div>
+
+      <div class="actions">
+        <button class="btn" id="toggleMute">Toggle Mute</button>
+        <button class="btn" id="downloadBtn">Download</button>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const video = document.getElementById('myVideo');
+    const overlay = document.getElementById('overlay');
+    const overlayBtn = document.getElementById('overlayBtn');
+    const mutedBadge = document.getElementById('mutedBadge');
+    const toggleMuteBtn = document.getElementById('toggleMute');
+    const downloadBtn = document.getElementById('downloadBtn');
+
+    // Try to autoplay muted. Many browsers allow autoplay only when muted.
+    async function attemptAutoplay() {
+      try {
+        await video.play();
+        overlay.style.opacity = 0;
+        overlay.style.visibility = 'hidden';
+      } catch(e){
+        // Autoplay blocked — show overlay (user must click)
+        overlay.style.opacity = 1;
+        overlay.style.visibility = 'visible';
+      }
+    }
+
+    // On load try autoplay
+    window.addEventListener('load', () => {
+      attemptAutoplay();
+      updateMutedUI();
+    });
+
+    // Overlay button starts playback & unmutes if desired
+    overlayBtn.addEventListener('click', async () => {
+      try {
+        // explicit user interaction: browsers allow unmuted play on click
+        if (video.paused) {
+          await video.play();
+        }
+        // hide overlay
+        overlay.style.opacity = 0;
+        overlay.style.visibility = 'hidden';
+      } catch (err) {
+        console.warn('Play failed', err);
+      }
+    });
+
+    // Update overlay visibility when playback state changes
+    video.addEventListener('play', () => {
+      overlay.style.opacity = 0;
+      overlay.style.visibility = 'hidden';
+    });
+    video.addEventListener('pause', () => {
+      overlay.style.opacity = 1;
+      overlay.style.visibility = 'visible';
+    });
+
+    // Toggle mute button
+    toggleMuteBtn.addEventListener('click', () => {
+      video.muted = !video.muted;
+      updateMutedUI();
+      // after toggling, try playing so sound can take effect on some browsers
+      if (!video.paused) {
+        video.play().catch(()=>{/* ignore */});
+      }
+    });
+
+    function updateMutedUI(){
+      mutedBadge.textContent = video.muted ? '🔇 muted' : '🔊 sound';
+      toggleMuteBtn.textContent = video.muted ? 'Unmute' : 'Mute';
+    }
+
+    // Provide a download link that uses the current source
+    downloadBtn.addEventListener('click', () => {
+      const src = (video.querySelector('source') || video).src;
+      if (!src) { alert('No video source found.'); return; }
+      const a = document.createElement('a');
+      a.href = src;
+      a.download = '';
+      document.body.appendChild(a);
+      a.click();
+      a.remove();
+    });
+
+    // If you prefer to show a poster image, set video.poster = 'path/to/poster.jpg';
+  </script>
+</body>
+</html>
