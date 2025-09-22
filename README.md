@@ -301,8 +301,6 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
-<a href="https://github.com/GCCvitb"><img src="https://github.com/user-attachments/assets/5ea245f9-9b0f-4f7f-b71e-a4baf38a81f7" alt="GitHub Collaborators Badge" width="120" /></a>
-<a href="https://github.com/fuchsia-agency"><img width="100" height="100" alt="fuchsia-agency-logo-jorge" src="https://github.com/user-attachments/assets/3429d80e-aecf-45e3-8145-f993094a22c1" /></a>
       
 </td>
   </tr>
