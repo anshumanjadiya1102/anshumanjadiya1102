@@ -461,8 +461,10 @@ My progress can be tracked from [GitRoll](https://gitroll.io/profile/uxIDD2BhS6O
        muted 
        playsinline 
        width="600">
+          
+  
 </video> 
-         
+   <img src="https://github.com/anshumanjadiya1102/anshumanjadiya1102/profile-night-readme.svg">       
 
 
 ### Anshuman's Stack
