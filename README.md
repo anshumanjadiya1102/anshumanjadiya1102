@@ -484,8 +484,17 @@ graph TD;
 </details>
 <!-- END YOUTUBE-CARDS -->
   </p>
-
-
+  <div align="center">
+  
+### Profile Views
+<table>
+  <tr>
+    <td>
+<img src="https://count.getloli.com/@anshumanjadiya1102?name=anshumanjadiya1102&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=1" width="500">
+    </td>
+  </tr>
+</table>
+</div>
 
 ![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
 
