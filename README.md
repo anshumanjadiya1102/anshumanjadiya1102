@@ -401,7 +401,7 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
 <a href="https://gitlab.com/anshumanjadiya1102">
 <img width="40" height="40" alt="gitlab" src="https://github.com/user-attachments/assets/412140b6-9806-428c-bab4-25ab6b34897e" />
 </a>
-<a href="https://discord.gg/68mtBJqRgs">
+<a href="https://discord.gg/MYdZbvR5gC">
 <img width="40" height="40" alt="discord" src="https://github.com/user-attachments/assets/330d20c9-8752-4d16-a2f3-c1713bf99ce8" />
 </a>
 <a href="https://bitbucket.org/anshumanjadiya1102/workspace/overview/">
