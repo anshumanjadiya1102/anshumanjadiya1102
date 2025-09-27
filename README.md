@@ -5,7 +5,7 @@
 
 <div align=center>
 
-<img src="https://github.com/WebXDAO/.github/assets/73097560/2f2f4777-292d-4eaf-9ecd-87d0fb8142a6" width="60px">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C03&center=true&vCenter=true&width=435&lines=;Backend+Support;Frontend+Developer;Java+Enthusiast;HTML+Knower;Open+Source+Contributor)](https://git.io/typing-svg)<img src="https://github.com/WebXDAO/.github/assets/73097560/2f2f4777-292d-4eaf-9ecd-87d0fb8142a6" width="60px">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C03&center=true&vCenter=true&width=435&lines=;Backend+Support;Frontend+Developer;Java+Enthusiast;HTML+Knower;Open+Source+Contributor)](https://git.io/typing-svg)
   
 # <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> Hello Every Github Soul, I'm [Anshuman Jadiya](https://anshumanjadiya1102.github.io) <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /><br>
 
