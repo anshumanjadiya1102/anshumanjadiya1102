@@ -175,12 +175,6 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
 
 ![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
 
-## I'm the founder of [Drive-for-Java](https://github.com/Drive-for-Java) Community.<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100" align="right">
-
-<img src="https://github.com/Drive-for-Java.png" align="left" width="230"> You are free to join Drive-for-Java Community, where we promote Java and tell people about improtance of Java.<br>
-So, Go ahead and Join Drive-for-Java.
-
-![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
 ##  <img src="https://media.tenor.com/q4L3wKD-P7YAAAAj/hydra-we-bhack.gif" height="30" style="margin-right: 10px; vertical-align: middle;"/>  My Tech Arsenal 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -312,6 +306,9 @@ So, Go ahead and Join Drive-for-Java.
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
+      <a href="https://github.com/dev-protocol">
+  <img width="100" alt="DEV Token symbol" src="https://user-images.githubusercontent.com/33956553/153374609-dd459e7e-d7cd-4574-be0f-bf61b00bc47b.png">
+      </a>
       
 </td>
   </tr>
