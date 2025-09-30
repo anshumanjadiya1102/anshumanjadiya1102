@@ -276,7 +276,7 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
 
 <div align=center>
 
-###  🔰 GSSoC and Other Badges 🔰
+###  🔰 GSSoC and Leetcode Badges 🔰
 
 </div>
 
@@ -315,6 +315,7 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
 </td>
   </tr>
 </table>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=anshumanjadiya1102&theme=shades-of-purple" alt="LeetCode Badges" />
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
