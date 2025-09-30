@@ -315,8 +315,12 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
 </td>
   </tr>
 </table>
+<div align="center">
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=anshumanjadiya1102&theme=shades-of-purple" alt="LeetCode Badges" />
 
+  [![LeetCode Stats](https://leetcard.jacoblin.cool/anshumanjadiya1102?ext=heatmap&theme=dark)](https://leetcode.com/anshumanjadiya1102/)
+
+</div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
