@@ -316,7 +316,7 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
   </tr>
 </table>
 <div align="center">
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=anshumanjadiya1102&theme=shades-of-purple" alt="LeetCode Badges" />
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=anshumanjadiya1102&theme=shades-of-purple" alt="LeetCode Badges" /><img src="https://leetcode-badge-showcase.vercel.app/api?username=kevzpeter&theme=beach&filter=comp&animated=true&border=no-border" alt="LeetCode Badges">
 
   [![LeetCode Stats](https://leetcard.jacoblin.cool/anshumanjadiya1102?ext=heatmap&theme=dark)](https://leetcode.com/anshumanjadiya1102/)
 
