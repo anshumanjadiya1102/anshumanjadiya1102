@@ -343,6 +343,7 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
     src="https://github-profile-trophy.vercel.app/?username=anshumanjadiya1102&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20&theme=dracula" 
   />
 </a>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=anshumanjadiya1102&theme=dracula" alt="My GitHub Time Stats" />
 
 
    <img src="https://github-contributor-stats.vercel.app/api?username=anshumanjadiya1102&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
