@@ -1,32 +1,18 @@
-name: ♟️ Chess Games & Stats Action
+name: Chess Games & Stats Action
 
-# Run daily and also allow manual trigger
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs every day at 00:00 UTC
-  workflow_dispatch:     # Allows manual trigger from Actions tab
+    - cron: '0 0 * * *' # Runs at 00:00 UTC every day
+  workflow_dispatch:
 
 jobs:
   update-readme:
-    name: Update README with Chess.com stats
+    name: Update readme with your chess stats and games
     runs-on: ubuntu-latest
     permissions:
       contents: write
-
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Update Chess Stats
-        uses: Balastrong/chess-stats-action@main
+      - uses: actions/checkout@v3
+      - uses: Balastrong/chess-stats-action@main
         with:
-          CHESS_USERNAME: anshuman-jadiya-03
-          COMMIT_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
-          COMMIT_MSG: "♟️ Updated README with latest Chess.com games and ratings"
-          COMMIT_USERNAME: chess-stats-bot
-          GAMES_SIZE: 10             # Number of recent games to show
-          SHOW_DATE: true            # Show the game date
-          SHOW_FEN: true             # Show the board position
-          FILE_NAME: README.md       # File to update
-          SHOW_STATS: true           # Show rating stats
-          SHOW_TIME_CLASS: true      # Show Rapid/Blitz/Bullet
+          CHESS_USERNAME: Anshuman-Jadiya-03
