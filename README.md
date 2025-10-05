@@ -182,6 +182,25 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <div align=center>
 
+### ♟️ My Latest Chess.com Games & Stats
+
+Keep track of my latest **Chess.com** performance — updated automatically every day ⏰
+
+| Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
+|------|-----------|----------|-----------|
+| **Current** | 🕐 Updating... | 🕐 Updating... | 🕐 Updating... |
+| **Best** | 🏆 Updating... | 🏆 Updating... | 🏆 Updating... |
+
+| White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ |
+|----------|----------|-----------|---------|--------------|
+| Loading latest games... | ♟️ | Please wait... | — | — |
+
+<!--START_SECTION:chessStats-->
+<!--END_SECTION:chessStats-->
+
+> 💡 *This section auto-updates daily with my latest Chess.com games and ratings via [Chess Stats Action](https://github.com/marketplace/actions/chess-stats-action).*
+
+
   
   <b>
     
