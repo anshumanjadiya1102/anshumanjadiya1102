@@ -186,16 +186,8 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
 
 Keep track of my latest **Chess.com** performance — updated automatically every day ⏰
 
-| Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
-|------|-----------|----------|-----------|
-| **Current** | 🕐 Updating... | 🕐 Updating... | 🕐 Updating... |
-| **Best** | 🏆 Updating... | 🏆 Updating... | 🏆 Updating... |
-
-| White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ |
-|----------|----------|-----------|---------|--------------|
-| Loading latest games... | ♟️ | Please wait... | — | — |
-
 <!--START_SECTION:chessStats-->
+
 <!--END_SECTION:chessStats-->
 
 > 💡 *This section auto-updates daily with my latest Chess.com games and ratings via [Chess Stats Action](https://github.com/marketplace/actions/chess-stats-action).*
