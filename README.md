@@ -351,6 +351,7 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)<br>
 <img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Jokes Card" align="center" width="300" height="180"/>
+<a href="https://app.daily.dev/anshumanjadiya1102"><img src="https://api.daily.dev/devcards/v2/TRwMfnAydvjy1tlPUIo4q.png?r=rkw&type=default" width="356" alt="Anshuman Jadiya's Dev Card"/></a>
    
    ### Top Repos
 
