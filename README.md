@@ -270,6 +270,12 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
  <div align=center> <b> Powershell</b> </div>
       </td>
     </tr>
+<tr>
+  <td>
+   <img src="https://github.com/user-attachments/assets/d650759c-9bda-40ed-902a-eac09e113e5a" width="70">
+     <div align=center> <b> Postman</b> </div>
+  </td>
+</tr>
   </table>
 </div><br>
 
