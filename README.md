@@ -224,7 +224,7 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
    <div align=center>
   
      
-  ## <a href="https://github.com/GSSoC24">  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="50px" /> <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="50px" height="50px" /><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="50px" height="50px" /><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="50px" height="50px" /> My Badge Arsenal  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="50px" height="50px" /><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="50px" height="50px" /><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="55px" height="55px" /><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="50px" height="50px" />
+  # <a href="https://github.com/GSSoC24">  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="50px" /> <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="50px" height="50px" /><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="50px" height="50px" /><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="50px" height="50px" /> My Badge Arsenal  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="50px" height="50px" /><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="50px" height="50px" /><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="55px" height="55px" /><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="50px" height="50px" />
   </a>
   <div align=center>
 <img src="https://trendshift.io/api/badge/developers/530" alt="Trendshift badge" style="max-width:100%; height:auto;" loading="lazy"><br>
@@ -386,10 +386,9 @@ Total Score: 4065 <br>
 </table>
 
 <div align="center">
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=anshumanjadiya1102&theme=beach&filter=comp&animated=true&border=no-border" alt="LeetCode Badges"><a href="https://app.daily.dev/anshumanjadiya1102"><img src="https://api.daily.dev/devcards/v2/TRwMfnAydvjy1tlPUIo4q.png?r=rkw&type=default" width="356" alt="Anshuman Jadiya's Dev Card" align="right"/></a>
-
-  [![LeetCode Stats](https://leetcard.jacoblin.cool/anshumanjadiya1102?ext=heatmap&theme=dark)](https://leetcode.com/anshumanjadiya1102/)
-
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=anshumanjadiya1102&theme=beach&filter=comp&animated=true&border=no-border" alt="LeetCode Badges">
+  
+[![LeetCode Stats](https://leetcard.jacoblin.cool/anshumanjadiya1102?ext=heatmap&theme=dracula)](https://leetcode.com/anshumanjadiya1102)<img src="https://api.daily.dev/devcards/v2/TRwMfnAydvjy1tlPUIo4q.png?r=rkw&type=default" width="356" alt="Anshuman Jadiya's Dev Card" align="right"/></a>
 </div>
 
 [![An image of @anshumanjadiya1102's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anshumanjadiya1102)](https://holopin.io/@anshumanjadiya1102)
