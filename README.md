@@ -386,8 +386,13 @@ Total Score: 4065 <br>
 </table>
 
 <div align="center">
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=anshumanjadiya1102&theme=beach&filter=comp&animated=true&border=no-border" alt="LeetCode Badges">
-<a href="https://app.daily.dev/anshumanjadiya1102"><img src="https://api.daily.dev/devcards/v2/TRwMfnAydvjy1tlPUIo4q.png?type=wide&r=yle" width="652" alt="Anshuman Jadiya's Dev Card"/></a>
+  <a href="https://leetcode.com/anshumanjadiya1102/">
+    
+ ![LeetCode Stats](https://leetcard.jacoblin.cool/anshumanjadiya1102?theme=transparent&font=Boogaloo&ext=activity)
+</a>
+<a href="https://app.daily.dev/anshumanjadiya1102">
+<img src="https://api.daily.dev/devcards/v2/TRwMfnAydvjy1tlPUIo4q.png?type=wide&r=yle" width="652" alt="Anshuman Jadiya's Dev Card"/>
+</a>
 </div>
 
 [![An image of @anshumanjadiya1102's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anshumanjadiya1102)](https://holopin.io/@anshumanjadiya1102)
