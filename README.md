@@ -212,7 +212,7 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
   />
 </a>
 </div>
-   <img src="https://github-contributor-stats.vercel.app/api?username=anshumanjadiya1102&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" align="left"/>  <img width="350" height="220" alt="dark" src="https://github.com/user-attachments/assets/a09690ad-16da-49c0-8667-fd330b9eb42c" align="right"/>
+   <img src="https://github-contributor-stats.vercel.app/api?username=anshumanjadiya1102&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" align="left"/><br><br>
 
  ![My GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anshumanjadiya1102&theme=dracula&custom_title=Anshuman%20Jadiya's%20Contribution%20Graph)
   
@@ -387,8 +387,7 @@ Total Score: 4065 <br>
 
 <div align="center">
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=anshumanjadiya1102&theme=beach&filter=comp&animated=true&border=no-border" alt="LeetCode Badges">
-  
-[![LeetCode Stats](https://leetcard.jacoblin.cool/anshumanjadiya1102?ext=heatmap&theme=dracula)](https://leetcode.com/anshumanjadiya1102)<img src="https://api.daily.dev/devcards/v2/TRwMfnAydvjy1tlPUIo4q.png?r=rkw&type=default" width="356" alt="Anshuman Jadiya's Dev Card" align="right"/></a>
+<a href="https://app.daily.dev/anshumanjadiya1102"><img src="https://api.daily.dev/devcards/v2/TRwMfnAydvjy1tlPUIo4q.png?type=wide&r=yle" width="652" alt="Anshuman Jadiya's Dev Card"/></a>
 </div>
 
 [![An image of @anshumanjadiya1102's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anshumanjadiya1102)](https://holopin.io/@anshumanjadiya1102)
