@@ -222,8 +222,13 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
    <div align=center>
+  
      
-  ### My Badge Arsenal 
+  ## <a href="https://github.com/GSSoC24">  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="50px" /> <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="50px" height="50px" /><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="50px" height="50px" /><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="50px" height="50px" /> My Badge Arsenal  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="50px" height="50px" /><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="50px" height="50px" /><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="55px" height="55px" /><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="50px" height="50px" />
+  </a>
+  <div align=center>
+<img src="https://trendshift.io/api/badge/developers/530" alt="Trendshift badge" style="max-width:100%; height:auto;" loading="lazy"><br>
+  </div>
   </b>
   <table>
     <tr>
@@ -326,8 +331,7 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
 
 
 <div align=center>
-<img src="https://trendshift.io/api/badge/developers/530" alt="Trendshift badge" style="max-width:100%; height:auto;" loading="lazy"><br>
-  
+ 
   [![Codewars](https://www.codewars.com/users/anshumanjadiya1102/badges/large)](https://www.codewars.com/users/anshumanjadiya1102)
   <a target="_blank" href="https://openhub.net/accounts/anshumanjadiya1102?ref=sample"><img alt='Open Hub profile for anshumanjadiya1102' border='0' height='35' src='https://openhub.net/accounts/anshumanjadiya1102/widgets/account_detailed?format=gif&amp;ref=sample' width='230'>
 </a><br>
