@@ -230,6 +230,70 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
 <img src="https://trendshift.io/api/badge/developers/530" alt="Trendshift badge" style="max-width:100%; height:auto;" loading="lazy"><br>
   </div>
   </b>
+
+</div><br>
+<div align=center>
+ 
+  [![Codewars](https://www.codewars.com/users/anshumanjadiya1102/badges/large)](https://www.codewars.com/users/anshumanjadiya1102)
+  <a target="_blank" href="https://openhub.net/accounts/anshumanjadiya1102?ref=sample"><img alt='Open Hub profile for anshumanjadiya1102' border='0' height='35' src='https://openhub.net/accounts/anshumanjadiya1102/widgets/account_detailed?format=gif&amp;ref=sample' width='230'>
+</a><br>
+<div align=center>
+
+###  🔰 GSSoC Badges 🔰
+
+</div>
+
+<table>
+<tr>
+<td width="25%">
+  <div align="center">
+  <table>
+    <tr>
+      <td>
+<img width="150" alt="gssoc (1)" src="https://github.com/user-attachments/assets/e88651a7-8022-4935-8c58-978dbba14aba" /><br>
+      </td>
+    </tr>
+  </table>
+<a href="https://github.com/GSSoC24"> GirlScript Summer of Code </a><br>
+🏅 Ranked 6th <br>
+Out of 17,000+ participants <br>
+Total Badges: 9 <br>
+Total Score: 4065 <br>
+</td>
+  </div>
+<td>
+ <a href="https://github.com/GSSoC24">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
+      <a href="https://github.com/dev-protocol">
+  <img width="100" alt="DEV Token symbol" src="https://user-images.githubusercontent.com/33956553/153374609-dd459e7e-d7cd-4574-be0f-bf61b00bc47b.png">
+      </a>
+</td>
+</tr>
+</table>
+</div>
+<div align=center>
+
+###  🔰 Tech Stack 🔰
+
+</div>
+
+<table>
+  <tr>
+    <td>
+<img width="550" alt="Screenshot 2025-09-20 133813" src="https://github.com/user-attachments/assets/75aaa98a-7684-4fb3-a680-b1e82bec93b5" align="left">
+    </td>
+    <td>
   <table>
     <tr>
       <td>
@@ -258,10 +322,6 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
       <div align=center> <b> CSS</b> </div>
     </td>
     </tr>
-    </table><br>
-    
-   ### 🛠️<b> Software & Tools </b>
-  <table>
       <tr>
       <td>
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="50">
@@ -320,81 +380,19 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
      <div align=center> <b> Postman</b> </div>
   </td>
 </tr>
-  </table>
-</div><br>
-
-<div align=center>
-
-###  🔰 GSSoC and Leetcode Badges 🔰
-
-</div>
-
-
-<div align=center>
- 
-  [![Codewars](https://www.codewars.com/users/anshumanjadiya1102/badges/large)](https://www.codewars.com/users/anshumanjadiya1102)
-  <a target="_blank" href="https://openhub.net/accounts/anshumanjadiya1102?ref=sample"><img alt='Open Hub profile for anshumanjadiya1102' border='0' height='35' src='https://openhub.net/accounts/anshumanjadiya1102/widgets/account_detailed?format=gif&amp;ref=sample' width='230'>
-</a><br>
-
-</div>
-<table>
-  <tr>
-    <td>
-<img width="550" alt="Screenshot 2025-09-20 133813" src="https://github.com/user-attachments/assets/75aaa98a-7684-4fb3-a680-b1e82bec93b5" align="left">
-    </td>
-    <td>
-
-      
+  </table>    
 </td>
   </tr>
 </table>
 
-<table>
-<tr>
-<td width="25%">
-  <div align="center">
-  <table>
-    <tr>
-      <td>
-<img width="150" alt="gssoc (1)" src="https://github.com/user-attachments/assets/e88651a7-8022-4935-8c58-978dbba14aba" /><br>
-      </td>
-    </tr>
-  </table>
-<a href="https://github.com/GSSoC24"> GirlScript Summer of Code </a><br>
-🏅 Ranked 6th <br>
-Out of 17,000+ participants <br>
-Total Badges: 9 <br>
-Total Score: 4065 <br>
-</td>
-  </div>
-<td>
- <a href="https://github.com/GSSoC24">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" />
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
-      <a href="https://github.com/dev-protocol">
-  <img width="100" alt="DEV Token symbol" src="https://user-images.githubusercontent.com/33956553/153374609-dd459e7e-d7cd-4574-be0f-bf61b00bc47b.png">
-      </a>
-</td>
-</tr>
-</table>
-
-[![An image of @anshumanjadiya1102's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anshumanjadiya1102)](https://holopin.io/@anshumanjadiya1102)
 <div align="center">
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=anshumanjadiya1102&theme=beach&filter=comp&animated=true&border=no-border" alt="LeetCode Badges">
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=anshumanjadiya1102&theme=beach&filter=comp&animated=true&border=no-border" alt="LeetCode Badges"><a href="https://app.daily.dev/anshumanjadiya1102"><img src="https://api.daily.dev/devcards/v2/TRwMfnAydvjy1tlPUIo4q.png?r=rkw&type=default" width="356" alt="Anshuman Jadiya's Dev Card" align="right"/></a>
 
   [![LeetCode Stats](https://leetcard.jacoblin.cool/anshumanjadiya1102?ext=heatmap&theme=dark)](https://leetcode.com/anshumanjadiya1102/)
 
 </div>
+
+[![An image of @anshumanjadiya1102's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anshumanjadiya1102)](https://holopin.io/@anshumanjadiya1102)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -404,7 +402,6 @@ Total Score: 4065 <br>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)<br>
 <img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Jokes Card" align="center" width="300" height="180"/>
-<a href="https://app.daily.dev/anshumanjadiya1102"><img src="https://api.daily.dev/devcards/v2/TRwMfnAydvjy1tlPUIo4q.png?r=rkw&type=default" width="356" alt="Anshuman Jadiya's Dev Card"/></a>
    
    ### Top Repos
 
