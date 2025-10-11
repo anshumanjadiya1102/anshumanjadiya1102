@@ -178,13 +178,52 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
 ![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
 
 ##  <img src="https://media.tenor.com/q4L3wKD-P7YAAAAj/hydra-we-bhack.gif" height="30" style="margin-right: 10px; vertical-align: middle;"/>  My Tech Arsenal 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-<div align=center>
- 
+
+ <div align="center">
+
+<table>
+<tr>
+<td>
+
+![](https://github-readme-stats.vercel.app/api?username=anshumanjadiya1102&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)
+</td>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshumanjadiya1102&layout=compact&theme=dracula&hide_border=true&card_width=400" alt="Most Used Languages" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=anshumanjadiya1102&theme=radical&hide_border=true&border_radius=10)
+
+
+
+ <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anshumanjadiya1102&theme=dracula" alt="Profile Summary"/><br>
+
+<a href="https://github.com/anshumanjadiya1102">
+  <img 
+    alt="GitHub Trophies" 
+    src="https://github-profile-trophy.vercel.app/?username=anshumanjadiya1102&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20&theme=dracula" 
+  />
+</a>
+</div>
+   <img src="https://github-contributor-stats.vercel.app/api?username=anshumanjadiya1102&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" align="left"/>  <img width="350" height="220" alt="dark" src="https://github.com/user-attachments/assets/a09690ad-16da-49c0-8667-fd330b9eb42c" align="right"/>
+
+ ![My GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anshumanjadiya1102&theme=dracula&custom_title=Anshuman%20Jadiya's%20Contribution%20Graph)
+  
+
   <b>
-    
-  ### Languages and Developments
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+   <div align=center>
+     
+  ### My Badge Arsenal 
   </b>
   <table>
     <tr>
@@ -300,8 +339,33 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
 <img width="550" alt="Screenshot 2025-09-20 133813" src="https://github.com/user-attachments/assets/75aaa98a-7684-4fb3-a680-b1e82bec93b5" align="left">
     </td>
     <td>
-      <a href="https://github.com/GSSoC24">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+
+      
+</td>
+  </tr>
+</table>
+
+<table>
+<tr>
+<td width="25%">
+  <div align="center">
+  <table>
+    <tr>
+      <td>
+<img width="150" alt="gssoc (1)" src="https://github.com/user-attachments/assets/e88651a7-8022-4935-8c58-978dbba14aba" /><br>
+      </td>
+    </tr>
+  </table>
+<a href="https://github.com/GSSoC24"> GirlScript Summer of Code </a><br>
+🏅 Ranked 6th <br>
+Out of 17,000+ participants <br>
+Total Badges: 9 <br>
+Total Score: 4065 <br>
+</td>
+  </div>
+<td>
+ <a href="https://github.com/GSSoC24">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" />
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
@@ -316,9 +380,8 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
       <a href="https://github.com/dev-protocol">
   <img width="100" alt="DEV Token symbol" src="https://user-images.githubusercontent.com/33956553/153374609-dd459e7e-d7cd-4574-be0f-bf61b00bc47b.png">
       </a>
-      
 </td>
-  </tr>
+</tr>
 </table>
 
 [![An image of @anshumanjadiya1102's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anshumanjadiya1102)](https://holopin.io/@anshumanjadiya1102)
@@ -332,26 +395,6 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
- 
-![](https://github-readme-stats.vercel.app/api?username=anshumanjadiya1102&theme=dracula&hide_border=false&include_all_commits=false&count_private=false) <img width="350" height="220" alt="dark" src="https://github.com/user-attachments/assets/a09690ad-16da-49c0-8667-fd330b9eb42c" align="right"/><br/>
-
-![](https://nirzak-streak-stats.vercel.app/?user=anshumanjadiya1102&theme=dracula&hide_border=false)<br>
-
-   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anshumanjadiya1102&theme=dracula" alt="Profile Summary"/><br>
- 
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshumanjadiya1102&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/><br>
-
-   <img src="https://nirzak-streak-stats.vercel.app/?user=anshumanjadiya1102&theme=dark&hide_border=false" alt="Streak Stats"/><br>
-
-<a href="https://github.com/anshumanjadiya1102">
-  <img 
-    alt="GitHub Trophies" 
-    src="https://github-profile-trophy.vercel.app/?username=anshumanjadiya1102&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20&theme=dracula" 
-  />
-</a>
-
-   <img src="https://github-contributor-stats.vercel.app/api?username=anshumanjadiya1102&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
 
    ### ✍️ Random Dev Quote 
 
