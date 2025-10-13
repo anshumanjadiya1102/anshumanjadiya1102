@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <style>
+    <![CDATA[
+      .bg {
+        fill: url(#bgGrad);
+      }
+      .border {
+        stroke-width: 6;
+        stroke: url(#rainbow);
+        fill: none;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        animation: rainbowShift 8s linear infinite;
+      }
+      @keyframes rainbowShift {
+        0% { stroke-dashoffset: 0; }
+        100% { stroke-dashoffset: 400; }
+      }
+      .card {
+        opacity: 0;
+        transition: opacity 1s ease-in-out;
+      }
+      .card.active {
+        opacity: 1;
+      }
+      text {
+        fill: #fff;
+        font-family: "Segoe UI", sans-serif;
+        text-anchor: middle;
+      }
+      .title { font-size: 20px; font-weight: bold; }
+      .desc { font-size: 14px; fill: #ddd; }
+      .btn {
+        fill: rgba(255,255,255,0.2);
+        stroke: rgba(255,255,255,0.4);
+        stroke-width: 1;
+        rx: 6; ry: 6;
+      }
+      .btnText { font-size: 12px; }
+    ]]>
+  </style>
+
+
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#001219"/>
+    </linearGradient>
+    <linearGradient id="rainbow" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="500" y2="0">
+      <stop stop-color="red" offset="0%"/>
+      <stop stop-color="orange" offset="16%"/>
+      <stop stop-color="yellow" offset="33%"/>
+      <stop stop-color="green" offset="50%"/>
+      <stop stop-color="blue" offset="66%"/>
+      <stop stop-color="indigo" offset="83%"/>
+      <stop stop-color="violet" offset="100%"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="100%" height="100%" class="bg"/>
+  <rect x="10" y="10" width="480" height="480" rx="20" class="border"/>
+
+ 
+  <g id="cards" transform="translate(0,40)">
+
+    <g class="card active" id="card0">
+      <image x="190" y="60" width="120" height="120" href="<!-- BASE64_IMAGE_HERE -->"/>
+      <text x="250" y="210" class="title">GitHub</text>
+      <text x="250" y="235" class="desc">Check out my projects and repositories.</text>
+      <a xlink:href="https://github.com/anshumanjadiya1102" target="_blank">
+        <rect x="175" y="260" width="150" height="30" class="btn"/>
+        <text x="250" y="280" class="btnText">Visit GitHub</text>
+      </a>
+    </g>
+
+ 
+    <g class="card" id="card1">
+      <image x="190" y="60" width="120" height="120" href="<!-- BASE64_IMAGE_HERE -->"/>
+      <text x="250" y="210" class="title">Email Me</text>
+      <text x="250" y="235" class="desc">Let’s connect via email.</text>
+      <a xlink:href="mailto:anshuman.jadiya03@gmail.com">
+        <rect x="175" y="260" width="150" height="30" class="btn"/>
+        <text x="250" y="280" class="btnText">Send Mail</text>
+      </a>
+    </g>
+
+    <!-- I will give codes for GitLab, Discord, Bitbucket, Reddit, Dev.to, X, Forem, Hashnode, StackOverflow, LinkedIn, Bluesky -->
+  </g>
+
+
+  <script type="application/ecmascript"><![CDATA[
+    (function() {
+      var idx=0, cards=document.querySelectorAll('.card');
+      function show(i){
+        cards.forEach(c=>c.classList.remove('active'));
+        cards[i].classList.add('active');
+      }
+      setInterval(function(){
+        idx=(idx+1)%cards.length;
+        show(idx);
+      },3000);
+    })();
+  ]]></script>
+</svg>
