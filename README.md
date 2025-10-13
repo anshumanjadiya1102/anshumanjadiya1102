@@ -179,40 +179,20 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
 
 ##  <img src="https://media.tenor.com/q4L3wKD-P7YAAAAj/hydra-we-bhack.gif" height="30" style="margin-right: 10px; vertical-align: middle;"/>  My Tech Arsenal 
 
- <div align="center">
-
-<table>
-<tr>
-<td>
-
-![](https://github-readme-stats.vercel.app/api?username=anshumanjadiya1102&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)
-</td>
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshumanjadiya1102&layout=compact&theme=dracula&hide_border=true&card_width=400" alt="Most Used Languages" />
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=anshumanjadiya1102&theme=radical&hide_border=true&border_radius=10)
-
-
-
- <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anshumanjadiya1102&theme=dracula" alt="Profile Summary"/><br>
-
 <a href="https://github.com/anshumanjadiya1102">
-  <img 
-    alt="GitHub Trophies" 
-    src="https://github-profile-trophy.vercel.app/?username=anshumanjadiya1102&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20&theme=dracula" 
-  />
-</a>
-</div>
-   <img src="https://github-contributor-stats.vercel.app/api?username=anshumanjadiya1102&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" align="left"/><br><br>
+  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=anshumanjadiya1102&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20&theme=dracula"/>
+</a><br>
+   
+   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshumanjadiya1102&show_icons=true&count_private=true&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=anshumanjadiya1102&theme=radical&hide_border=true)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anshumanjadiya1102&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anshumanjadiya1102&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anshumanjadiya1102&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anshumanjadiya1102&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anshumanjadiya1102&theme=radical&utcOffset=5.3)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshumanjadiya1102&layout=compact&theme=radical&hide_border=true&card_width=400" alt="Most Used Languages" />
+<br><br>
 
  ![My GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anshumanjadiya1102&theme=dracula&custom_title=Anshuman%20Jadiya's%20Contribution%20Graph)
   
@@ -408,6 +388,11 @@ Total Score: 4065 <br>
    
    ### Top Repos
 
+<div align=center>
+  
+   <img src="https://github-contributor-stats.vercel.app/api?username=anshumanjadiya1102&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" align="left"/>
+  
+</div>
    <table>
      <tr>
        <td>
@@ -448,10 +433,6 @@ Total Score: 4065 <br>
   </tr>
 </table>
 </div>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
 
 ## 🌐 Connect & Support    
 
@@ -571,12 +552,6 @@ graph TD;
   
   ![mona-whisper](https://github.com/user-attachments/assets/79cb265a-94a9-4455-9ea8-56ea5fe249ed)<a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=40&pause=1000&color=F75C03&center=true&vCenter=true&width=700&height=60&lines=Don't+Forget+to+Follow!" alt="Follow Anshuman Jadiya" /></a>
 </div>
-██████╗░███████╗██╗░░░██╗ <br>
-██╔══██╗██╔════╝██║░░░██║ <br>
-██║░░██║█████╗░░╚██╗░██╔╝ <br>
-██║░░██║██╔══╝░░░╚████╔╝░ <br>
-██████╔╝███████╗░░╚██╔╝░░ <br>
-╚═════╝░╚══════╝░░░╚═╝░
 
 ![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
 
