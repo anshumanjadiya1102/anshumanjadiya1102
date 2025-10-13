@@ -192,10 +192,12 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anshumanjadiya1102&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anshumanjadiya1102&theme=radical&utcOffset=5.3)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshumanjadiya1102&layout=compact&theme=radical&hide_border=true&card_width=400" alt="Most Used Languages" />
+<img src="https://github-contributor-stats.vercel.app/api?username=anshumanjadiya1102&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" align="left"/>
 <br><br>
 
- ![My GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anshumanjadiya1102&theme=dracula&custom_title=Anshuman%20Jadiya's%20Contribution%20Graph)
-  
+ ![My GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anshumanjadiya1102&theme=dracula&custom_title=Anshuman%20Jadiya's%20Contribution%20Graph)  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)<br>
+<img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Jokes Card" align="right" width="300" height="180"/>
 
   <b>
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -380,45 +382,6 @@ Total Score: 4065 <br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-
-   ### ✍️ Random Dev Quote 
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)<br>
-<img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Jokes Card" align="center" width="300" height="180"/>
-   
-   ### Top Repos
-
-<div align=center>
-  
-   <img src="https://github-contributor-stats.vercel.app/api?username=anshumanjadiya1102&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" align="left"/>
-  
-</div>
-   <table>
-     <tr>
-       <td>
-  <a href="https://github.com/anshumanjadiya1102/WeatherApp">
-  <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=anshumanjadiya1102&repo=WeatherApp&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
-        </a>
-         </td>
-       <td>
-   <a href="https://github.com/anshumanjadiya1102/Football_Game">
-  <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=anshumanjadiya1102&repo=Football_Game&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
-        </a>
-         </td>
-       </tr>
-     <tr>
-       <td>
-          <a href="https://github.com/anshumanjadiya1102/Java_Beauty_Calculator">
-  <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=anshumanjadiya1102&repo=Java_Beauty_Calculator&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
-        </a>
-         </td>
-       <td>
-          <a href="https://github.com/anshumanjadiya1102/Todo-App.java">
-  <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=anshumanjadiya1102&repo=Todo-App.java&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
-        </a>
-         </td>
-       </tr>
-</table>
 <div align=center>
 <table>
   <tr>
