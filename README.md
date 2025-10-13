@@ -184,7 +184,7 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
 </a><br>
    
    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshumanjadiya1102&show_icons=true&count_private=true&theme=radical&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=anshumanjadiya1102&theme=radical&hide_border=true)
+ <img src="https://streak-stats.demolab.com?user=anshumanjadiya1102&theme=radical&border_radius=5.3&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anshumanjadiya1102&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anshumanjadiya1102&theme=radical)
