@@ -183,16 +183,16 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
   <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=anshumanjadiya1102&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20&theme=dracula"/>
 </a><br>
    
-   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshumanjadiya1102&show_icons=true&count_private=true&theme=radical&hide_border=true)
- <img src="https://streak-stats.demolab.com?user=anshumanjadiya1102&theme=radical&border_radius=5.3&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshumanjadiya1102&show_icons=true&count_private=true&theme=radical&hide_border=true)<br>
+![](https://nirzak-streak-stats.vercel.app/?user=anshumanjadiya1102&theme=radical&hide_border=false)<br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anshumanjadiya1102&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anshumanjadiya1102&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anshumanjadiya1102&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anshumanjadiya1102&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anshumanjadiya1102&theme=radical&utcOffset=5.3)
+<img src="https://github-contributor-stats.vercel.app/api?username=anshumanjadiya1102&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo"><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshumanjadiya1102&layout=compact&theme=radical&hide_border=true&card_width=400" alt="Most Used Languages" />
-<img src="https://github-contributor-stats.vercel.app/api?username=anshumanjadiya1102&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" align="left"/>
 <br><br>
 
  ![My GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anshumanjadiya1102&theme=dracula&custom_title=Anshuman%20Jadiya's%20Contribution%20Graph)  
