@@ -211,6 +211,9 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
   </a>
   <div align=center>
 <img src="https://trendshift.io/api/badge/developers/530" alt="Trendshift badge" style="max-width:100%; height:auto;" loading="lazy"><br>
+ <img width="60" alt="unnamed" src="https://github.com/user-attachments/assets/2c9d8d65-9037-4e66-bbd3-fcb071e6d0df" />
+<img width="60" alt="134504434-590236f3-d00b-4fb4-9454-baff8497beeb" src="https://github.com/user-attachments/assets/e1f8c4d2-4c8b-428e-af53-33f628cb64b7" />
+  <img width="60" alt="gssoc (1)" src="https://github.com/user-attachments/assets/e88651a7-8022-4935-8c58-978dbba14aba" />
   </div>
   </b>
 
@@ -526,6 +529,6 @@ graph TD;
 </div>
 
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting%20My%20Profile!&fontSize=20&fontColor=fff&animation=twinkling"/>
-
+<img src="https://github.com/user-attachments/assets/5d3f2ef6-acb2-4316-b0d6-5a4fda05d426" width="800">
 
    ###### anshumanjadiya1102___________________________________________________________________________________________________© 2025 Anshuman Jadiya – Crafted with ❤️
