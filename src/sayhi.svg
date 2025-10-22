@@ -1,0 +1,47 @@
+<svg fill="none" viewBox="0 0 176 25" width="176" height="25" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml" style="font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emojit;">
+			<style>
+            @keyframes home_sidebar_title_masked_animation__WanzD {
+                0% {
+                    background-position: 350% 0
+                }
+                to {
+                    background-position: -350% 0
+                }
+            }
+
+            .home_title {
+                font-size: 20px;
+                font-weight: 700;
+                animation: home_slide-in__h1Bn_ .4s ease;
+                display: inline-block;
+                color: transparent;
+                # background-image: linear-gradient(-220deg,#1649ee,#cd97e6 48%,#ee6552 60%,#7419c7);
+                background-image: linear-gradient(-220deg,#fc5c7d,#6a82fb,#05dfd7);
+                -webkit-background-clip: text;
+                background-clip: text;
+                background-size: 200% 120%;
+                animation: home_sidebar_title_masked_animation__WanzD 10s linear infinite
+            }
+
+            h2 {
+                display: block;
+                font-size: 20px;
+                margin-block-start: 0em;
+                margin-block-end: 0em;
+                margin-inline-start: 0px;
+                margin-inline-end: 0px;
+                font-weight: bold;
+            }
+            
+            code {
+                font-family: monospace;
+                font-size: 20px;
+            }
+			</style>
+
+      <div class="home_title" data-tauri-drag-region="true"><h1>Hello Every Github Soul, I'm <bold><code>Anshuman Jadiya</code></bold>!</h1></div>
+    </div>
+	</foreignObject>
+</svg>
