@@ -181,7 +181,8 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
 ##  <img src="https://media.tenor.com/q4L3wKD-P7YAAAAj/hydra-we-bhack.gif" height="30" style="margin-right: 10px; vertical-align: middle;"/>  My Tech Arsenal 
 
 <a href="https://github.com/anshumanjadiya1102">
-  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=anshumanjadiya1102&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20&theme=dracula"/>
+  
+  ![](https://github-trophies.vercel.app/?username=anshumanjadiya1102&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 </a><br>
    
    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshumanjadiya1102&show_icons=true&count_private=true&theme=radical&hide_border=true)<br>
