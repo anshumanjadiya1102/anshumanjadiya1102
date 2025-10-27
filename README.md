@@ -514,6 +514,11 @@ graph TD;
 </table>
 </div>
 
+<!-- Guestbook -->
+_This section will automatically update with messages. Enter your name with comment in [Guestbook](https://github.com/anshumanjadiya1102/anshumanjadiya1102/issues/6)
+<!-- /Guestbook -->
+
+
 ![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
 
 <div align="center">
@@ -530,6 +535,5 @@ graph TD;
 </div>
 
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting%20My%20Profile!&fontSize=20&fontColor=fff&animation=twinkling"/>
-<img src="https://github.com/user-attachments/assets/5d3f2ef6-acb2-4316-b0d6-5a4fda05d426" width="800">
 
    ###### anshumanjadiya1102___________________________________________________________________________________________________© 2025 Anshuman Jadiya – Crafted with ❤️
