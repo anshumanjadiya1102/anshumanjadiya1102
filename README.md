@@ -391,11 +391,13 @@ Total Score: 4065 <br>
     
  ![LeetCode Stats](https://leetcard.jacoblin.cool/anshumanjadiya1102?theme=transparent&font=Boogaloo&ext=activity)
 </a>
+
 <a href="https://app.daily.dev/anshumanjadiya1102">
 <img src="https://api.daily.dev/devcards/v2/TRwMfnAydvjy1tlPUIo4q.png?type=wide&r=yle" width="652" alt="Anshuman Jadiya's Dev Card"/>
 </a>
 </div>
 
+![Anshuman Jadiya Discord Status](https://github.com/user-attachments/assets/f158df50-d80b-4c8c-b2eb-f409d0f078bd)
 [![An image of @anshumanjadiya1102's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anshumanjadiya1102)](https://holopin.io/@anshumanjadiya1102)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
