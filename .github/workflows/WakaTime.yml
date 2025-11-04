@@ -23,7 +23,6 @@ jobs:
           SHOW_SHORT_INFO: "True"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_LOC_CHART: "False"
-          SHOW_TITLE: "True"
           SHOW_TIMEZONE: "True"
           SHOW_EDITORS: "True"
           SHOW_LINES_OF_CODE: "True"
