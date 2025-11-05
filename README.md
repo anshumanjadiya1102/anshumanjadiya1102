@@ -245,6 +245,8 @@ _This section will automatically update with messages. Please write your name wi
 ###  🔰 GSSoC Badges 🔰
 
 </div>
+<!-- my-badges start -->
+<!-- my-badges end -->
 
 <table>
 <tr>
