@@ -1,0 +1,50 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "30 19 * * *" # 12:00 AM IST
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: 🧠 Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          filename: metrics.svg
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Kolkata
+          config_theme: dark
+
+          # 📦 Repository insights
+          plugin_repositories: yes
+          plugin_repositories_featured: anshumanjadiya1102/Java_Beauty_Calculator, anshumanjadiya1102/anshumanjadiya1102
+          plugin_repositories_forks: yes
+
+          # 🌟 Notable repos
+          plugin_notable: yes
+          plugin_notable_filter: stars>5
+          plugin_notable_from: organization, user
+
+          # ⭐ Starred repos
+          plugin_stars: yes
+          plugin_stars_limit: 5
+
+          # 🏷️ Topics from your repositories
+          plugin_topics: yes
+          plugin_topics_mode: icons
+          plugin_topics_limit: 10
+
+          # 🗓️ Contribution calendar
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
+          # 💬 Other details
+          plugin_languages: yes
+          plugin_followup: yes
+          plugin_stargazers: yes
