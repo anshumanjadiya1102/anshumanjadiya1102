@@ -1,0 +1,135 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/anshumanjadiya1102/anshumanjadiya1102/commit/a9308c37c38d264e2d84f8082642aa0d73d0f28f\"><strong>a</strong>9308c37c38d264e2d84f8082642aa0d73d0f28f</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/anshumanjadiya1102/anshumanjadiya1102/commit/ab72717d203e176fda85aabbc1b00f828a04cf1c\"><strong>ab</strong>72717d203e176fda85aabbc1b00f828a04cf1c</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "abc-commit",
+    "tier": 3,
+    "desc": "One of my commit sha starts with \"abc\".",
+    "body": "- <a href=\"https://github.com/anshumanjadiya1102/anshumanjadiya1102/commit/abc08d7d5ce343d0b06c5624403315023a398e0c\"><strong>abc</strong>08d7d5ce343d0b06c5624403315023a398e0c</a>",
+    "image": "https://my-badges.github.io/my-badges/abc-commit.png"
+  },
+  {
+    "id": "delorean",
+    "tier": 0,
+    "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/anshumanjadiya1102/anshumanjadiya1102/commit/5e48edb47f658d19fa9ea6e0366f61fec864ac53\">5e48edb</a>\n- <a href=\"https://github.com/anshumanjadiya1102/anshumanjadiya1102/commit/7f9804725cef8315a04c58f7ff2f64cd2e772eaf\">7f98047</a>\n- <a href=\"https://github.com/anshumanjadiya1102/anshumanjadiya1102/commit/191e0b5b8b392512427e34c76dc357a6f4b70fbd\">191e0b5</a>\n- <a href=\"https://github.com/anshumanjadiya1102/anshumanjadiya1102/commit/857a30084c776a29922e6b93a92937aab9174417\">857a300</a>\n- <a href=\"https://github.com/anshumanjadiya1102/anshumanjadiya1102/commit/63f330cd420a5c1f334cc0bd6579a532289d05ae\">63f330c</a>\n- <a href=\"https://github.com/anshumanjadiya1102/anshumanjadiya1102/commit/5e9cf2bd9da635550314ee4097c9c01fe00bebe0\">5e9cf2b</a>",
+    "image": "https://my-badges.github.io/my-badges/delorean.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"update\".",
+    "body": "My favorite commit message words are:\n\n1. update (used 543 times)\n2. readme.md (used 463 times)\n3. game (used 113 times)\n4. add (used 102 times)\n5. readme (used 85 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/anshumanjadiya1102/JavaHelperApp/commit/a5f1d63639324343194fa7cdfde459f01ae1b6ef\">a5f1d63</a>: Fix formatting issues in QAEngine.java\n- <a href=\"https://github.com/anshumanjadiya1102/JavaHelperApp/commit/13bcdbd229442ae5ce6eea2a2014def4c4bd402f\">13bcdbd</a>: Fix formatting issues in Main.java",
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
+  },
+  {
+    "id": "polite-coder",
+    "tier": 0,
+    "desc": "I am a polite coder.",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/recodehive/awesome-github-profiles/issues/1430\">#1430</a>: Add Profile: anshumanjadiya1102\n- <a href=\"https://github.com/elevanceit/.github/issues/20\">#20</a>: Please invite me to the GitHub Organization\n- <a href=\"https://github.com/Jec-Forge/support/issues/57\">#57</a>: Please invite me to the Jec-Forge GitHub Community Organization\n- <a href=\"https://github.com/tinderzone/.github/issues/105\">#105</a>: Please invite me to tinderzone\n- <a href=\"https://github.com/BuildersChain/Support/issues/49\">#49</a>: Please invite me to the GitHub Community Organization\n\n And many more...",
+    "image": "https://my-badges.github.io/my-badges/polite-coder.png"
+  },
+  {
+    "id": "pr-collaboration-5",
+    "tier": 1,
+    "desc": "I have participated in pull requests with 5 or more people",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/recodehive/awesome-github-profiles/pull/1435\">#1435</a>: Improved Version for awesome-github-profiles",
+    "image": "https://my-badges.github.io/my-badges/pr-collaboration-5.png"
+  },
+  {
+    "id": "pr-collaboration-10",
+    "tier": 2,
+    "desc": "I have participated in pull requests with 10 or more people",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/recodehive/awesome-github-profiles/pull/1435\">#1435</a>: Improved Version for awesome-github-profiles",
+    "image": "https://my-badges.github.io/my-badges/pr-collaboration-10.png"
+  },
+  {
+    "id": "pr-collaboration-15",
+    "tier": 3,
+    "desc": "I have participated in pull requests with 15 or more people",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/recodehive/awesome-github-profiles/pull/1435\">#1435</a>: Improved Version for awesome-github-profiles",
+    "image": "https://my-badges.github.io/my-badges/pr-collaboration-15.png"
+  },
+  {
+    "id": "pr-collaboration-20",
+    "tier": 4,
+    "desc": "I have participated in pull requests with 20 or more people",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/recodehive/awesome-github-profiles/pull/1435\">#1435</a>: Improved Version for awesome-github-profiles",
+    "image": "https://my-badges.github.io/my-badges/pr-collaboration-20.png"
+  },
+  {
+    "id": "pr-collaboration-25",
+    "tier": 5,
+    "desc": "I have participated in pull requests with 25 or more people",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/recodehive/awesome-github-profiles/pull/1435\">#1435</a>: Improved Version for awesome-github-profiles",
+    "image": "https://my-badges.github.io/my-badges/pr-collaboration-25.png"
+  },
+  {
+    "id": "programmers-day",
+    "tier": 0,
+    "desc": "Happy Programmers Day! I committed on a 256 Day of Year!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/anshumanjadiya1102/anshumanjadiya1102/commit/a58cceaca12a45169b3b461f928684a69bb5b690\">a58ccea</a>\n- <a href=\"https://github.com/anshumanjadiya1102/anshumanjadiya1102/commit/a75dd82245c2bde4fff9274b61e0701b72572a54\">a75dd82</a>\n- <a href=\"https://github.com/anshumanjadiya1102/anshumanjadiya1102/commit/48761180f6f2f60d81b53173af6268f0afd6f551\">4876118</a>\n- <a href=\"https://github.com/anshumanjadiya1102/anshumanjadiya1102/commit/4ba26403d519a0347651d09e364798dec84f3857\">4ba2640</a>\n- <a href=\"https://github.com/anshumanjadiya1102/anshumanjadiya1102/commit/8e19de089a7811b2c56c51f39672b19b88e1437a\">8e19de0</a>\n- <a href=\"https://github.com/anshumanjadiya1102/anshumanjadiya1102/commit/67de82d529f2453bd09a02be4ce7cb331795382f\">67de82d</a>",
+    "image": "https://my-badges.github.io/my-badges/programmers-day.png"
+  },
+  {
+    "id": "self-upvote",
+    "tier": 1,
+    "desc": "I liked my own comment so much that I upvoted it.",
+    "body": "* <a href=\"https://github.com/anshumanjadiya1102/Football_Game/issues/1\">🎉</a>\n* <a href=\"https://github.com/ryo-ma/github-profile-trophy/issues/351\">👍</a>\n* <a href=\"https://github.com/ryo-ma/github-profile-trophy/issues/351\">😄</a>\n* <a href=\"https://github.com/ryo-ma/github-profile-trophy/issues/351\">👀</a>\n* <a href=\"https://github.com/ryo-ma/github-profile-trophy/issues/351\">❤️</a>\n* <a href=\"https://github.com/xamidi/xamidi/issues/1\">🎉</a>\n* <a href=\"https://github.com/xamidi/xamidi/issues/1\">👍</a>\n* <a href=\"https://github.com/visualGravitySense/visualGravitySense/issues/2\">❤️</a>\n* <a href=\"https://github.com/visualGravitySense/visualGravitySense/issues/2\">🚀</a>\n* <a href=\"https://github.com/anshumanjadiya1102/Number-Guessing-Game/pull/3\">❤️</a>\n* <a href=\"https://github.com/anshumanjadiya1102/Number-Guessing-Game/pull/3\">😄</a>\n* <a href=\"https://github.com/anshumanjadiya1102/hello-world/pull/1\">😄</a>\n* <a href=\"https://github.com/KushalMeghani1644/KushalMeghani1644/issues/1#issuecomment-3233350808\">👀</a>\n* <a href=\"https://github.com/KushalMeghani1644/KushalMeghani1644/issues/1#issuecomment-3233350808\">👎</a>\n* <a href=\"https://github.com/KushalMeghani1644/KushalMeghani1644/issues/1#issuecomment-3233350808\">😕</a>\n* <a href=\"https://github.com/visualGravitySense/visualGravitySense/issues/2#issuecomment-3306773732\">❤️</a>\n* <a href=\"https://github.com/visualGravitySense/visualGravitySense/issues/2#issuecomment-3306773732\">👀</a>\n* <a href=\"https://github.com/recodehive/.github/issues/7#issuecomment-3368148862\">❤️</a>\n* <a href=\"https://github.com/Drive-for-Java/MyCMD/issues/10#issuecomment-3393884450\">👍</a>",
+    "image": "https://my-badges.github.io/my-badges/self-upvote.png"
+  },
+  {
+    "id": "spooky-commit",
+    "tier": 0,
+    "desc": "I committed on the Halloween! Boo!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/anshumanjadiya1102/anshumanjadiya1102/commit/65e700d5c97caab68867995a714447c0a0174300\">65e700d</a>",
+    "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 44 my own repositories.",
+    "body": "- <a href=\"https://github.com/anshumanjadiya1102/hello-world\">anshumanjadiya1102/hello-world</a>\n- <a href=\"https://github.com/anshumanjadiya1102/Number-Guessing-Game\">anshumanjadiya1102/Number-Guessing-Game</a>\n- <a href=\"https://github.com/anshumanjadiya1102/Football_Game\">anshumanjadiya1102/Football_Game</a>\n- <a href=\"https://github.com/anshumanjadiya1102/Number-GuessingGame\">anshumanjadiya1102/Number-GuessingGame</a>\n- <a href=\"https://github.com/anshumanjadiya1102/.github\">anshumanjadiya1102/.github</a>\n- <a href=\"https://github.com/anshumanjadiya1102/Todo-App.java\">anshumanjadiya1102/Todo-App.java</a>\n- <a href=\"https://github.com/anshumanjadiya1102/Java_Beauty_Calculator\">anshumanjadiya1102/Java_Beauty_Calculator</a>\n- <a href=\"https://github.com/anshumanjadiya1102/Opensource-practice\">anshumanjadiya1102/Opensource-practice</a>\n- <a href=\"https://github.com/anshumanjadiya1102/randymcmillan\">anshumanjadiya1102/randymcmillan</a>\n- <a href=\"https://github.com/anshumanjadiya1102/All-GitHub-\">anshumanjadiya1102/All-GitHub-</a>\n- <a href=\"https://github.com/anshumanjadiya1102/TicTacToeFX.java\">anshumanjadiya1102/TicTacToeFX.java</a>\n- <a href=\"https://github.com/anshumanjadiya1102/ExpenseTracker\">anshumanjadiya1102/ExpenseTracker</a>\n- <a href=\"https://github.com/anshumanjadiya1102/anshumanjadiya1102.github.io\">anshumanjadiya1102/anshumanjadiya1102.github.io</a>\n- <a href=\"https://github.com/anshumanjadiya1102/ai-agents-for-beginners\">anshumanjadiya1102/ai-agents-for-beginners</a>\n- <a href=\"https://github.com/anshumanjadiya1102/Java-Analyzer\">anshumanjadiya1102/Java-Analyzer</a>\n- <a href=\"https://github.com/anshumanjadiya1102/vscode-maven\">anshumanjadiya1102/vscode-maven</a>\n- <a href=\"https://github.com/anshumanjadiya1102/my-app\">anshumanjadiya1102/my-app</a>\n- <a href=\"https://github.com/anshumanjadiya1102/J-cs\">anshumanjadiya1102/J-cs</a>\n- <a href=\"https://github.com/anshumanjadiya1102/Welcome-to-Bauddhik-Geeks\">anshumanjadiya1102/Welcome-to-Bauddhik-Geeks</a>\n- <a href=\"https://github.com/anshumanjadiya1102/first-contributions\">anshumanjadiya1102/first-contributions</a>\n- <a href=\"https://github.com/anshumanjadiya1102/GitHub-Organization-Worldwide\">anshumanjadiya1102/GitHub-Organization-Worldwide</a>\n- <a href=\"https://github.com/anshumanjadiya1102/WeatherApp\">anshumanjadiya1102/WeatherApp</a>\n- <a href=\"https://github.com/anshumanjadiya1102/GitHubAssistant\">anshumanjadiya1102/GitHubAssistant</a>\n- <a href=\"https://github.com/anshumanjadiya1102/JavaHelperApp\">anshumanjadiya1102/JavaHelperApp</a>\n- <a href=\"https://github.com/anshumanjadiya1102/LauraAllObe\">anshumanjadiya1102/LauraAllObe</a>\n- <a href=\"https://github.com/anshumanjadiya1102/DonutJava\">anshumanjadiya1102/DonutJava</a>\n- <a href=\"https://github.com/anshumanjadiya1102/copyparty\">anshumanjadiya1102/copyparty</a>\n- <a href=\"https://github.com/anshumanjadiya1102/JavaFX-learning\">anshumanjadiya1102/JavaFX-learning</a>\n- <a href=\"https://github.com/anshumanjadiya1102/anshumanjadiya1102\">anshumanjadiya1102/anshumanjadiya1102</a>\n- <a href=\"https://github.com/anshumanjadiya1102/ai-recruiter\">anshumanjadiya1102/ai-recruiter</a>\n- <a href=\"https://github.com/anshumanjadiya1102/-.github\">anshumanjadiya1102/-.github</a>\n- <a href=\"https://github.com/anshumanjadiya1102/Hacktoberfest2025\">anshumanjadiya1102/Hacktoberfest2025</a>\n- <a href=\"https://github.com/anshumanjadiya1102/demos-java\">anshumanjadiya1102/demos-java</a>\n- <a href=\"https://github.com/anshumanjadiya1102/Anshuman-Jadiya.github.io\">anshumanjadiya1102/Anshuman-Jadiya.github.io</a>\n- <a href=\"https://github.com/anshumanjadiya1102/Hacktoberfest2025.\">anshumanjadiya1102/Hacktoberfest2025.</a>\n- <a href=\"https://github.com/anshumanjadiya1102/freelance-web\">anshumanjadiya1102/freelance-web</a>\n- <a href=\"https://github.com/anshumanjadiya1102/DSA-Patterns-and-Problems\">anshumanjadiya1102/DSA-Patterns-and-Problems</a>\n- <a href=\"https://github.com/anshumanjadiya1102/HerHaven\">anshumanjadiya1102/HerHaven</a>\n- <a href=\"https://github.com/anshumanjadiya1102/.github.\">anshumanjadiya1102/.github.</a>\n- <a href=\"https://github.com/anshumanjadiya1102/hacktober-fest-2025\">anshumanjadiya1102/hacktober-fest-2025</a>\n- <a href=\"https://github.com/anshumanjadiya1102/.github..\">anshumanjadiya1102/.github..</a>\n- <a href=\"https://github.com/anshumanjadiya1102/Web-Dev-Mini-Projects\">anshumanjadiya1102/Web-Dev-Mini-Projects</a>\n- <a href=\"https://github.com/anshumanjadiya1102/opensocial\">anshumanjadiya1102/opensocial</a>\n- <a href=\"https://github.com/anshumanjadiya1102/start-here-guidelines\">anshumanjadiya1102/start-here-guidelines</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
+  },
+  {
+    "id": "stars-100",
+    "tier": 1,
+    "desc": "I collected 100 stars.",
+    "body": "Repos:\n\n* <a href=\"https://github.com/anshumanjadiya1102/LauraAllObe\">anshumanjadiya1102/LauraAllObe: ★10</a>\n* <a href=\"https://github.com/anshumanjadiya1102/first-contributions\">anshumanjadiya1102/first-contributions: ★10</a>\n* <a href=\"https://github.com/anshumanjadiya1102/my-app\">anshumanjadiya1102/my-app: ★9</a>\n* <a href=\"https://github.com/anshumanjadiya1102/J-cs\">anshumanjadiya1102/J-cs: ★9</a>\n* <a href=\"https://github.com/anshumanjadiya1102/GitHub-Organization-Worldwide\">anshumanjadiya1102/GitHub-Organization-Worldwide: ★6</a>\n* <a href=\"https://github.com/anshumanjadiya1102/WeatherApp\">anshumanjadiya1102/WeatherApp: ★6</a>\n* <a href=\"https://github.com/anshumanjadiya1102/GitHubAssistant\">anshumanjadiya1102/GitHubAssistant: ★6</a>\n* <a href=\"https://github.com/anshumanjadiya1102/JavaHelperApp\">anshumanjadiya1102/JavaHelperApp: ★6</a>\n* <a href=\"https://github.com/anshumanjadiya1102/DonutJava\">anshumanjadiya1102/DonutJava: ★5</a>\n* <a href=\"https://github.com/anshumanjadiya1102/copyparty\">anshumanjadiya1102/copyparty: ★3</a>\n* <a href=\"https://github.com/anshumanjadiya1102/JavaFX-learning\">anshumanjadiya1102/JavaFX-learning: ★3</a>\n* <a href=\"https://github.com/anshumanjadiya1102/-.github\">anshumanjadiya1102/-.github: ★3</a>\n* <a href=\"https://github.com/anshumanjadiya1102/Hacktoberfest2025\">anshumanjadiya1102/Hacktoberfest2025: ★2</a>\n* <a href=\"https://github.com/anshumanjadiya1102/demos-java\">anshumanjadiya1102/demos-java: ★2</a>\n* <a href=\"https://github.com/anshumanjadiya1102/ai-recruiter\">anshumanjadiya1102/ai-recruiter: ★2</a>\n* <a href=\"https://github.com/anshumanjadiya1102/.github.\">anshumanjadiya1102/.github.: ★2</a>\n* <a href=\"https://github.com/anshumanjadiya1102/DSA-Patterns-and-Problems\">anshumanjadiya1102/DSA-Patterns-and-Problems: ★2</a>\n* <a href=\"https://github.com/anshumanjadiya1102/freelance-web\">anshumanjadiya1102/freelance-web: ★2</a>\n* <a href=\"https://github.com/anshumanjadiya1102/HerHaven\">anshumanjadiya1102/HerHaven: ★2</a>\n* <a href=\"https://github.com/anshumanjadiya1102/Hacktoberfest2025.\">anshumanjadiya1102/Hacktoberfest2025.: ★2</a>\n* <a href=\"https://github.com/anshumanjadiya1102/Anshuman-Jadiya.github.io\">anshumanjadiya1102/Anshuman-Jadiya.github.io: ★2</a>\n* <a href=\"https://github.com/anshumanjadiya1102/.github..\">anshumanjadiya1102/.github..: ★2</a>\n* <a href=\"https://github.com/anshumanjadiya1102/hacktober-fest-2025\">anshumanjadiya1102/hacktober-fest-2025: ★2</a>\n* <a href=\"https://github.com/anshumanjadiya1102/Web-Dev-Mini-Projects\">anshumanjadiya1102/Web-Dev-Mini-Projects: ★2</a>\n* <a href=\"https://github.com/anshumanjadiya1102/introduction-to-git-and-github-ebook\">anshumanjadiya1102/introduction-to-git-and-github-ebook: ★1</a>\n* <a href=\"https://github.com/anshumanjadiya1102/MyCMD\">anshumanjadiya1102/MyCMD: ★1</a>\n* <a href=\"https://github.com/anshumanjadiya1102/bot\">anshumanjadiya1102/bot: ★1</a>\n* <a href=\"https://github.com/anshumanjadiya1102/opensocial\">anshumanjadiya1102/opensocial: ★1</a>\n* <a href=\"https://github.com/anshumanjadiya1102/start-here-guidelines\">anshumanjadiya1102/start-here-guidelines: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "image": "https://my-badges.github.io/my-badges/stars-100.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/anshumanjadiya1102/anshumanjadiya1102/commit/32ca1ba605fe6000ee149faf3ef0eae81eb3aa2a\">32ca1ba</a>\n- <a href=\"https://github.com/anshumanjadiya1102/anshumanjadiya1102/commit/072e70ffe5ac0c08a51693983cfd2bc73b6c22cd\">072e70f</a>\n- <a href=\"https://github.com/anshumanjadiya1102/anshumanjadiya1102/commit/117095e8549a753596d96b79bcd707a28b0a6990\">117095e</a>\n- <a href=\"https://github.com/anshumanjadiya1102/anshumanjadiya1102/commit/70ada11f817176405252486283daa8bd08420661\">70ada11</a>\n- <a href=\"https://github.com/anshumanjadiya1102/anshumanjadiya1102/commit/a2d473228f718b1851fbb93c70e2beb13e80327b\">a2d4732</a>\n- <a href=\"https://github.com/anshumanjadiya1102/anshumanjadiya1102/commit/0d2072c7fb525e1b477fd2ecc9a7f5b2b8120702\">0d2072c</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/anshumanjadiya1102/anshumanjadiya1102/commit/895f257dcd57f90998755b2abac7767a972f7060\">895f257</a>\n- <a href=\"https://github.com/anshumanjadiya1102/anshumanjadiya1102/commit/99389e97f856e737b261c87949a0558b40ff1b8e\">99389e9</a>\n- <a href=\"https://github.com/anshumanjadiya1102/anshumanjadiya1102/commit/5fb60a37eb71c28055906692985080c08900f831\">5fb60a3</a>\n- <a href=\"https://github.com/anshumanjadiya1102/anshumanjadiya1102/commit/fa38fdc5d08c94d7dcca100b136714f5fc5035e2\">fa38fdc</a>\n- <a href=\"https://github.com/anshumanjadiya1102/start-here-guidelines/commit/782b5fc10293507e8435d1915f2d3238b6abf0f9\">782b5fc</a>\n- <a href=\"https://github.com/anshumanjadiya1102/anshumanjadiya1102/commit/3257f703b5c9ba888c9d33d0f99db165f669fd84\">3257f70</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  }
+]
