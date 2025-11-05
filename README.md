@@ -423,6 +423,19 @@ Total Score: 4065 <br>
 ![Anshuman Jadiya Discord Status](https://github.com/user-attachments/assets/f158df50-d80b-4c8c-b2eb-f409d0f078bd)
 [![An image of @anshumanjadiya1102's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anshumanjadiya1102)](https://holopin.io/@anshumanjadiya1102)
 
+<!-- Git Animals -->
+<!-- https://www.gitanimals.org -->
+<details open>
+<summary><b>Git Animals</b></summary>
+
+<div align="center">
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=anshumanjadiya1102&utm_content=farm">
+    <img src="https://render.gitanimals.org/farms/anshumanjadiya1102" width="600" height="300" alt="git-animals"/>
+  </a>
+</div>
+</details>
+
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
