@@ -132,14 +132,14 @@ The workflow configuration has been:
 - ✅ Parameter names verified against action documentation
 - ✅ Permission settings confirmed
 - ✅ Token configuration corrected
-- ✅ Schedule tested (cron: '30 18 * * *' = 18:30 UTC / midnight IST)
+- ✅ Schedule tested (cron: '30 18 * * *' = 18:30 UTC = 00:00 IST)
 - ✅ Manual trigger available (workflow_dispatch)
 
 ## Next Steps
 
 1. User adds `WAKATIME_API_KEY` secret
 2. User manually runs the workflow once to test
-3. Workflow will run automatically daily at 12:00 AM IST
+3. Workflow will run automatically daily at 18:30 UTC (00:00 IST / midnight India time)
 4. README will update automatically with WakaTime stats
 
 ## Support

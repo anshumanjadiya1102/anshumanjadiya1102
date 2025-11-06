@@ -63,7 +63,7 @@ The workflow will automatically insert your coding stats between these markers.
 
 The workflow file `.github/workflows/Waka-readme.yml` should already be configured correctly. It includes:
 
-- **Schedule**: Runs daily at midnight IST / 6:30 PM UTC (cron: '30 18 * * *')
+- **Schedule**: Runs daily at 18:30 UTC (00:00 IST / midnight India time) - cron: '30 18 * * *'
 - **Manual trigger**: Can be run manually via "workflow_dispatch"
 - **Permissions**: Has write access to update the repository
 - **Token**: Uses GitHub's built-in `GITHUB_TOKEN` automatically
