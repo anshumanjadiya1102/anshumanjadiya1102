@@ -11,18 +11,20 @@ jobs:
     name: Update this repo's README with recent activity
 
     steps:
-      - name: Checkout Repository
+      - name: Checkout the repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # full history needed for commit
-          ref: ${{ github.ref_name }}  # ensures branch is attached
+          fetch-depth: 0  # full history
+          persist-credentials: false  # we'll reauthenticate manually
 
       - name: Set up Git
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git fetch origin
+          git checkout main || git checkout master
 
-      - name: Update README with recent activity
+      - name: Update README with recent GitHub activity
         uses: jamesgeorge007/github-activity-readme@master
         with:
           GH_USERNAME: anshumanjadiya1102
@@ -33,14 +35,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push changes if any
+      - name: Push changes manually
         run: |
-          branch=$(git rev-parse --abbrev-ref HEAD)
-          git pull origin $branch || true
-          if ! git diff --exit-code; then
-            git add README.md
-            git commit -m ":zap: Update README with the recent activity" || true
-            git push origin HEAD:$branch
-          else
-            echo "No changes to commit."
-          fi
+          git pull
+          git add README.md || true
+          git commit -m ":zap: Update README with the recent activity" || true
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:$(git branch --show-current)
