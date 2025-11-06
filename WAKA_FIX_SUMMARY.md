@@ -132,7 +132,7 @@ The workflow configuration has been:
 - ✅ Parameter names verified against action documentation
 - ✅ Permission settings confirmed
 - ✅ Token configuration corrected
-- ✅ Schedule tested (cron: '30 18 * * *' = 12:00 AM IST)
+- ✅ Schedule tested (cron: '30 18 * * *' = 18:30 UTC / midnight IST)
 - ✅ Manual trigger available (workflow_dispatch)
 
 ## Next Steps
