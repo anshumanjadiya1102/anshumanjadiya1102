@@ -14,25 +14,33 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # full history
-          ref: ${{ github.ref_name }}
+          fetch-depth: 0  # full history needed for commit
+          ref: ${{ github.ref_name }}  # ensures branch is attached
 
-      - name: Set up Git user
+      - name: Set up Git
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-      - name: Update README with recent GitHub activity
+      - name: Update README with recent activity
         uses: jamesgeorge007/github-activity-readme@master
         with:
           GH_USERNAME: anshumanjadiya1102
           COMMIT_MSG: ":zap: Update README with the recent activity"
+          MAX_LINES: 5
+          TARGET_FILE: README.md
+          EMPTY_COMMIT_MSG: ":memo: empty commit to keep workflow active after 60 days of no activity"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Ensure push works (main/master detection)
+      - name: Push changes if any
         run: |
-          branch=$(git symbolic-ref --short HEAD || echo "main")
+          branch=$(git rev-parse --abbrev-ref HEAD)
           git pull origin $branch || true
-          git push origin HEAD:$branch
-
+          if ! git diff --exit-code; then
+            git add README.md
+            git commit -m ":zap: Update README with the recent activity" || true
+            git push origin HEAD:$branch
+          else
+            echo "No changes to commit."
+          fi
