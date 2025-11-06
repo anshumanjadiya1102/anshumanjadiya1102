@@ -2,42 +2,24 @@ name: Update README
 
 on:
   schedule:
-    - cron: '*/30 * * * *' # every 30 minutes
+    - cron: '*/30 * * * *'
   workflow_dispatch:
 
 jobs:
-  build:
+  update:
     runs-on: ubuntu-latest
-    name: Update this repo's README with recent activity
-
     steps:
-      - name: Checkout the repository
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0  # full history
-          persist-credentials: false  # we'll reauthenticate manually
+      - uses: actions/checkout@v4
 
-      - name: Set up Git
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git fetch origin
-          git checkout main || git checkout master
-
-      - name: Update README with recent GitHub activity
-        uses: jamesgeorge007/github-activity-readme@master
-        with:
-          GH_USERNAME: anshumanjadiya1102
-          COMMIT_MSG: ":zap: Update README with the recent activity"
-          MAX_LINES: 5
-          TARGET_FILE: README.md
-          EMPTY_COMMIT_MSG: ":memo: empty commit to keep workflow active after 60 days of no activity"
+      - name: Generate recent activity
+        uses: Readme-Workflows/recent-activity@v2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push changes manually
+      - name: Commit changes
         run: |
-          git pull
-          git add README.md || true
-          git commit -m ":zap: Update README with the recent activity" || true
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:$(git branch --show-current)
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "🔄 Update recent activity" || exit 0
+          git push
