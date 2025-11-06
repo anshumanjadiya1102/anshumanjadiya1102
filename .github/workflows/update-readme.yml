@@ -8,17 +8,31 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    name: Update this repo's README with recent activity
 
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # allow commits
+          fetch-depth: 0  # full history
+          ref: ${{ github.ref_name }}
 
-      - name: Update README with recent activity
-        uses: jamesgeorge007/github-activity-readme@v0.3.0
+      - name: Set up Git user
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Update README with recent GitHub activity
+        uses: jamesgeorge007/github-activity-readme@master
         with:
           GH_USERNAME: anshumanjadiya1102
           COMMIT_MSG: ":zap: Update README with the recent activity"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Ensure push works (main/master detection)
+        run: |
+          branch=$(git symbolic-ref --short HEAD || echo "main")
+          git pull origin $branch || true
+          git push origin HEAD:$branch
+
