@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '*/30 * * * *' # every 30 minutes
   workflow_dispatch:
 
 jobs:
@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Generate recent activity
-        uses: Readme-Workflows/recent-activity@v2
+        uses: Readme-Workflows/recent-activity@v2.6.3
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
