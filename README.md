@@ -1,4 +1,4 @@
-<p align="center">
+![chrome_eu1Q7xD8et](https://github.com/user-attachments/assets/cd767c70-ebb4-4fd3-830b-4c9d957bfe26)![chrome_eu1Q7xD8et](https://github.com/user-attachments/assets/11425883-ce26-4929-8191-5c3a1fe42e48)![chrome_eu1Q7xD8et](https://github.com/user-attachments/assets/5add002e-f0e4-496a-b67a-097f9efbf838)<p align="center">
   
 ![Anshuman Jadiya](https://github.com/user-attachments/assets/acccdcc0-851b-4b94-b4e1-8c7b354469da)
 <a name="readme-top"></a>
@@ -185,24 +185,14 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
 
 ###### _All are built with 💖 and Passion in Java_ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/><br><br>
 
-#### Guestbook
-_This section will automatically update with messages. Please write your name with a love comment [here](https://github.com/anshumanjadiya1102/anshumanjadiya1102/issues/6)_
-
-<!-- Guestbook -->
-| 👤 **User** | 🕓 **Date** | 💬 **Message** |
-|---|---|---|
-| [<img src="https://avatars.githubusercontent.com/u/225169841?s=48&u=5282c59b24c18e0e2672c2ff79bcf67b6dc3c5c1&v=4" alt="anshumanjadiya1102" width="48" /><br />anshumanjadiya1102](https://github.com/anshumanjadiya1102) | 10/27/2025, 4:06:16 PM<br />[🔗 View Comment](https://github.com/anshumanjadiya1102/anshumanjadiya1102/issues/6#issuecomment-3452095162) | Hello, Please write your comment here. Thanks |
-| [<img src="https://avatars.githubusercontent.com/u/225169841?s=48&u=5282c59b24c18e0e2672c2ff79bcf67b6dc3c5c1&v=4" alt="anshumanjadiya1102" width="48" /><br />anshumanjadiya1102](https://github.com/anshumanjadiya1102) | 10/27/2025, 4:01:45 PM<br />[🔗 View Comment](https://github.com/anshumanjadiya1102/anshumanjadiya1102/issues/6#issuecomment-3452075626) | Hello, Please write your comment here. Thanks |
-<!-- /Guestbook -->
-
-
 ![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
 
 ##  <img src="https://media.tenor.com/q4L3wKD-P7YAAAAj/hydra-we-bhack.gif" height="30" style="margin-right: 10px; vertical-align: middle;"/>  My Tech Arsenal 
 
-<a href="https://github.com/anshumanjadiya1102">
+<a href="https://github.com/anshumanjadiya1102"> <div align=center>
   
   ![](https://github-trophies.vercel.app/?username=anshumanjadiya1102&theme=discord&no-frame=true&no-bg=true&margin-w=4)
+  </div>
 </a><br>
    
    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshumanjadiya1102&show_icons=true&count_private=true&theme=radical&hide_border=true)<br>
@@ -222,6 +212,13 @@ _This section will automatically update with messages. Please write your name wi
 <img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Jokes Card" align="right" width="300" height="180"/>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+<br><br><br>
+
+## Guestbook
+_This section will automatically update with messages. Please write your name with a love comment [here](https://github.com/anshumanjadiya1102/anshumanjadiya1102/issues/6)_
+
+<!-- Guestbook -->
+<!-- /Guestbook -->
 
   <b>
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -251,28 +248,6 @@ _This section will automatically update with messages. Please write your name wi
 ###  🔰 GSSoC Badges 🔰
 
 </div>
-<!-- my-badges start -->
-<a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
-<a href="my-badges/ab-commit.md"><img src="https://my-badges.github.io/my-badges/ab-commit.png" alt="One of my commit sha starts with &quot;ab&quot;." title="One of my commit sha starts with &quot;ab&quot;." width="64"></a>
-<a href="my-badges/abc-commit.md"><img src="https://my-badges.github.io/my-badges/abc-commit.png" alt="One of my commit sha starts with &quot;abc&quot;." title="One of my commit sha starts with &quot;abc&quot;." width="64"></a>
-<a href="my-badges/delorean.md"><img src="https://my-badges.github.io/my-badges/delorean.png" alt="I committed on the day Doctor Emmett Brown invented the flux capacitor!" title="I committed on the day Doctor Emmett Brown invented the flux capacitor!" width="64"></a>
-<a href="my-badges/favorite-word.md"><img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;update&quot;." title="My favorite word is &quot;update&quot;." width="64"></a>
-<a href="my-badges/fix-2.md"><img src="https://my-badges.github.io/my-badges/fix-2.png" alt="I did 2 sequential fixes." title="I did 2 sequential fixes." width="64"></a>
-<a href="my-badges/polite-coder.md"><img src="https://my-badges.github.io/my-badges/polite-coder.png" alt="I am a polite coder." title="I am a polite coder." width="64"></a>
-<a href="my-badges/pr-collaboration-5.md"><img src="https://my-badges.github.io/my-badges/pr-collaboration-5.png" alt="I have participated in pull requests with 5 or more people" title="I have participated in pull requests with 5 or more people" width="64"></a>
-<a href="my-badges/pr-collaboration-10.md"><img src="https://my-badges.github.io/my-badges/pr-collaboration-10.png" alt="I have participated in pull requests with 10 or more people" title="I have participated in pull requests with 10 or more people" width="64"></a>
-<a href="my-badges/pr-collaboration-15.md"><img src="https://my-badges.github.io/my-badges/pr-collaboration-15.png" alt="I have participated in pull requests with 15 or more people" title="I have participated in pull requests with 15 or more people" width="64"></a>
-<a href="my-badges/pr-collaboration-20.md"><img src="https://my-badges.github.io/my-badges/pr-collaboration-20.png" alt="I have participated in pull requests with 20 or more people" title="I have participated in pull requests with 20 or more people" width="64"></a>
-<a href="my-badges/pr-collaboration-25.md"><img src="https://my-badges.github.io/my-badges/pr-collaboration-25.png" alt="I have participated in pull requests with 25 or more people" title="I have participated in pull requests with 25 or more people" width="64"></a>
-<a href="my-badges/programmers-day.md"><img src="https://my-badges.github.io/my-badges/programmers-day.png" alt="Happy Programmers Day! I committed on a 256 Day of Year!" title="Happy Programmers Day! I committed on a 256 Day of Year!" width="64"></a>
-<a href="my-badges/self-upvote.md"><img src="https://my-badges.github.io/my-badges/self-upvote.png" alt="I liked my own comment so much that I upvoted it." title="I liked my own comment so much that I upvoted it." width="64"></a>
-<a href="my-badges/spooky-commit.md"><img src="https://my-badges.github.io/my-badges/spooky-commit.png" alt="I committed on the Halloween! Boo!" title="I committed on the Halloween! Boo!" width="64"></a>
-<a href="my-badges/self-star.md"><img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 46 my own repositories." title="I&apos;ve starred 46 my own repositories." width="64"></a>
-<a href="my-badges/stars-100.md"><img src="https://my-badges.github.io/my-badges/stars-100.png" alt="I collected 100 stars." title="I collected 100 stars." width="64"></a>
-<a href="my-badges/morning-commits.md"><img src="https://my-badges.github.io/my-badges/morning-commits.png" alt="I commit in the morning." title="I commit in the morning." width="64"></a>
-<a href="my-badges/evening-commits.md"><img src="https://my-badges.github.io/my-badges/evening-commits.png" alt="I commit in the evening." title="I commit in the evening." width="64"></a>
-<!-- my-badges end -->
-
 <table>
 <tr>
 <td width="25%">
@@ -415,31 +390,40 @@ Total Score: 4065 <br>
   </tr>
 </table>
 
-<div align="center">
-  <a href="https://leetcode.com/anshumanjadiya1102/">
-    
- ![LeetCode Stats](https://leetcard.jacoblin.cool/anshumanjadiya1102?theme=transparent&font=Boogaloo&ext=activity)
-</a>
 
-<a href="https://app.daily.dev/anshumanjadiya1102">
-<img src="https://api.daily.dev/devcards/v2/TRwMfnAydvjy1tlPUIo4q.png?type=wide&r=yle" width="652" alt="Anshuman Jadiya's Dev Card"/>
+  <a href="https://leetcode.com/anshumanjadiya1102/">
+ <img src="https://leetcard.jacoblin.cool/anshumanjadiya1102?theme=transparent&font=Boogaloo&ext=activity" height="300" align="left">
 </a>
+<a href="https://app.daily.dev/anshumanjadiya1102">
+<img src="https://api.daily.dev/devcards/v2/TRwMfnAydvjy1tlPUIo4q.png?type=default&r=8ht" height="300" alt="Anshuman Jadiya's Dev Card" ></a>
+<a href="https://discord.com/users/1420629727932317747" >
+![chrome_eu1Q7xD8et](https://github.com/user-attachments/assets/0dcdb643-b0c5-4caf-8d9d-c756f5a3c7d3)
+<div align=center>
+<!-- my-badges start -->
+<!-- my-badges end -->
 </div>
 
-![Anshuman Jadiya Discord Status](https://github.com/user-attachments/assets/f158df50-d80b-4c8c-b2eb-f409d0f078bd)
 [![An image of @anshumanjadiya1102's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anshumanjadiya1102)](https://holopin.io/@anshumanjadiya1102)
 
 <!-- Git Animals -->
 <!-- https://www.gitanimals.org -->
-<details open>
-<summary><b>Git Animals</b></summary>
 
-<div align="center">
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=anshumanjadiya1102&utm_content=farm">
+  
+##  Git Animals 
+
+### My GitAnimals
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=anshumanjadiya1102&utm_content=farm">
 <img src="https://render.gitanimals.org/farms/anshumanjadiya1102" width="600" height="300"/>
 </a>
-</div>
-</details>
+
+### My Git Team
+Meet my Gitanimals friends. We all code and Collaborate and Commit together. We all are busy earning and raising virtual pets through consistent GitHub commits. 
+ - [Sumi](https://github.com/sumi-0011)
+ - [Nuyeo](https://github.com/nuyeo)
+Meet my team on GitAnimals:
+<a href="https://www.gitanimals.org/">
+      <img src="https://render.gitanimals.org/guilds/673619573941826229/draw" width="600" height="300" alt="gitanimals" />
+    </a>
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
