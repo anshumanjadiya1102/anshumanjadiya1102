@@ -397,7 +397,9 @@ Total Score: 4065 <br>
 <a href="https://app.daily.dev/anshumanjadiya1102">
 <img src="https://api.daily.dev/devcards/v2/TRwMfnAydvjy1tlPUIo4q.png?type=default&r=8ht" height="300" alt="Anshuman Jadiya's Dev Card" ></a>
 <a href="https://discord.com/users/1420629727932317747" >
+  
 ![chrome_eu1Q7xD8et](https://github.com/user-attachments/assets/0dcdb643-b0c5-4caf-8d9d-c756f5a3c7d3)
+</a>
 <div align=center>
 <!-- my-badges start -->
 <!-- my-badges end -->
