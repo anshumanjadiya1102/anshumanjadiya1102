@@ -35,6 +35,7 @@ Repos:
 * <a href="https://github.com/anshumanjadiya1102/start-here-guidelines">anshumanjadiya1102/start-here-guidelines: ★1</a>
 * <a href="https://github.com/anshumanjadiya1102/start-here">anshumanjadiya1102/start-here: ★1</a>
 * <a href="https://github.com/anshumanjadiya1102/NovaRise-SVG-text-builder-">anshumanjadiya1102/NovaRise-SVG-text-builder-: ★1</a>
+* <a href="https://github.com/yuguwduewgd/Lizard-Flick">yuguwduewgd/Lizard-Flick: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
