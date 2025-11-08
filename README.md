@@ -604,8 +604,7 @@ graph TD;
 }
 
 ```
-
-
+<img src="https://github.com/anshumanjadiya1102/anshumanjadiya1102/blob/main/metrics.svg">
 </div></p>
 </details>
 <!-- END YOUTUBE-CARDS -->
