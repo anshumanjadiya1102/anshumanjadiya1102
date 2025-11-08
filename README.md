@@ -1,4 +1,4 @@
-![chrome_eu1Q7xD8et](https://github.com/user-attachments/assets/cd767c70-ebb4-4fd3-830b-4c9d957bfe26)![chrome_eu1Q7xD8et](https://github.com/user-attachments/assets/11425883-ce26-4929-8191-5c3a1fe42e48)![chrome_eu1Q7xD8et](https://github.com/user-attachments/assets/5add002e-f0e4-496a-b67a-097f9efbf838)<p align="center">
+<p align="center">
   
 ![Anshuman Jadiya](https://github.com/user-attachments/assets/acccdcc0-851b-4b94-b4e1-8c7b354469da)
 <a name="readme-top"></a>
