@@ -104,16 +104,16 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
 
 ### Recent Activites
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/anshumanjadiya1102/anshumanjadiya1102/issues/6#issuecomment-3506472384) in [anshumanjadiya1102/anshumanjadiya1102](https://github.com/anshumanjadiya1102/anshumanjadiya1102)
-2. 🗣 Commented on [#2](https://github.com/yuguwduewgd/Snake-game-/issues/2#issuecomment-3502723255) in [yuguwduewgd/Snake-game-](https://github.com/yuguwduewgd/Snake-game-)
-3. 🗣 Commented on [#1](https://github.com/yuguwduewgd/Snake-game-/issues/1#issuecomment-3502721627) in [yuguwduewgd/Snake-game-](https://github.com/yuguwduewgd/Snake-game-)
-4. 🗣 Commented on [#7](https://github.com/anshumanjadiya1102/anshumanjadiya1102/pull/7#issuecomment-3497202860) in [anshumanjadiya1102/anshumanjadiya1102](https://github.com/anshumanjadiya1102/anshumanjadiya1102)
-5. 🗣 Commented on [#7](https://github.com/anshumanjadiya1102/anshumanjadiya1102/pull/7#issuecomment-3496668194) in [anshumanjadiya1102/anshumanjadiya1102](https://github.com/anshumanjadiya1102/anshumanjadiya1102)
-6. 💪 Opened PR [#851](undefined) in [yfosp/start-here](https://github.com/yfosp/start-here)
-7.  Labeled issue [#25](https://github.com/AlgoManiacZ/support/issues/25) in [AlgoManiacZ/support](https://github.com/AlgoManiacZ/support)
-8. ❗ Opened issue [#25](https://github.com/AlgoManiacZ/support/issues/25) in [AlgoManiacZ/support](https://github.com/AlgoManiacZ/support)
-9.  Labeled issue [#67](https://github.com/BlackTimber-Labs/join-us/issues/67) in [BlackTimber-Labs/join-us](https://github.com/BlackTimber-Labs/join-us)
-10. ❗ Opened issue [#67](https://github.com/BlackTimber-Labs/join-us/issues/67) in [BlackTimber-Labs/join-us](https://github.com/BlackTimber-Labs/join-us)
+1. 💪 Opened PR [#3](undefined) in [KushalMeghani1644/KushalMeghani1644](https://github.com/KushalMeghani1644/KushalMeghani1644)
+2. 🗣 Commented on [#6](https://github.com/anshumanjadiya1102/anshumanjadiya1102/issues/6#issuecomment-3506472384) in [anshumanjadiya1102/anshumanjadiya1102](https://github.com/anshumanjadiya1102/anshumanjadiya1102)
+3. 🗣 Commented on [#2](https://github.com/yuguwduewgd/Snake-game-/issues/2#issuecomment-3502723255) in [yuguwduewgd/Snake-game-](https://github.com/yuguwduewgd/Snake-game-)
+4. 🗣 Commented on [#1](https://github.com/yuguwduewgd/Snake-game-/issues/1#issuecomment-3502721627) in [yuguwduewgd/Snake-game-](https://github.com/yuguwduewgd/Snake-game-)
+5. 🗣 Commented on [#7](https://github.com/anshumanjadiya1102/anshumanjadiya1102/pull/7#issuecomment-3497202860) in [anshumanjadiya1102/anshumanjadiya1102](https://github.com/anshumanjadiya1102/anshumanjadiya1102)
+6. 🗣 Commented on [#7](https://github.com/anshumanjadiya1102/anshumanjadiya1102/pull/7#issuecomment-3496668194) in [anshumanjadiya1102/anshumanjadiya1102](https://github.com/anshumanjadiya1102/anshumanjadiya1102)
+7. 💪 Opened PR [#851](undefined) in [yfosp/start-here](https://github.com/yfosp/start-here)
+8.  Labeled issue [#25](https://github.com/AlgoManiacZ/support/issues/25) in [AlgoManiacZ/support](https://github.com/AlgoManiacZ/support)
+9. ❗ Opened issue [#25](https://github.com/AlgoManiacZ/support/issues/25) in [AlgoManiacZ/support](https://github.com/AlgoManiacZ/support)
+10.  Labeled issue [#67](https://github.com/BlackTimber-Labs/join-us/issues/67) in [BlackTimber-Labs/join-us](https://github.com/BlackTimber-Labs/join-us)
 <!--END_SECTION:activity-->
 
 
