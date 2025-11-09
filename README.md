@@ -104,16 +104,16 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
 
 ### Recent Activites
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/Drive-for-Java/support/issues/15#issuecomment-3507578644) in [Drive-for-Java/support](https://github.com/Drive-for-Java/support)
-2. 🔒 Closed issue [#15](https://github.com/Drive-for-Java/support/issues/15) in [Drive-for-Java/support](https://github.com/Drive-for-Java/support)
-3.  Labeled issue [#388](https://github.com/SurPathHub/support/issues/388) in [SurPathHub/support](https://github.com/SurPathHub/support)
-4. ❗ Opened issue [#388](https://github.com/SurPathHub/support/issues/388) in [SurPathHub/support](https://github.com/SurPathHub/support)
-5. ❗ Opened issue [#4](https://github.com/KushalMeghani1644/KushalMeghani1644/issues/4) in [KushalMeghani1644/KushalMeghani1644](https://github.com/KushalMeghani1644/KushalMeghani1644)
-6. 💪 Opened PR [#3](undefined) in [KushalMeghani1644/KushalMeghani1644](https://github.com/KushalMeghani1644/KushalMeghani1644)
-7. 🗣 Commented on [#6](https://github.com/anshumanjadiya1102/anshumanjadiya1102/issues/6#issuecomment-3506472384) in [anshumanjadiya1102/anshumanjadiya1102](https://github.com/anshumanjadiya1102/anshumanjadiya1102)
-8. 🗣 Commented on [#2](https://github.com/yuguwduewgd/Snake-game-/issues/2#issuecomment-3502723255) in [yuguwduewgd/Snake-game-](https://github.com/yuguwduewgd/Snake-game-)
-9. 🗣 Commented on [#1](https://github.com/yuguwduewgd/Snake-game-/issues/1#issuecomment-3502721627) in [yuguwduewgd/Snake-game-](https://github.com/yuguwduewgd/Snake-game-)
-10. 🗣 Commented on [#7](https://github.com/anshumanjadiya1102/anshumanjadiya1102/pull/7#issuecomment-3497202860) in [anshumanjadiya1102/anshumanjadiya1102](https://github.com/anshumanjadiya1102/anshumanjadiya1102)
+1. 🗣 Commented on [#102](https://github.com/Drive-for-Java/MyCMD/issues/102#issuecomment-3508444574) in [Drive-for-Java/MyCMD](https://github.com/Drive-for-Java/MyCMD)
+2. 🗣 Commented on [#102](https://github.com/Drive-for-Java/MyCMD/issues/102#issuecomment-3508444117) in [Drive-for-Java/MyCMD](https://github.com/Drive-for-Java/MyCMD)
+3. 🗣 Commented on [#102](https://github.com/Drive-for-Java/MyCMD/issues/102#issuecomment-3508440766) in [Drive-for-Java/MyCMD](https://github.com/Drive-for-Java/MyCMD)
+4.  Labeled issue [#102](https://github.com/Drive-for-Java/MyCMD/issues/102) in [Drive-for-Java/MyCMD](https://github.com/Drive-for-Java/MyCMD)
+5.  Labeled issue [#102](https://github.com/Drive-for-Java/MyCMD/issues/102) in [Drive-for-Java/MyCMD](https://github.com/Drive-for-Java/MyCMD)
+6.  Unlabeled issue [#102](https://github.com/Drive-for-Java/MyCMD/issues/102) in [Drive-for-Java/MyCMD](https://github.com/Drive-for-Java/MyCMD)
+7.  Assigned issue [#102](https://github.com/Drive-for-Java/MyCMD/issues/102) in [Drive-for-Java/MyCMD](https://github.com/Drive-for-Java/MyCMD)
+8. 🗣 Commented on [#15](https://github.com/Drive-for-Java/support/issues/15#issuecomment-3507578644) in [Drive-for-Java/support](https://github.com/Drive-for-Java/support)
+9. 🔒 Closed issue [#15](https://github.com/Drive-for-Java/support/issues/15) in [Drive-for-Java/support](https://github.com/Drive-for-Java/support)
+10.  Labeled issue [#388](https://github.com/SurPathHub/support/issues/388) in [SurPathHub/support](https://github.com/SurPathHub/support)
 <!--END_SECTION:activity-->
 
 
