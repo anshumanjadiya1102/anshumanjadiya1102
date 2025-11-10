@@ -1,5 +1,5 @@
-<img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 46 my own repositories." title="I&apos;ve starred 46 my own repositories." width="128">
-<strong>I&apos;ve starred 46 my own repositories.</strong>
+<img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 47 my own repositories." title="I&apos;ve starred 47 my own repositories." width="128">
+<strong>I&apos;ve starred 47 my own repositories.</strong>
 <br><br>
 
 - <a href="https://github.com/anshumanjadiya1102/hello-world">anshumanjadiya1102/hello-world</a>
@@ -39,7 +39,6 @@
 - <a href="https://github.com/anshumanjadiya1102/Hacktoberfest2025.">anshumanjadiya1102/Hacktoberfest2025.</a>
 - <a href="https://github.com/anshumanjadiya1102/freelance-web">anshumanjadiya1102/freelance-web</a>
 - <a href="https://github.com/anshumanjadiya1102/DSA-Patterns-and-Problems">anshumanjadiya1102/DSA-Patterns-and-Problems</a>
-- <a href="https://github.com/anshumanjadiya1102/HerHaven">anshumanjadiya1102/HerHaven</a>
 - <a href="https://github.com/anshumanjadiya1102/.github.">anshumanjadiya1102/.github.</a>
 - <a href="https://github.com/anshumanjadiya1102/hacktober-fest-2025">anshumanjadiya1102/hacktober-fest-2025</a>
 - <a href="https://github.com/anshumanjadiya1102/.github..">anshumanjadiya1102/.github..</a>
@@ -48,6 +47,8 @@
 - <a href="https://github.com/anshumanjadiya1102/start-here-guidelines">anshumanjadiya1102/start-here-guidelines</a>
 - <a href="https://github.com/anshumanjadiya1102/start-here">anshumanjadiya1102/start-here</a>
 - <a href="https://github.com/anshumanjadiya1102/NovaRise-SVG-text-builder-">anshumanjadiya1102/NovaRise-SVG-text-builder-</a>
+- <a href="https://github.com/anshumanjadiya1102/bot">anshumanjadiya1102/bot</a>
+- <a href="https://github.com/anshumanjadiya1102/MyCMD">anshumanjadiya1102/MyCMD</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
