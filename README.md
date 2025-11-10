@@ -104,16 +104,16 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
 
 ### Recent Activites
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#62](https://github.com/BrunnerLivio/brunnerlivio/issues/62#issuecomment-3509094051) in [BrunnerLivio/brunnerlivio](https://github.com/BrunnerLivio/brunnerlivio)
-2. 🔒 Closed issue [#102](https://github.com/Drive-for-Java/MyCMD/issues/102) in [Drive-for-Java/MyCMD](https://github.com/Drive-for-Java/MyCMD)
-3. ❌ Assigned PR [#103](undefined) in [Drive-for-Java/MyCMD](https://github.com/Drive-for-Java/MyCMD)
-4. ❌ Labeled PR [#103](undefined) in [Drive-for-Java/MyCMD](https://github.com/Drive-for-Java/MyCMD)
-5. ❌ Unlabeled PR [#103](undefined) in [Drive-for-Java/MyCMD](https://github.com/Drive-for-Java/MyCMD)
-6. 🗣 Commented on [#102](https://github.com/Drive-for-Java/MyCMD/issues/102#issuecomment-3508444574) in [Drive-for-Java/MyCMD](https://github.com/Drive-for-Java/MyCMD)
-7. 🗣 Commented on [#102](https://github.com/Drive-for-Java/MyCMD/issues/102#issuecomment-3508444117) in [Drive-for-Java/MyCMD](https://github.com/Drive-for-Java/MyCMD)
-8. 🗣 Commented on [#102](https://github.com/Drive-for-Java/MyCMD/issues/102#issuecomment-3508440766) in [Drive-for-Java/MyCMD](https://github.com/Drive-for-Java/MyCMD)
-9.  Labeled issue [#102](https://github.com/Drive-for-Java/MyCMD/issues/102) in [Drive-for-Java/MyCMD](https://github.com/Drive-for-Java/MyCMD)
-10.  Labeled issue [#102](https://github.com/Drive-for-Java/MyCMD/issues/102) in [Drive-for-Java/MyCMD](https://github.com/Drive-for-Java/MyCMD)
+1. 🚀 Published release [Java CMD v1.3.0](https://github.com/Drive-for-Java/MyCMD/releases/tag/v1.3.0) in [Drive-for-Java/MyCMD](https://github.com/Drive-for-Java/MyCMD)
+2. 🗣 Commented on [#105](https://github.com/Drive-for-Java/MyCMD/pull/105#issuecomment-3510333938) in [Drive-for-Java/MyCMD](https://github.com/Drive-for-Java/MyCMD)
+3. ❌ Labeled PR [#105](undefined) in [Drive-for-Java/MyCMD](https://github.com/Drive-for-Java/MyCMD)
+4. ❌ Assigned PR [#105](undefined) in [Drive-for-Java/MyCMD](https://github.com/Drive-for-Java/MyCMD)
+5. 🗣 Commented on [#62](https://github.com/BrunnerLivio/brunnerlivio/issues/62#issuecomment-3509094051) in [BrunnerLivio/brunnerlivio](https://github.com/BrunnerLivio/brunnerlivio)
+6. 🔒 Closed issue [#102](https://github.com/Drive-for-Java/MyCMD/issues/102) in [Drive-for-Java/MyCMD](https://github.com/Drive-for-Java/MyCMD)
+7. ❌ Assigned PR [#103](undefined) in [Drive-for-Java/MyCMD](https://github.com/Drive-for-Java/MyCMD)
+8. ❌ Labeled PR [#103](undefined) in [Drive-for-Java/MyCMD](https://github.com/Drive-for-Java/MyCMD)
+9. ❌ Unlabeled PR [#103](undefined) in [Drive-for-Java/MyCMD](https://github.com/Drive-for-Java/MyCMD)
+10. 🗣 Commented on [#102](https://github.com/Drive-for-Java/MyCMD/issues/102#issuecomment-3508444574) in [Drive-for-Java/MyCMD](https://github.com/Drive-for-Java/MyCMD)
 <!--END_SECTION:activity-->
 
 
