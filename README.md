@@ -162,19 +162,19 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
       <td><b>Java_Beauty_Calculator</b></td>
       <td><img src="https://img.shields.io/badge/Active-brightgreen?style=flat-square"></td> 
       <td><a href="https://github.com/anshumanjadiya1102/Java_Beauty_Calculator">🔗 Java_Beauty_Calculator</a></td> 
-      <td><a href="https://github.com/anshumanjadiya1102/Java_Beauty_Calculator"><img src="https://img.shields.io/github/stars/anshumanjadiya1102/Java_Beauty_Calculator?style=for-the-badge&logo=github" alt="stars"></a> </td> 
+      <td><a href="https://github.com/anshumanjadiya1102/Java_Beauty_Calculator"> <img src="https://img.shields.io/github/stars/anshumanjadiya1102/Java_Beauty_Calculator?style=for-the-badge&logo=github" alt="stars"> </a> </td> 
     </tr> 
     <tr> 
       <td><b>Todo-App.Java</b></td> 
       <td><img src="https://img.shields.io/badge/Active-brightgreen?style=flat-square"></td> 
       <td><a href="https://github.com/anshumanjadiya1102/Todo-App.java">🔗 Todo-App.java</a></td> 
-      <td><a href="https://github.com/anshumanjadiya1102/Todo-App.java"><img src="https://img.shields.io/github/stars/anshumanjadiya1102/Todo-App.java?style=for-the-badge&logo=github" alt="stars"></a></td> 
+      <td><a href="https://github.com/anshumanjadiya1102/Todo-App.java"> <img src="https://img.shields.io/github/stars/anshumanjadiya1102/Todo-App.java?style=for-the-badge&logo=github" alt="stars"> </a></td> 
     </tr> 
     <tr> 
       <td><b>Number-Guessing-Game</b></td> 
       <td><img src="https://img.shields.io/badge/Active-brightgreen?style=flat-square"></td> 
       <td><a href="https://github.com/anshumanjadiya1102/Number-Guessing-Game">🔗 Number-Guessing-Game</a></td> 
-      <td><a href="https://github.com/anshumanjadiya1102/Number-Guessing-Game"><img src="https://img.shields.io/github/stars/anshumanjadiya1102/Number-Guessing-Game?style=for-the-badge&logo=github" alt="stars"></a></td> 
+      <td><a href="https://github.com/anshumanjadiya1102/Number-Guessing-Game"> <img src="https://img.shields.io/github/stars/anshumanjadiya1102/Number-Guessing-Game?style=for-the-badge&logo=github" alt="stars"> </a></td> 
     </tr> 
     <tr> 
       <td><b>Football_Game</b></td> 
