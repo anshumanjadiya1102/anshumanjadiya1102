@@ -7,11 +7,11 @@ Repos:
 * <a href="https://github.com/anshumanjadiya1102/first-contributions">anshumanjadiya1102/first-contributions: ★10</a>
 * <a href="https://github.com/anshumanjadiya1102/my-app">anshumanjadiya1102/my-app: ★9</a>
 * <a href="https://github.com/anshumanjadiya1102/J-cs">anshumanjadiya1102/J-cs: ★9</a>
+* <a href="https://github.com/yuguwduewgd/yuguwduewgd">yuguwduewgd/yuguwduewgd: ★6</a>
 * <a href="https://github.com/anshumanjadiya1102/GitHub-Organization-Worldwide">anshumanjadiya1102/GitHub-Organization-Worldwide: ★6</a>
 * <a href="https://github.com/anshumanjadiya1102/WeatherApp">anshumanjadiya1102/WeatherApp: ★6</a>
 * <a href="https://github.com/anshumanjadiya1102/GitHubAssistant">anshumanjadiya1102/GitHubAssistant: ★6</a>
 * <a href="https://github.com/anshumanjadiya1102/JavaHelperApp">anshumanjadiya1102/JavaHelperApp: ★6</a>
-* <a href="https://github.com/yuguwduewgd/yuguwduewgd">yuguwduewgd/yuguwduewgd: ★5</a>
 * <a href="https://github.com/anshumanjadiya1102/DonutJava">anshumanjadiya1102/DonutJava: ★5</a>
 * <a href="https://github.com/anshumanjadiya1102/copyparty">anshumanjadiya1102/copyparty: ★3</a>
 * <a href="https://github.com/anshumanjadiya1102/JavaFX-learning">anshumanjadiya1102/JavaFX-learning: ★3</a>
@@ -27,14 +27,15 @@ Repos:
 * <a href="https://github.com/anshumanjadiya1102/.github..">anshumanjadiya1102/.github..: ★2</a>
 * <a href="https://github.com/anshumanjadiya1102/hacktober-fest-2025">anshumanjadiya1102/hacktober-fest-2025: ★2</a>
 * <a href="https://github.com/anshumanjadiya1102/Web-Dev-Mini-Projects">anshumanjadiya1102/Web-Dev-Mini-Projects: ★2</a>
-* <a href="https://github.com/anshumanjadiya1102/MyCMD">anshumanjadiya1102/MyCMD: ★2</a>
 * <a href="https://github.com/anshumanjadiya1102/bot">anshumanjadiya1102/bot: ★2</a>
+* <a href="https://github.com/yuguwduewgd/Lizard-Flick">yuguwduewgd/Lizard-Flick: ★2</a>
 * <a href="https://github.com/anshumanjadiya1102/introduction-to-git-and-github-ebook">anshumanjadiya1102/introduction-to-git-and-github-ebook: ★1</a>
 * <a href="https://github.com/anshumanjadiya1102/opensocial">anshumanjadiya1102/opensocial: ★1</a>
 * <a href="https://github.com/anshumanjadiya1102/start-here-guidelines">anshumanjadiya1102/start-here-guidelines: ★1</a>
 * <a href="https://github.com/anshumanjadiya1102/start-here">anshumanjadiya1102/start-here: ★1</a>
 * <a href="https://github.com/anshumanjadiya1102/NovaRise-SVG-text-builder-">anshumanjadiya1102/NovaRise-SVG-text-builder-: ★1</a>
-* <a href="https://github.com/yuguwduewgd/Lizard-Flick">yuguwduewgd/Lizard-Flick: ★1</a>
+* <a href="https://github.com/Magic-Academy/MyCMD">Magic-Academy/MyCMD: ★1</a>
+* <a href="https://github.com/anshumanjadiya1102/MyCMD">anshumanjadiya1102/MyCMD: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
