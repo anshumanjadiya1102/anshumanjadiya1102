@@ -103,18 +103,8 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
 > To express my gratitude for your support and love, I have prepared a small gift for you. Click on the icon! <a href="https://anshumanjadiya1102.github.io/games" target="_blank"><img align="right" src="https://charmve.github.io/sponsor_files/playagame.png" alt="Play a Game with Me" width="180px"></a>
 
 ### Recent Activites
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#110](https://github.com/Drive-for-Java/MyCMD/pull/110#issuecomment-3517316473) in [Drive-for-Java/MyCMD](https://github.com/Drive-for-Java/MyCMD)
-2.  Assigned issue [#109](https://github.com/Drive-for-Java/MyCMD/issues/109) in [Drive-for-Java/MyCMD](https://github.com/Drive-for-Java/MyCMD)
-3.  Assigned issue [#109](https://github.com/Drive-for-Java/MyCMD/issues/109) in [Drive-for-Java/MyCMD](https://github.com/Drive-for-Java/MyCMD)
-4. 🗣 Commented on [#110](https://github.com/Drive-for-Java/MyCMD/pull/110#issuecomment-3515891729) in [Drive-for-Java/MyCMD](https://github.com/Drive-for-Java/MyCMD)
-5. 🗣 Commented on [#110](https://github.com/Drive-for-Java/MyCMD/pull/110#issuecomment-3515824657) in [Drive-for-Java/MyCMD](https://github.com/Drive-for-Java/MyCMD)
-6. 🗣 Commented on [#109](https://github.com/Drive-for-Java/MyCMD/issues/109#issuecomment-3514608426) in [Drive-for-Java/MyCMD](https://github.com/Drive-for-Java/MyCMD)
-7. 💪 Opened PR [#108](undefined) in [Drive-for-Java/MyCMD](https://github.com/Drive-for-Java/MyCMD)
-8. 🔒 Closed issue [#104](https://github.com/Drive-for-Java/MyCMD/issues/104) in [Drive-for-Java/MyCMD](https://github.com/Drive-for-Java/MyCMD)
-9. 🗣 Commented on [#106](https://github.com/Drive-for-Java/MyCMD/pull/106#issuecomment-3510784177) in [Drive-for-Java/MyCMD](https://github.com/Drive-for-Java/MyCMD)
-10. 🗣 Commented on [#6](https://github.com/TheSnappy-Dev/Resume-Generator/issues/6#issuecomment-3510506596) in [TheSnappy-Dev/Resume-Generator](https://github.com/TheSnappy-Dev/Resume-Generator)
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 
 
 ![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
