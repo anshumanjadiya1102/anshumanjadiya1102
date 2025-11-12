@@ -103,8 +103,8 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
 > To express my gratitude for your support and love, I have prepared a small gift for you. Click on the icon! <a href="https://anshumanjadiya1102.github.io/games" target="_blank"><img align="right" src="https://charmve.github.io/sponsor_files/playagame.png" alt="Play a Game with Me" width="180px"></a>
 
 ### Recent Activites
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 
 ![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
