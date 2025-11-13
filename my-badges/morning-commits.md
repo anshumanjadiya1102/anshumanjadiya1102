@@ -4,12 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/anshumanjadiya1102/anshumanjadiya1102/commit/6e140d2dc3dade9c708247ecc6fffbb671db048c">6e140d2</a>
+- <a href="https://github.com/anshumanjadiya1102/anshumanjadiya1102/commit/5e4123916b2bbd18b07a0e088fe395bea5995be0">5e41239</a>
+- <a href="https://github.com/anshumanjadiya1102/anshumanjadiya1102/commit/58667bf377a0c11b83b8d2df8d8128e8446f09e1">58667bf</a>
+- <a href="https://github.com/anshumanjadiya1102/anshumanjadiya1102/commit/e6dc3dad042a693a107d16c1ee0975f33912e2e0">e6dc3da</a>
 - <a href="https://github.com/anshumanjadiya1102/MyCMD/commit/deeb1eeb7acd5b8788e612a75265e235b99fcd4f">deeb1ee</a>
 - <a href="https://github.com/Magic-Academy/MyCMD/commit/deeb1eeb7acd5b8788e612a75265e235b99fcd4f">deeb1ee</a>
-- <a href="https://github.com/anshumanjadiya1102/MyCMD/commit/8b9c5b78d74378f17768a857e087e7118e6434c1">8b9c5b7</a>
-- <a href="https://github.com/Magic-Academy/MyCMD/commit/8b9c5b78d74378f17768a857e087e7118e6434c1">8b9c5b7</a>
-- <a href="https://github.com/anshumanjadiya1102/MyCMD/commit/00e06aa4a20d0c36e189402106ac472406a2014c">00e06aa</a>
-- <a href="https://github.com/Magic-Academy/MyCMD/commit/00e06aa4a20d0c36e189402106ac472406a2014c">00e06aa</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
