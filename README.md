@@ -38,7 +38,6 @@ Frontend and Web developer
       <td><b>👀 Profile Views</b></td>
       <td><b>👤 Followers</b></td>
       <td><b>🌟 Stars</b></td>
-      <td><b>🔔 Pull Requests</b></td>
       <td><b>✅ Awesome</b></td>
     </tr>
   </thead>
@@ -56,11 +55,6 @@ Frontend and Web developer
       <td>
         <a href="https://github.com/anshumanjadiya1102">
           <img src="https://img.shields.io/github/stars/anshumanjadiya1102?label=Stars&style=social" alt="GitHub Stars"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/anshumanjadiya1102/Opensource-practice/pulls">
-          <img src="https://img.shields.io/github/issues-pr/recodehive/Opensource-practice" alt="Pull Requests Badge"/>
         </a>
       </td>
       <td>
