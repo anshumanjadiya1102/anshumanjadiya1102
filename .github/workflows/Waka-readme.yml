@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: '0 0 * * *' # runs once daily
   workflow_dispatch:
+  
+permissions:
+  contents: write
 
 jobs:
   update-readme:
