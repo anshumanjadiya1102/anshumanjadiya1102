@@ -36,6 +36,7 @@ Repos:
 * <a href="https://github.com/anshumanjadiya1102/KushalMeghani1644">anshumanjadiya1102/KushalMeghani1644: ★1</a>
 * <a href="https://github.com/Magic-Academy/MyCMD">Magic-Academy/MyCMD: ★1</a>
 * <a href="https://github.com/anshumanjadiya1102/MyCMD">anshumanjadiya1102/MyCMD: ★1</a>
+* <a href="https://github.com/anshumanjadiya1102/gitanimals">anshumanjadiya1102/gitanimals: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
