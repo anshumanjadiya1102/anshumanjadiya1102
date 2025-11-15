@@ -34,7 +34,6 @@ Repos:
 * <a href="https://github.com/anshumanjadiya1102/start-here-guidelines">anshumanjadiya1102/start-here-guidelines: ★1</a>
 * <a href="https://github.com/anshumanjadiya1102/start-here">anshumanjadiya1102/start-here: ★1</a>
 * <a href="https://github.com/anshumanjadiya1102/KushalMeghani1644">anshumanjadiya1102/KushalMeghani1644: ★1</a>
-* <a href="https://github.com/Magic-Academy/MyCMD">Magic-Academy/MyCMD: ★1</a>
 * <a href="https://github.com/anshumanjadiya1102/MyCMD">anshumanjadiya1102/MyCMD: ★1</a>
 * <a href="https://github.com/anshumanjadiya1102/gitanimals">anshumanjadiya1102/gitanimals: ★1</a>
 
