@@ -98,16 +98,16 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
 
 ### Recent Activites
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](undefined) in [azfar-2/Darius-2-Error](https://github.com/azfar-2/Darius-2-Error)
-2. 🚀 Published release [New](https://github.com/anshumanjadiya1102/Darius-2-Error/releases/tag/v1.0.0) in [anshumanjadiya1102/Darius-2-Error](https://github.com/anshumanjadiya1102/Darius-2-Error)
-3. 🗣 Commented on [#450](https://github.com/git-goods/gitanimals/pull/450#issuecomment-3532239052) in [git-goods/gitanimals](https://github.com/git-goods/gitanimals)
-4. 🗣 Commented on [#451](https://github.com/git-goods/gitanimals/issues/451#issuecomment-3530479138) in [git-goods/gitanimals](https://github.com/git-goods/gitanimals)
-5. ❗ Opened issue [#451](https://github.com/git-goods/gitanimals/issues/451) in [git-goods/gitanimals](https://github.com/git-goods/gitanimals)
-6. 💪 Opened PR [#450](undefined) in [git-goods/gitanimals](https://github.com/git-goods/gitanimals)
-7. 🚀 Published release [New](https://github.com/anshumanjadiya1102/gitanimals/releases/tag/v1.0.0) in [anshumanjadiya1102/gitanimals](https://github.com/anshumanjadiya1102/gitanimals)
-8. 🗣 Commented on [#1](https://github.com/JayantGoel001/JayantGoel001/issues/1#issuecomment-3527208458) in [JayantGoel001/JayantGoel001](https://github.com/JayantGoel001/JayantGoel001)
-9. 🗣 Commented on [#16](https://github.com/Drive-for-Java/support/issues/16#issuecomment-3526308663) in [Drive-for-Java/support](https://github.com/Drive-for-Java/support)
-10. ❌ Unlabeled PR [#113](undefined) in [Drive-for-Java/MyCMD](https://github.com/Drive-for-Java/MyCMD)
+1. 💪 Opened PR [#2](undefined) in [azfar-2/Darius-2-Error](https://github.com/azfar-2/Darius-2-Error)
+2. 💪 Opened PR [#1](undefined) in [azfar-2/Darius-2-Error](https://github.com/azfar-2/Darius-2-Error)
+3. 🚀 Published release [New](https://github.com/anshumanjadiya1102/Darius-2-Error/releases/tag/v1.0.0) in [anshumanjadiya1102/Darius-2-Error](https://github.com/anshumanjadiya1102/Darius-2-Error)
+4. 🗣 Commented on [#450](https://github.com/git-goods/gitanimals/pull/450#issuecomment-3532239052) in [git-goods/gitanimals](https://github.com/git-goods/gitanimals)
+5. 🗣 Commented on [#451](https://github.com/git-goods/gitanimals/issues/451#issuecomment-3530479138) in [git-goods/gitanimals](https://github.com/git-goods/gitanimals)
+6. ❗ Opened issue [#451](https://github.com/git-goods/gitanimals/issues/451) in [git-goods/gitanimals](https://github.com/git-goods/gitanimals)
+7. 💪 Opened PR [#450](undefined) in [git-goods/gitanimals](https://github.com/git-goods/gitanimals)
+8. 🚀 Published release [New](https://github.com/anshumanjadiya1102/gitanimals/releases/tag/v1.0.0) in [anshumanjadiya1102/gitanimals](https://github.com/anshumanjadiya1102/gitanimals)
+9. 🗣 Commented on [#1](https://github.com/JayantGoel001/JayantGoel001/issues/1#issuecomment-3527208458) in [JayantGoel001/JayantGoel001](https://github.com/JayantGoel001/JayantGoel001)
+10. 🗣 Commented on [#16](https://github.com/Drive-for-Java/support/issues/16#issuecomment-3526308663) in [Drive-for-Java/support](https://github.com/Drive-for-Java/support)
 <!--END_SECTION:activity-->
 
 
