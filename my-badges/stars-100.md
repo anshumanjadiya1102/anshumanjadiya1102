@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/yuguwduewgd/yuguwduewgd">yuguwduewgd/yuguwduewgd: ★9</a>
+* <a href="https://github.com/anshumanjadiya1102/first-contributions">anshumanjadiya1102/first-contributions: ★10</a>
 * <a href="https://github.com/anshumanjadiya1102/my-app">anshumanjadiya1102/my-app: ★9</a>
 * <a href="https://github.com/anshumanjadiya1102/J-cs">anshumanjadiya1102/J-cs: ★9</a>
 * <a href="https://github.com/anshumanjadiya1102/GitHub-Organization-Worldwide">anshumanjadiya1102/GitHub-Organization-Worldwide: ★6</a>
