@@ -4,18 +4,16 @@
 
 Repos:
 
-* <a href="https://github.com/anshumanjadiya1102/anshumanjadiya1102.github.io">anshumanjadiya1102/anshumanjadiya1102.github.io: ★7</a>
-* <a href="https://github.com/anshumanjadiya1102/Java-Analyzer">anshumanjadiya1102/Java-Analyzer: ★5</a>
-* <a href="https://github.com/anshumanjadiya1102/Welcome-to-Bauddhik-Geeks">anshumanjadiya1102/Welcome-to-Bauddhik-Geeks: ★5</a>
-* <a href="https://github.com/anshumanjadiya1102/LauraAllObe">anshumanjadiya1102/LauraAllObe: ★5</a>
-* <a href="https://github.com/anshumanjadiya1102/first-contributions">anshumanjadiya1102/first-contributions: ★5</a>
-* <a href="https://github.com/anshumanjadiya1102/GitHub-Organization-Worldwide">anshumanjadiya1102/GitHub-Organization-Worldwide: ★5</a>
-* <a href="https://github.com/anshumanjadiya1102/WeatherApp">anshumanjadiya1102/WeatherApp: ★5</a>
-* <a href="https://github.com/anshumanjadiya1102/GitHubAssistant">anshumanjadiya1102/GitHubAssistant: ★5</a>
-* <a href="https://github.com/anshumanjadiya1102/JavaHelperApp">anshumanjadiya1102/JavaHelperApp: ★5</a>
-* <a href="https://github.com/anshumanjadiya1102/my-app">anshumanjadiya1102/my-app: ★4</a>
-* <a href="https://github.com/anshumanjadiya1102/J-cs">anshumanjadiya1102/J-cs: ★4</a>
-* <a href="https://github.com/anshumanjadiya1102/DonutJava">anshumanjadiya1102/DonutJava: ★4</a>
+* <a href="https://github.com/anshumanjadiya1102/Welcome-to-Bauddhik-Geeks">anshumanjadiya1102/Welcome-to-Bauddhik-Geeks: ★6</a>
+* <a href="https://github.com/anshumanjadiya1102/LauraAllObe">anshumanjadiya1102/LauraAllObe: ★6</a>
+* <a href="https://github.com/anshumanjadiya1102/first-contributions">anshumanjadiya1102/first-contributions: ★6</a>
+* <a href="https://github.com/anshumanjadiya1102/GitHub-Organization-Worldwide">anshumanjadiya1102/GitHub-Organization-Worldwide: ★6</a>
+* <a href="https://github.com/anshumanjadiya1102/WeatherApp">anshumanjadiya1102/WeatherApp: ★6</a>
+* <a href="https://github.com/anshumanjadiya1102/GitHubAssistant">anshumanjadiya1102/GitHubAssistant: ★6</a>
+* <a href="https://github.com/anshumanjadiya1102/JavaHelperApp">anshumanjadiya1102/JavaHelperApp: ★6</a>
+* <a href="https://github.com/anshumanjadiya1102/my-app">anshumanjadiya1102/my-app: ★5</a>
+* <a href="https://github.com/anshumanjadiya1102/J-cs">anshumanjadiya1102/J-cs: ★5</a>
+* <a href="https://github.com/anshumanjadiya1102/DonutJava">anshumanjadiya1102/DonutJava: ★5</a>
 * <a href="https://github.com/anshumanjadiya1102/copyparty">anshumanjadiya1102/copyparty: ★3</a>
 * <a href="https://github.com/anshumanjadiya1102/JavaFX-learning">anshumanjadiya1102/JavaFX-learning: ★3</a>
 * <a href="https://github.com/anshumanjadiya1102/-.github">anshumanjadiya1102/-.github: ★3</a>
