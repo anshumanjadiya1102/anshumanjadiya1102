@@ -98,8 +98,8 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
 
 ### Recent Activites
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#24](https://github.com/Drive-for-Java/support/issues/24) in [Drive-for-Java/support](https://github.com/Drive-for-Java/support)
-2. 🗣 Commented on [#24](https://github.com/Drive-for-Java/support/issues/24#issuecomment-3641596370) in [Drive-for-Java/support](https://github.com/Drive-for-Java/support)
+1. 🗣 Commented on [#29](https://github.com/Drive-for-Java/support/issues/29#issuecomment-3734363282) in [Drive-for-Java/support](https://github.com/Drive-for-Java/support)
+2. 🔒 Closed issue [#29](https://github.com/Drive-for-Java/support/issues/29) in [Drive-for-Java/support](https://github.com/Drive-for-Java/support)
 3. 🔒 Closed issue [#25](https://github.com/Drive-for-Java/support/issues/25) in [Drive-for-Java/support](https://github.com/Drive-for-Java/support)
 4. 🗣 Commented on [#25](https://github.com/Drive-for-Java/support/issues/25#issuecomment-3641592874) in [Drive-for-Java/support](https://github.com/Drive-for-Java/support)
 5. 🔒 Closed issue [#91](https://github.com/Drive-for-Java/MyCMD/issues/91) in [Drive-for-Java/MyCMD](https://github.com/Drive-for-Java/MyCMD)
