@@ -215,17 +215,17 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)<br>
 <img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Jokes Card" align="right" width="300" height="180"/>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-72%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-73%20hrs%2036%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-50.02%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-50.04%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 228.5 kB Used in GitHub's Storage 
+> 📦 229.8 kB Used in GitHub's Storage 
  > 
-> 🏆 7 Contributions in the Year 2026
+> 🏆 8 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -236,20 +236,20 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                229 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
-🌆 Daytime                1681 commits        ████████████████░░░░░░░░░   65.82 % 
-🌃 Evening                644 commits         ██████░░░░░░░░░░░░░░░░░░░   25.22 % 
+🌞 Morning                230 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+🌆 Daytime                1681 commits        ████████████████░░░░░░░░░   65.79 % 
+🌃 Evening                644 commits         ██████░░░░░░░░░░░░░░░░░░░   25.21 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   946 commits         █████████░░░░░░░░░░░░░░░░   37.04 % 
+Monday                   946 commits         █████████░░░░░░░░░░░░░░░░   37.03 % 
 Tuesday                  175 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
 Wednesday                256 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
 Thursday                 260 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
-Friday                   254 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
-Saturday                 345 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Friday                   254 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+Saturday                 346 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
 Sunday                   318 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
 ```
 
@@ -260,18 +260,18 @@ Sunday                   318 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    2 hrs 3 mins        ██████████████████░░░░░░░   72.53 % 
-Markdown                 46 mins             ███████░░░░░░░░░░░░░░░░░░   27.47 % 
+Other                    2 hrs 24 mins       █████████████████████░░░░   84.12 % 
+Markdown                 27 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
 
 🔥 Editors: 
-Chrome                   2 hrs 50 mins       █████████████████████████   100.00 % 
+Chrome                   2 hrs 51 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-anshumanjadiya1102       1 hr 8 mins         ██████████░░░░░░░░░░░░░░░   40.05 % 
-AyushKatre05             44 mins             ██████░░░░░░░░░░░░░░░░░░░   25.88 % 
-community                19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-joomla-websites          15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
-metrics                  10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+anshumanjadiya1102       1 hr 8 mins         ██████████░░░░░░░░░░░░░░░   39.89 % 
+eduVibe                  23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+MyCMD                    21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+community                19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+joomla-websites          15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
 ```
 
 **I Mostly Code in Java** 
@@ -291,7 +291,7 @@ Python                   5 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/anshumanjadiya1102/anshumanjadiya1102/main/assets/bar_graph.png)
 
 
- Last Updated on 10/01/2026 02:41:44 UTC
+ Last Updated on 12/01/2026 02:53:24 UTC
 <!--END_SECTION:waka-->
 <br><br><br><br><br>
 <div align=center>
