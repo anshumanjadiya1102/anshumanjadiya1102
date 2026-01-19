@@ -1,5 +1,6 @@
 <p align="center">
   
+[PPT](https://docs.google.com/presentation/d/1cp_D6IobxL3K4uury5pmnOmOnLM0q5pB4RV1n3rIfbA/edit?slide=id.p#slide=id.p)  
 ![Anshuman Jadiya](https://github.com/user-attachments/assets/acccdcc0-851b-4b94-b4e1-8c7b354469da)
 <a name="readme-top"></a>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello+Every+GitHub+Souls!!&height=100&section=header"/>
