@@ -216,17 +216,15 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)<br>
 <img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Jokes Card" align="right" width="300" height="180"/>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-76%20hrs%2057%20mins-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-151-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-158-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-51.77%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-51.80%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 231.2 kB Used in GitHub's Storage 
+> 📦 232.5 kB Used in GitHub's Storage 
  > 
-> 🏆 21 Contributions in the Year 2026
+> 🏆 22 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -237,20 +235,20 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                240 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-🌆 Daytime                1702 commits        ████████████████░░░░░░░░░   65.66 % 
-🌃 Evening                650 commits         ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
+🌞 Morning                241 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+🌆 Daytime                1702 commits        ████████████████░░░░░░░░░   65.64 % 
+🌃 Evening                650 commits         ██████░░░░░░░░░░░░░░░░░░░   25.07 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   949 commits         █████████░░░░░░░░░░░░░░░░   36.61 % 
+Monday                   949 commits         █████████░░░░░░░░░░░░░░░░   36.60 % 
 Tuesday                  176 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
 Wednesday                265 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
 Thursday                 266 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-Friday                   256 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-Saturday                 358 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
+Friday                   256 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+Saturday                 359 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
 Sunday                   322 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
 ```
 
@@ -261,18 +259,18 @@ Sunday                   322 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    19 mins             ████████████████████░░░░░   79.56 % 
-HTML                     4 mins              █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
+Other                    18 mins             ████████████████████░░░░░   80.10 % 
+HTML                     4 mins              █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
 
 🔥 Editors: 
-Chrome                   24 mins             █████████████████████████   100.00 % 
+Chrome                   23 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-github-profile-trophy    20 mins             █████████████████████░░░░   84.82 % 
-NextCommunity.github.io  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
-support                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
-MyCMD                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
-brunnerlivio             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+github-profile-trophy    20 mins             █████████████████████░░░░   85.80 % 
+NextCommunity.github.io  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+support                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+MyCMD                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+Twitter-Sentiment-Analysi0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 ```
 
 **I Mostly Code in Java** 
@@ -292,7 +290,7 @@ Python                   5 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/anshumanjadiya1102/anshumanjadiya1102/main/assets/bar_graph.png)
 
 
- Last Updated on 31/01/2026 03:01:04 UTC
+ Last Updated on 02/02/2026 03:20:44 UTC
 <!--END_SECTION:waka-->
 <br><br><br><br><br>
 <div align=center>
