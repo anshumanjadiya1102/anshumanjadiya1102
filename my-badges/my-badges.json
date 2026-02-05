@@ -31,7 +31,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 596 times)\n2. readme.md (used 478 times)\n3. add (used 214 times)\n4. pull (used 167 times)\n5. updated (used 144 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 580 times)\n2. readme.md (used 474 times)\n3. add (used 162 times)\n4. readme (used 127 times)\n5. updated (used 126 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -101,7 +101,7 @@
     "id": "spooky-commit",
     "tier": 0,
     "desc": "I committed on the Halloween! Boo!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/anshumanjadiya1102/anshumanjadiya1102/commit/65e700d5c97caab68867995a714447c0a0174300\">65e700d</a>\n- <a href=\"https://github.com/anshumanjadiya1102/MyCMD/commit/deeb1eeb7acd5b8788e612a75265e235b99fcd4f\">deeb1ee</a>\n- <a href=\"https://github.com/Magic-Academy/MyCMD/commit/deeb1eeb7acd5b8788e612a75265e235b99fcd4f\">deeb1ee</a>\n- <a href=\"https://github.com/anshumanjadiya1102/MyCMD/commit/8b9c5b78d74378f17768a857e087e7118e6434c1\">8b9c5b7</a>\n- <a href=\"https://github.com/Magic-Academy/MyCMD/commit/8b9c5b78d74378f17768a857e087e7118e6434c1\">8b9c5b7</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/anshumanjadiya1102/anshumanjadiya1102/commit/65e700d5c97caab68867995a714447c0a0174300\">65e700d</a>\n- <a href=\"https://github.com/anshumanjadiya1102/MyCMD/commit/deeb1eeb7acd5b8788e612a75265e235b99fcd4f\">deeb1ee</a>\n- <a href=\"https://github.com/anshumanjadiya1102/MyCMD/commit/8b9c5b78d74378f17768a857e087e7118e6434c1\">8b9c5b7</a>",
     "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
   },
   {
