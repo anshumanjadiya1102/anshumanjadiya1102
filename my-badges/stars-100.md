@@ -4,6 +4,7 @@
 
 Repos:
 
+* <a href="https://github.com/anshumanjadiya1102/GitHubAssistant">anshumanjadiya1102/GitHubAssistant: ★6</a>
 * <a href="https://github.com/anshumanjadiya1102/JavaHelperApp">anshumanjadiya1102/JavaHelperApp: ★6</a>
 * <a href="https://github.com/anshumanjadiya1102/hello-world">anshumanjadiya1102/hello-world: ★5</a>
 * <a href="https://github.com/anshumanjadiya1102/Number-GuessingGame">anshumanjadiya1102/Number-GuessingGame: ★5</a>
@@ -11,7 +12,6 @@ Repos:
 * <a href="https://github.com/anshumanjadiya1102/Todo-App.java">anshumanjadiya1102/Todo-App.java: ★5</a>
 * <a href="https://github.com/anshumanjadiya1102/All-GitHub-">anshumanjadiya1102/All-GitHub-: ★5</a>
 * <a href="https://github.com/anshumanjadiya1102/randymcmillan">anshumanjadiya1102/randymcmillan: ★5</a>
-* <a href="https://github.com/anshumanjadiya1102/ai-agents-for-beginners">anshumanjadiya1102/ai-agents-for-beginners: ★5</a>
 * <a href="https://github.com/anshumanjadiya1102/vscode-maven">anshumanjadiya1102/vscode-maven: ★5</a>
 * <a href="https://github.com/anshumanjadiya1102/my-app">anshumanjadiya1102/my-app: ★5</a>
 * <a href="https://github.com/anshumanjadiya1102/J-cs">anshumanjadiya1102/J-cs: ★5</a>
