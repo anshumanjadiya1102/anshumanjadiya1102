@@ -12,7 +12,6 @@ Repos:
 * <a href="https://github.com/anshumanjadiya1102/Todo-App.java">anshumanjadiya1102/Todo-App.java: ★5</a>
 * <a href="https://github.com/anshumanjadiya1102/All-GitHub-">anshumanjadiya1102/All-GitHub-: ★5</a>
 * <a href="https://github.com/anshumanjadiya1102/randymcmillan">anshumanjadiya1102/randymcmillan: ★5</a>
-* <a href="https://github.com/anshumanjadiya1102/vscode-maven">anshumanjadiya1102/vscode-maven: ★5</a>
 * <a href="https://github.com/anshumanjadiya1102/my-app">anshumanjadiya1102/my-app: ★5</a>
 * <a href="https://github.com/anshumanjadiya1102/J-cs">anshumanjadiya1102/J-cs: ★5</a>
 * <a href="https://github.com/anshumanjadiya1102/DonutJava">anshumanjadiya1102/DonutJava: ★5</a>
@@ -32,13 +31,14 @@ Repos:
 * <a href="https://github.com/anshumanjadiya1102/Web-Dev-Mini-Projects">anshumanjadiya1102/Web-Dev-Mini-Projects: ★2</a>
 * <a href="https://github.com/anshumanjadiya1102/bot">anshumanjadiya1102/bot: ★2</a>
 * <a href="https://github.com/anshumanjadiya1102/NovaRise-SVG-text-builder-">anshumanjadiya1102/NovaRise-SVG-text-builder-: ★2</a>
+* <a href="https://github.com/anshumanjadiya1102/gitanimals">anshumanjadiya1102/gitanimals: ★2</a>
 * <a href="https://github.com/anshumanjadiya1102/introduction-to-git-and-github-ebook">anshumanjadiya1102/introduction-to-git-and-github-ebook: ★1</a>
 * <a href="https://github.com/anshumanjadiya1102/opensocial">anshumanjadiya1102/opensocial: ★1</a>
 * <a href="https://github.com/anshumanjadiya1102/start-here-guidelines">anshumanjadiya1102/start-here-guidelines: ★1</a>
 * <a href="https://github.com/anshumanjadiya1102/start-here">anshumanjadiya1102/start-here: ★1</a>
 * <a href="https://github.com/anshumanjadiya1102/KushalMeghani1644">anshumanjadiya1102/KushalMeghani1644: ★1</a>
 * <a href="https://github.com/anshumanjadiya1102/MyCMD">anshumanjadiya1102/MyCMD: ★1</a>
-* <a href="https://github.com/anshumanjadiya1102/gitanimals">anshumanjadiya1102/gitanimals: ★1</a>
+* <a href="https://github.com/anshumanjadiya1102/Darius-2-Error">anshumanjadiya1102/Darius-2-Error: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
