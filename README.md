@@ -99,15 +99,15 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
 
 ### Recent Activites
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#32](https://github.com/Drive-for-Java/support/issues/32) in [Drive-for-Java/support](https://github.com/Drive-for-Java/support)
-2. 🗣 Commented on [#32](https://github.com/Drive-for-Java/support/issues/32#issuecomment-3882756911) in [Drive-for-Java/support](https://github.com/Drive-for-Java/support)
-3. 🗣 Commented on [#31](https://github.com/Drive-for-Java/support/issues/31#issuecomment-3846939842) in [Drive-for-Java/support](https://github.com/Drive-for-Java/support)
-4. 🔒 Closed issue [#31](https://github.com/Drive-for-Java/support/issues/31) in [Drive-for-Java/support](https://github.com/Drive-for-Java/support)
-5. 🔒 Closed issue [#30](https://github.com/Drive-for-Java/support/issues/30) in [Drive-for-Java/support](https://github.com/Drive-for-Java/support)
-6. 🗣 Commented on [#30](https://github.com/Drive-for-Java/support/issues/30#issuecomment-3817928565) in [Drive-for-Java/support](https://github.com/Drive-for-Java/support)
-7. 🗣 Commented on [#30](https://github.com/Drive-for-Java/support/issues/30#issuecomment-3817467044) in [Drive-for-Java/support](https://github.com/Drive-for-Java/support)
-8. 🔒 Closed issue [#20](https://github.com/Drive-for-Java/support/issues/20) in [Drive-for-Java/support](https://github.com/Drive-for-Java/support)
-9. 🗣 Commented on [#21](https://github.com/Drive-for-Java/support/issues/21#issuecomment-3575218783) in [Drive-for-Java/support](https://github.com/Drive-for-Java/support)
+1. ℹ️ Unlabeled PR [#1](https://github.com/Drive-for-Java/Drive-for-java.github.io/pull/1) in [Drive-for-Java/Drive-for-java.github.io](https://github.com/Drive-for-Java/Drive-for-java.github.io)
+2. ℹ️ Labeled PR [#1](https://github.com/Drive-for-Java/Drive-for-java.github.io/pull/1) in [Drive-for-Java/Drive-for-java.github.io](https://github.com/Drive-for-Java/Drive-for-java.github.io)
+3. ℹ️ Labeled PR [#1](https://github.com/Drive-for-Java/Drive-for-java.github.io/pull/1) in [Drive-for-Java/Drive-for-java.github.io](https://github.com/Drive-for-Java/Drive-for-java.github.io)
+4. ℹ️ Assigned PR [#1](https://github.com/Drive-for-Java/Drive-for-java.github.io/pull/1) in [Drive-for-Java/Drive-for-java.github.io](https://github.com/Drive-for-Java/Drive-for-java.github.io)
+5. ℹ️ Assigned PR [#1](https://github.com/Drive-for-Java/Drive-for-java.github.io/pull/1) in [Drive-for-Java/Drive-for-java.github.io](https://github.com/Drive-for-Java/Drive-for-java.github.io)
+6. 🔒 Closed issue [#32](https://github.com/Drive-for-Java/support/issues/32) in [Drive-for-Java/support](https://github.com/Drive-for-Java/support)
+7. 🗣 Commented on [#32](https://github.com/Drive-for-Java/support/issues/32#issuecomment-3882756911) in [Drive-for-Java/support](https://github.com/Drive-for-Java/support)
+8. 🗣 Commented on [#31](https://github.com/Drive-for-Java/support/issues/31#issuecomment-3846939842) in [Drive-for-Java/support](https://github.com/Drive-for-Java/support)
+9. 🔒 Closed issue [#31](https://github.com/Drive-for-Java/support/issues/31) in [Drive-for-Java/support](https://github.com/Drive-for-Java/support)
 10. 🔒 Closed issue [#21](https://github.com/Drive-for-Java/support/issues/21) in [Drive-for-Java/support](https://github.com/Drive-for-Java/support)
 <!--END_SECTION:activity-->
 
