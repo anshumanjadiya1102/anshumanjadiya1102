@@ -32,6 +32,7 @@ Repos:
 * <a href="https://github.com/anshumanjadiya1102/bot">anshumanjadiya1102/bot: ★2</a>
 * <a href="https://github.com/anshumanjadiya1102/NovaRise-SVG-text-builder-">anshumanjadiya1102/NovaRise-SVG-text-builder-: ★2</a>
 * <a href="https://github.com/anshumanjadiya1102/gitanimals">anshumanjadiya1102/gitanimals: ★2</a>
+* <a href="https://github.com/UmashankarGouda/devops-capstone-retail-webapp">UmashankarGouda/devops-capstone-retail-webapp: ★2</a>
 * <a href="https://github.com/anshumanjadiya1102/introduction-to-git-and-github-ebook">anshumanjadiya1102/introduction-to-git-and-github-ebook: ★1</a>
 * <a href="https://github.com/anshumanjadiya1102/opensocial">anshumanjadiya1102/opensocial: ★1</a>
 * <a href="https://github.com/anshumanjadiya1102/start-here-guidelines">anshumanjadiya1102/start-here-guidelines: ★1</a>
