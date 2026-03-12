@@ -18,6 +18,7 @@ Repos:
 * <a href="https://github.com/anshumanjadiya1102/copyparty">anshumanjadiya1102/copyparty: ★3</a>
 * <a href="https://github.com/anshumanjadiya1102/JavaFX-learning">anshumanjadiya1102/JavaFX-learning: ★3</a>
 * <a href="https://github.com/anshumanjadiya1102/-.github">anshumanjadiya1102/-.github: ★3</a>
+* <a href="https://github.com/UmashankarGouda/devops-capstone-retail-webapp">UmashankarGouda/devops-capstone-retail-webapp: ★3</a>
 * <a href="https://github.com/anshumanjadiya1102/Hacktoberfest2025">anshumanjadiya1102/Hacktoberfest2025: ★2</a>
 * <a href="https://github.com/anshumanjadiya1102/demos-java">anshumanjadiya1102/demos-java: ★2</a>
 * <a href="https://github.com/anshumanjadiya1102/ai-recruiter">anshumanjadiya1102/ai-recruiter: ★2</a>
@@ -32,7 +33,6 @@ Repos:
 * <a href="https://github.com/anshumanjadiya1102/bot">anshumanjadiya1102/bot: ★2</a>
 * <a href="https://github.com/anshumanjadiya1102/NovaRise-SVG-text-builder-">anshumanjadiya1102/NovaRise-SVG-text-builder-: ★2</a>
 * <a href="https://github.com/anshumanjadiya1102/gitanimals">anshumanjadiya1102/gitanimals: ★2</a>
-* <a href="https://github.com/UmashankarGouda/devops-capstone-retail-webapp">UmashankarGouda/devops-capstone-retail-webapp: ★2</a>
 * <a href="https://github.com/anshumanjadiya1102/introduction-to-git-and-github-ebook">anshumanjadiya1102/introduction-to-git-and-github-ebook: ★1</a>
 * <a href="https://github.com/anshumanjadiya1102/opensocial">anshumanjadiya1102/opensocial: ★1</a>
 * <a href="https://github.com/anshumanjadiya1102/start-here-guidelines">anshumanjadiya1102/start-here-guidelines: ★1</a>
