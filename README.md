@@ -216,17 +216,17 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)<br>
 <img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Jokes Card" align="right" width="300" height="180"/>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-87%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-88%20hrs%2019%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-85.85%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-85.87%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 236.7 kB Used in GitHub's Storage 
+> 📦 238.0 kB Used in GitHub's Storage 
  > 
-> 🏆 90 Contributions in the Year 2026
+> 🏆 91 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -237,21 +237,21 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                315 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
-🌆 Daytime                1924 commits        ████████████████░░░░░░░░░   64.65 % 
+🌞 Morning                316 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+🌆 Daytime                1924 commits        ████████████████░░░░░░░░░   64.63 % 
 🌃 Evening                737 commits         ██████░░░░░░░░░░░░░░░░░░░   24.76 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   1051 commits        █████████░░░░░░░░░░░░░░░░   35.32 % 
-Tuesday                  235 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+Monday                   1051 commits        █████████░░░░░░░░░░░░░░░░   35.30 % 
+Tuesday                  235 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
 Wednesday                295 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-Thursday                 285 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
-Friday                   316 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+Thursday                 285 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+Friday                   317 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
 Saturday                 420 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-Sunday                   374 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+Sunday                   374 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
 ```
 
 
@@ -261,16 +261,16 @@ Sunday                   374 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JSON                     36 mins             █████████████████████░░░░   85.75 % 
-Other                    5 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+JSON                     29 mins             █████████████████████░░░░   83.14 % 
+Other                    5 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
 
 🔥 Editors: 
-Chrome                   42 mins             █████████████████████████   100.00 % 
+Chrome                   35 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Drive-for-java.github.io 31 mins             ██████████████████░░░░░░░   73.84 % 
-support                  10 mins             ██████░░░░░░░░░░░░░░░░░░░   25.99 % 
-community                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Drive-for-java.github.io 24 mins             █████████████████░░░░░░░░   69.00 % 
+support                  10 mins             ████████░░░░░░░░░░░░░░░░░   30.80 % 
+community                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -290,7 +290,7 @@ Python                   4 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/anshumanjadiya1102/anshumanjadiya1102/main/assets/bar_graph.png)
 
 
- Last Updated on 13/03/2026 03:19:28 UTC
+ Last Updated on 15/03/2026 03:39:03 UTC
 <!--END_SECTION:waka-->
 <br><br><br><br><br>
 <div align=center>
