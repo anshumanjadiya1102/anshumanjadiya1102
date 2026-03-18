@@ -31,7 +31,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 581 times)\n2. readme.md (used 474 times)\n3. add (used 162 times)\n4. updated (used 146 times)\n5. readme (used 130 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 581 times)\n2. readme.md (used 474 times)\n3. add (used 162 times)\n4. updated (used 147 times)\n5. readme (used 130 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -138,5 +138,12 @@
     "desc": "I committed on Friday the 13th, One… By One…",
     "body": "Commits:\n\n- <a href=\"https://github.com/anshumanjadiya1102/anshumanjadiya1102/commit/c24b2c0aa4c04ea0c900ffc444d38b8981eadd6c\">c24b2c0</a>",
     "image": "https://my-badges.github.io/my-badges/friday-13.png"
+  },
+  {
+    "id": "st-patricks-day",
+    "tier": 0,
+    "desc": "I committed on St. Patrick's Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/anshumanjadiya1102/anshumanjadiya1102/commit/769288385e079a03f213edc1e0b97f4c584ee7fb\">7692883</a>",
+    "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
   }
 ]

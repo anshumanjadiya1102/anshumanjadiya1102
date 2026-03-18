@@ -512,6 +512,7 @@ Total Score: 4065 <br>
 <a href="my-badges/morning-commits.md"><img src="https://my-badges.github.io/my-badges/morning-commits.png" alt="I commit in the morning." title="I commit in the morning." width="64"></a>
 <a href="my-badges/evening-commits.md"><img src="https://my-badges.github.io/my-badges/evening-commits.png" alt="I commit in the evening." title="I commit in the evening." width="64"></a>
 <a href="my-badges/friday-13.md"><img src="https://my-badges.github.io/my-badges/friday-13.png" alt="I committed on Friday the 13th, One… By One…" title="I committed on Friday the 13th, One… By One…" width="64"></a>
+<a href="my-badges/st-patricks-day.md"><img src="https://my-badges.github.io/my-badges/st-patricks-day.png" alt="I committed on St. Patrick&apos;s Day!" title="I committed on St. Patrick&apos;s Day!" width="64"></a>
 <!-- my-badges end -->
 </div>
 
