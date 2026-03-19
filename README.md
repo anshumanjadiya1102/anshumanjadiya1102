@@ -216,17 +216,17 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)<br>
 <img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Jokes Card" align="right" width="300" height="180"/>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-88%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-88%20hrs%2026%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-85.89%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-85.91%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 229.8 kB Used in GitHub's Storage 
+> 📦 230.9 kB Used in GitHub's Storage 
  > 
-> 🏆 92 Contributions in the Year 2026
+> 🏆 93 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -237,17 +237,17 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                317 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-🌆 Daytime                1924 commits        ████████████████░░░░░░░░░   64.61 % 
-🌃 Evening                737 commits         ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
+🌞 Morning                318 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
+🌆 Daytime                1924 commits        ████████████████░░░░░░░░░   64.59 % 
+🌃 Evening                737 commits         ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   1051 commits        █████████░░░░░░░░░░░░░░░░   35.29 % 
-Tuesday                  235 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-Wednesday                295 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+Monday                   1051 commits        █████████░░░░░░░░░░░░░░░░   35.28 % 
+Tuesday                  236 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+Wednesday                295 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
 Thursday                 285 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
 Friday                   317 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
 Saturday                 420 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
@@ -261,16 +261,16 @@ Sunday                   375 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JSON                     29 mins             █████████████████░░░░░░░░   69.31 % 
-Other                    13 mins             ████████░░░░░░░░░░░░░░░░░   30.69 % 
+Other                    43 mins             █████████████████░░░░░░░░   69.04 % 
+JSON                     19 mins             ████████░░░░░░░░░░░░░░░░░   30.96 % 
 
 🔥 Editors: 
-Chrome                   42 mins             █████████████████████████   100.00 % 
+Chrome                   1 hr 3 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Drive-for-java.github.io 31 mins             ███████████████████░░░░░░   74.30 % 
-support                  10 mins             ██████░░░░░░░░░░░░░░░░░░░   25.54 % 
-community                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Drive-for-java.github.io 1 hr 2 mins         ████████████████████████░   97.68 % 
+support                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+anshumanjadiya1102       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -290,7 +290,7 @@ Python                   4 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/anshumanjadiya1102/anshumanjadiya1102/main/assets/bar_graph.png)
 
 
- Last Updated on 17/03/2026 03:21:26 UTC
+ Last Updated on 19/03/2026 03:28:14 UTC
 <!--END_SECTION:waka-->
 <br><br><br><br><br>
 <div align=center>
