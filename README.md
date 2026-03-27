@@ -216,17 +216,17 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)<br>
 <img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Jokes Card" align="right" width="300" height="180"/>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-89%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-89%20hrs%2020%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-46-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-85.95%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-85.97%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 234.6 kB Used in GitHub's Storage 
+> 📦 235.8 kB Used in GitHub's Storage 
  > 
-> 🏆 96 Contributions in the Year 2026
+> 🏆 97 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -237,21 +237,21 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                321 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
-🌆 Daytime                1924 commits        ████████████████░░░░░░░░░   64.52 % 
+🌞 Morning                322 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+🌆 Daytime                1924 commits        ████████████████░░░░░░░░░   64.50 % 
 🌃 Evening                737 commits         ██████░░░░░░░░░░░░░░░░░░░   24.71 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   1052 commits        █████████░░░░░░░░░░░░░░░░   35.28 % 
+Monday                   1052 commits        █████████░░░░░░░░░░░░░░░░   35.27 % 
 Tuesday                  236 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
-Wednesday                295 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+Wednesday                296 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
 Thursday                 286 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
 Friday                   317 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
-Saturday                 421 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-Sunday                   375 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+Saturday                 421 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+Sunday                   375 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
 ```
 
 
@@ -261,15 +261,17 @@ Sunday                   375 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    38 mins             █████████████████████████   99.25 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+JSON                     14 mins             ███████████████████░░░░░░   74.68 % 
+Other                    5 mins              ██████░░░░░░░░░░░░░░░░░░░   25.32 % 
 
 🔥 Editors: 
-Chrome                   38 mins             █████████████████████████   100.00 % 
+Chrome                   19 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Drive-for-java.github.io 38 mins             █████████████████████████   99.78 % 
-anshumanjadiya1102       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+MyCMD                    12 mins             ███████████████░░░░░░░░░░   60.10 % 
+Drive-for-java.github.io 4 mins              ██████░░░░░░░░░░░░░░░░░░░   24.90 % 
+RecipeManager            2 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+discord-token-grabber    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -289,7 +291,7 @@ Python                   4 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/anshumanjadiya1102/anshumanjadiya1102/main/assets/bar_graph.png)
 
 
- Last Updated on 25/03/2026 03:27:54 UTC
+ Last Updated on 27/03/2026 03:40:11 UTC
 <!--END_SECTION:waka-->
 <br><br><br><br><br>
 <div align=center>
