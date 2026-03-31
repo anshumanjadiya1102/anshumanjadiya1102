@@ -23,6 +23,7 @@
 * <a href="https://github.com/recodehive/.github/issues/7#issuecomment-3368148862">❤️</a>
 * <a href="https://github.com/Drive-for-Java/MyCMD/issues/10#issuecomment-3393884450">👍</a>
 * <a href="https://github.com/anshumanjadiya1102/anshumanjadiya1102/pull/7#issuecomment-3497202860">👀</a>
+* <a href="https://github.com/open-devhub/pandabot/pull/15#issuecomment-4152406048">😄</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
