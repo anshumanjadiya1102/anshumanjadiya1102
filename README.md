@@ -216,15 +216,17 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)<br>
 <img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Jokes Card" align="right" width="300" height="180"/>
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-48-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-44%20hrs%2049%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-51-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-71.59%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 236.1 kB Used in GitHub's Storage 
+> 📦 236.4 kB Used in GitHub's Storage 
  > 
-> 🏆 174 Contributions in the Year 2026
+> 🏆 175 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -232,6 +234,48 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
  > 
 > 🔑 2 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                372 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+🌆 Daytime                1831 commits        ████████████████░░░░░░░░░   63.14 % 
+🌃 Evening                697 commits         ██████░░░░░░░░░░░░░░░░░░░   24.03 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   1023 commits        █████████░░░░░░░░░░░░░░░░   35.28 % 
+Tuesday                  224 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+Wednesday                301 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+Thursday                 287 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+Friday                   300 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Saturday                 402 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
+Sunday                   363 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -249,7 +293,7 @@ Python                   4 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/anshumanjadiya1102/anshumanjadiya1102/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 03:35:27 UTC
+ Last Updated on 08/08/2026 02:33:50 UTC
 <!--END_SECTION:waka-->
 <br><br><br><br><br>
 <div align=center>
