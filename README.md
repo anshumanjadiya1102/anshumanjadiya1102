@@ -99,7 +99,7 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
 
 ### Recent Activites
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#15](https://github.com/open-devhub/pandabot/pull/15) in [open-devhub/pandabot](https://github.com/open-devhub/pandabot)
+1. 🎉 Merged PR [#87](https://github.com/CodingContributorsLair/Get-Started-Here/pull/87) in [CodingContributorsLair/Get-Started-Here](https://github.com/CodingContributorsLair/Get-Started-Here)
 2. 🗣 Commented on [#15](https://github.com/open-devhub/pandabot/pull/15#issuecomment-4152495269) in [open-devhub/pandabot](https://github.com/open-devhub/pandabot)
 3. 🗣 Commented on [#15](https://github.com/open-devhub/pandabot/pull/15#issuecomment-4152408652) in [open-devhub/pandabot](https://github.com/open-devhub/pandabot)
 4. 🗣 Commented on [#15](https://github.com/open-devhub/pandabot/pull/15#issuecomment-4152406048) in [open-devhub/pandabot](https://github.com/open-devhub/pandabot)
