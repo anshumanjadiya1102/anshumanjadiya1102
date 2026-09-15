@@ -218,15 +218,15 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-44%20hrs%2049%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-56.66%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-87.39%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 235.8 kB Used in GitHub's Storage 
+> 📦 236.2 kB Used in GitHub's Storage 
  > 
-> 🏆 212 Contributions in the Year 2026
+> 🏆 213 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -237,21 +237,21 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                383 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
-🌆 Daytime                1462 commits        ███████████████░░░░░░░░░░   58.43 % 
-🌃 Evening                657 commits         ███████░░░░░░░░░░░░░░░░░░   26.26 % 
+🌞 Morning                434 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+🌆 Daytime                1617 commits        ██████████████░░░░░░░░░░░   58.00 % 
+🌃 Evening                737 commits         ███████░░░░░░░░░░░░░░░░░░   26.43 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   740 commits         ███████░░░░░░░░░░░░░░░░░░   29.58 % 
-Tuesday                  207 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
-Wednesday                290 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
-Thursday                 283 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
-Friday                   269 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
-Saturday                 367 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-Sunday                   346 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+Monday                   785 commits         ███████░░░░░░░░░░░░░░░░░░   28.16 % 
+Tuesday                  251 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+Wednesday                308 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+Thursday                 301 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
+Friday                   326 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
+Saturday                 425 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+Sunday                   392 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
 ```
 
 
@@ -293,7 +293,7 @@ Markdown                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/anshumanjadiya1102/anshumanjadiya1102/main/assets/bar_graph.png)
 
 
- Last Updated on 14/09/2026 03:58:30 UTC
+ Last Updated on 15/09/2026 03:58:25 UTC
 <!--END_SECTION:waka-->
 <br><br><br><br><br>
 <div align=center>
