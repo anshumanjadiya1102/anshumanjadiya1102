@@ -218,15 +218,15 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-44%20hrs%2049%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-59-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-57-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-87.29%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-87.31%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 236.1 kB Used in GitHub's Storage 
+> 📦 236.4 kB Used in GitHub's Storage 
  > 
-> 🏆 229 Contributions in the Year 2026
+> 🏆 230 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -237,20 +237,20 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                450 commits         █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
-🌆 Daytime                1269 commits        █████████████░░░░░░░░░░░░   51.67 % 
-🌃 Evening                737 commits         ████████░░░░░░░░░░░░░░░░░   30.01 % 
+🌞 Morning                451 commits         █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
+🌆 Daytime                1269 commits        █████████████░░░░░░░░░░░░   51.65 % 
+🌃 Evening                737 commits         ████████░░░░░░░░░░░░░░░░░   30.00 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   446 commits         █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
+Monday                   446 commits         █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
 Tuesday                  254 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
 Wednesday                309 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
-Thursday                 303 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+Thursday                 304 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
 Friday                   323 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-Saturday                 427 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+Saturday                 427 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
 Sunday                   394 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
 ```
 
@@ -279,11 +279,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Java** 
 
 ```text
-Java                     11 repos            ████████░░░░░░░░░░░░░░░░░   30.56 % 
-JavaScript               9 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-HTML                     8 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-Markdown                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Java                     11 repos            ████████░░░░░░░░░░░░░░░░░   31.43 % 
+JavaScript               9 repos             ██████░░░░░░░░░░░░░░░░░░░   25.71 % 
+HTML                     8 repos             ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Markdown                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 ```
 
 
@@ -293,7 +293,7 @@ Markdown                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/anshumanjadiya1102/anshumanjadiya1102/main/assets/bar_graph.png)
 
 
- Last Updated on 01/10/2026 04:47:24 UTC
+ Last Updated on 02/10/2026 04:38:39 UTC
 <!--END_SECTION:waka-->
 <br><br><br><br><br>
 <div align=center>
