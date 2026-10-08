@@ -218,15 +218,15 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-44%20hrs%2049%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-69-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-71-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-87.36%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-87.38%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 238.2 kB Used in GitHub's Storage 
+> 📦 238.6 kB Used in GitHub's Storage 
  > 
-> 🏆 235 Contributions in the Year 2026
+> 🏆 236 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -237,21 +237,21 @@ but also playful, creative, and beautifully crafted 🚀. <br><br><br><br><br><b
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                456 commits         █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
-🌆 Daytime                1272 commits        █████████████░░░░░░░░░░░░   51.62 % 
-🌃 Evening                736 commits         ███████░░░░░░░░░░░░░░░░░░   29.87 % 
+🌞 Morning                457 commits         █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
+🌆 Daytime                1272 commits        █████████████░░░░░░░░░░░░   51.60 % 
+🌃 Evening                736 commits         ███████░░░░░░░░░░░░░░░░░░   29.86 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   447 commits         █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
-Tuesday                  255 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
-Wednesday                312 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-Thursday                 304 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-Friday                   324 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-Saturday                 428 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
-Sunday                   394 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
+Monday                   447 commits         █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
+Tuesday                  255 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Wednesday                313 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+Thursday                 304 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+Friday                   324 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+Saturday                 428 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+Sunday                   394 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
 ```
 
 
@@ -279,11 +279,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Java** 
 
 ```text
-Java                     11 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
-HTML                     8 repos             ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
-JavaScript               7 repos             █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-Markdown                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Java                     11 repos            █████████░░░░░░░░░░░░░░░░   34.38 % 
+HTML                     8 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+JavaScript               7 repos             █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Markdown                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 ```
 
 
@@ -293,7 +293,7 @@ Markdown                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/anshumanjadiya1102/anshumanjadiya1102/main/assets/bar_graph.png)
 
 
- Last Updated on 07/10/2026 04:55:05 UTC
+ Last Updated on 08/10/2026 05:05:28 UTC
 <!--END_SECTION:waka-->
 <br><br><br><br><br>
 <div align=center>
