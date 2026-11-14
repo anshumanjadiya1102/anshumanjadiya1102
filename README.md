@@ -502,6 +502,7 @@ Total Score: 4065 <br>
 <a href="my-badges/pr-collaboration-20.md"><img src="https://my-badges.github.io/my-badges/pr-collaboration-20.png" alt="I have participated in pull requests with 20 or more people" title="I have participated in pull requests with 20 or more people" width="64"></a>
 <a href="my-badges/pr-collaboration-25.md"><img src="https://my-badges.github.io/my-badges/pr-collaboration-25.png" alt="I have participated in pull requests with 25 or more people" title="I have participated in pull requests with 25 or more people" width="64"></a>
 <a href="my-badges/self-upvote.md"><img src="https://my-badges.github.io/my-badges/self-upvote.png" alt="I liked my own comment so much that I upvoted it." title="I liked my own comment so much that I upvoted it." width="64"></a>
+<a href="my-badges/this-is-fine.md"><img src="https://my-badges.github.io/my-badges/this-is-fine.png" alt="I merged a PR with failing checks" title="I merged a PR with failing checks" width="64"></a>
 <!-- my-badges end -->
 </div>
 
